@@ -47,6 +47,12 @@
           "type": "color"
         }
       },
+      "gold": {
+        "5": {
+          "value": "#BE9D74",
+          "type": "color"
+        }
+      },
       "red": {
         "0": {
           "value": "#fff4ef",
@@ -1255,6 +1261,31 @@
         "value": "linear-gradient(120deg, #3959FD 0%, #03ACFD 60%, #00FFE0 100%)",
         "type": "color",
         "description": "浅色背景色\n"
+      },
+      "blue2cyan": {
+        "value": "linear-gradient(90deg, #93A5CF 0%, #E4EFE9 100%)",
+        "type": "color",
+        "description": "浅色背景色\n"
+      },
+      "blue2yellow": {
+        "value": "linear-gradient(90deg, #C0DDFF 0%, #FFF3E2 100%)",
+        "type": "color",
+        "description": "浅色背景色\n"
+      },
+      "gold": {
+        "value": "linear-gradient(90deg, #A99664 0%, #F1DAB1 100%)",
+        "type": "color",
+        "description": "浅色背景色\n"
+      },
+      "gold2": {
+        "value": "linear-gradient(90deg, #AA9765 0%, #5A552B 100%)",
+        "type": "color",
+        "description": "浅色背景色\n"
+      },
+      "blue": {
+        "value": "linear-gradient(90deg, #6798FC 0%, #93D4F8 100%)",
+        "type": "color",
+        "description": "浅色背景色\n"
       }
     },
     "dimension": {
@@ -1386,6 +1417,10 @@
       },
       "32": {
         "value": "32px",
+        "type": "borderRadius"
+      },
+      "200": {
+        "value": "200px",
         "type": "borderRadius"
       }
     },
@@ -2277,6 +2312,16 @@
         },
         "width": {
           "value": "1920px",
+          "type": "sizing"
+        }
+      },
+      "intentcard": {
+        "height": {
+          "value": "160px",
+          "type": "sizing"
+        },
+        "width": {
+          "value": "283",
           "type": "sizing"
         }
       }
