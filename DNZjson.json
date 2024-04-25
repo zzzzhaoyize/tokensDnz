@@ -2322,6 +2322,24 @@
         "value": "{false}",
         "type": "boolean"
       }
+    },
+    "autopilot": {
+      "borderradius": {
+        "value": "{borderRadius.12}",
+        "type": "borderRadius"
+      },
+      "padding": {
+        "value": "{dimension.8}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{dimension.8}",
+        "type": "spacing"
+      },
+      "shadow": {
+        "value": "{elevation.herald.08}",
+        "type": "boxShadow"
+      }
     }
   },
   "background": {
