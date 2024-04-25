@@ -1282,6 +1282,11 @@
         "type": "color",
         "description": "浅色背景色\n"
       },
+      "goldv": {
+        "value": "linear-gradient(180deg, #ECD9B9 0%, #BE9D74 100%)",
+        "type": "color",
+        "description": "浅色背景色\n"
+      },
       "blue": {
         "value": "linear-gradient(90deg, #6798FC 0%, #93D4F8 100%)",
         "type": "color",
@@ -2179,7 +2184,7 @@
     "intent_distribution": {
       "gold": {
         "bg": {
-          "value": "#",
+          "value": "{gradient.goldv}",
           "type": "color"
         },
         "arrow_bg": {
@@ -2203,12 +2208,38 @@
         "value": "{elevation.herald.05}",
         "type": "boxShadow"
       },
-      "height": {
-        "value": "18px",
-        "type": "sizing"
+      "blue": {
+        "shadow": {
+          "value": "none",
+          "type": "boxShadow"
+        },
+        "height": {
+          "value": "{dimension.40}",
+          "type": "sizing"
+        },
+        "bg": {
+          "value": "{basic.grey.1}",
+          "type": "color"
+        },
+        "padding": {
+          "value": "{dimension.4}",
+          "type": "spacing"
+        },
+        "padding_right": {
+          "value": "{dimension.20}",
+          "type": "spacing"
+        },
+        "gap": {
+          "value": "{dimension.8}",
+          "type": "spacing"
+        }
       },
       "width": {
         "value": "32px",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "18px",
         "type": "sizing"
       }
     },
@@ -2263,6 +2294,26 @@
       }
     },
     "structure-bottom": {
+      "ture": {
+        "value": "{true}",
+        "type": "boolean"
+      },
+      "false": {
+        "value": "{false}",
+        "type": "boolean"
+      }
+    },
+    "structure-left": {
+      "ture": {
+        "value": "{true}",
+        "type": "boolean"
+      },
+      "false": {
+        "value": "{false}",
+        "type": "boolean"
+      }
+    },
+    "structure-right": {
       "ture": {
         "value": "{true}",
         "type": "boolean"
