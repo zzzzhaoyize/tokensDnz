@@ -2410,15 +2410,61 @@
     }
   },
   "focus": {
-    "gold": {
-      "bg": {
-        "value": "{gradient.gold3}",
-        "type": "color"
+    "text_focus": {
+      "gold": {
+        "bg": {
+          "value": "{gradient.gold3}",
+          "type": "color"
+        }
+      },
+      "shadow": {
+        "value": "{elevation.herald.02}",
+        "type": "boxShadow"
+      },
+      "padding_v": {
+        "value": "{dimension.8}",
+        "type": "spacing"
+      },
+      "padding_h": {
+        "value": "{dimension.16}",
+        "type": "spacing"
+      },
+      "borderradius": {
+        "value": "{borderRadius.12}",
+        "type": "borderRadius"
       }
     },
-    "shadow": {
-      "value": "{elevation.herald.01}",
-      "type": "boxShadow"
+    "structure-main": {
+      "ture": {
+        "value": "{true}",
+        "type": "boolean"
+      },
+      "false": {
+        "value": "{false}",
+        "type": "boolean"
+      }
+    },
+    "text_focus_none": {
+      "padding_v": {
+        "value": "none",
+        "type": "spacing"
+      },
+      "padding_h": {
+        "value": "none",
+        "type": "spacing"
+      },
+      "bg": {
+        "value": "none",
+        "type": "color"
+      },
+      "borderradius": {
+        "value": "none",
+        "type": "borderRadius"
+      },
+      "shadow": {
+        "value": "none",
+        "type": "boxShadow"
+      }
     }
   },
   "$themes": [
@@ -2427,8 +2473,7 @@
       "name": "dark",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "basic": "source",
-        "focus": "disabled"
+        "basic": "source"
       },
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
