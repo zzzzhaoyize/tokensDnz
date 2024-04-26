@@ -1286,6 +1286,11 @@
         "type": "color",
         "description": "浅色背景色\n"
       },
+      "gold3": {
+        "value": "linear-gradient(90deg, #EEC981 0%, #F5DEB3 100%)",
+        "type": "color",
+        "description": "浅色背景色\n"
+      },
       "goldv": {
         "value": "linear-gradient(180deg, #ECD9B9 0%, #BE9D74 100%)",
         "type": "color",
@@ -2404,13 +2409,26 @@
       }
     }
   },
+  "focus": {
+    "gold": {
+      "bg": {
+        "value": "{gradient.gold3}",
+        "type": "color"
+      }
+    },
+    "shadow": {
+      "value": "{elevation.herald.01}",
+      "type": "boxShadow"
+    }
+  },
   "$themes": [
     {
       "id": "65300e9fbeadd46524a1f9df3f25570104206746",
       "name": "dark",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "basic": "source"
+        "basic": "source",
+        "focus": "disabled"
       },
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
@@ -2459,7 +2477,8 @@
       "basic",
       "button",
       "intent distribution",
-      "background"
+      "background",
+      "focus"
     ]
   }
 }
