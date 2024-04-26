@@ -2432,6 +2432,12 @@
       "borderradius": {
         "value": "{borderRadius.12}",
         "type": "borderRadius"
+      },
+      "blue": {
+        "bg": {
+          "value": "{gradient.blue}",
+          "type": "color"
+        }
       }
     },
     "structure-main": {
