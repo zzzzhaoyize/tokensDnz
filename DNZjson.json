@@ -2383,9 +2383,19 @@
           "type": "color"
         }
       },
-      "borderradius": {
-        "value": "{borderRadius.16}",
-        "type": "borderRadius"
+      "intentcard": {
+        "borderradius": {
+          "value": "{borderRadius.16}",
+          "type": "borderRadius"
+        },
+        "height": {
+          "value": "160px",
+          "type": "sizing"
+        },
+        "width": {
+          "value": "283",
+          "type": "sizing"
+        }
       },
       "wallpaper": {
         "height": {
@@ -2395,23 +2405,11 @@
         "width": {
           "value": "1920px",
           "type": "sizing"
-        }
-      },
-      "intentcard": {
-        "height": {
-          "value": "160px",
-          "type": "sizing"
         },
-        "width": {
-          "value": "283",
-          "type": "sizing"
+        "borderradius": {
+          "value": "none",
+          "type": "borderRadius"
         }
-      }
-    },
-    "wallpaper": {
-      "borderradius": {
-        "value": "none",
-        "type": "borderRadius"
       }
     }
   },
