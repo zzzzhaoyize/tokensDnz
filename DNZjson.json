@@ -2407,6 +2407,12 @@
           "type": "sizing"
         }
       }
+    },
+    "wallpaper": {
+      "borderradius": {
+        "value": "none",
+        "type": "borderRadius"
+      }
     }
   },
   "focus": {
