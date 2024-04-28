@@ -48,6 +48,10 @@
         }
       },
       "gold": {
+        "1": {
+          "value": "#DFD4D2",
+          "type": "color"
+        },
         "5": {
           "value": "#BE9D74",
           "type": "color"
@@ -2104,6 +2108,12 @@
         "type": "boxShadow"
       }
     },
+    "speech bubbles": {
+      "shadow": {
+        "value": "{elevation.herald.09}",
+        "type": "boxShadow"
+      }
+    },
     "service_use_history": {
       "bg": {
         "value": "{opacity.white.32}",
@@ -2478,6 +2488,10 @@
     }
   },
   "speech bubbles": {
+    "16": {
+      "value": "{borderRadius.16}",
+      "type": "borderRadius"
+    },
     "structure-left": {
       "ture": {
         "value": "{true}",
@@ -2526,6 +2540,34 @@
       "false": {
         "value": "{false}",
         "type": "boolean"
+      }
+    },
+    "bg": {
+      "gold": {
+        "me": {
+          "value": "{gradient.gold}",
+          "type": "color"
+        },
+        "other": {
+          "value": "{basic.dark-blue.7}",
+          "type": "color"
+        }
+      },
+      "blue": {
+        "me": {
+          "value": "{basic.grey.0}",
+          "type": "color"
+        },
+        "other": {
+          "value": "{basic.gold.1}",
+          "type": "color"
+        }
+      }
+    },
+    "speech bubbles": {
+      "shadow": {
+        "value": "{elevation.herald.01}",
+        "type": "boxShadow"
       }
     }
   },
