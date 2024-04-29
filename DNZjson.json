@@ -2602,38 +2602,6 @@
         "type": "boolean"
       }
     },
-    "service_use_main": {
-      "gold": {
-        "border": {
-          "value": {
-            "style": "solid",
-            "width": "5",
-            "color": "{gradient.gold2}"
-          },
-          "type": "border"
-        }
-      },
-      "blue": {
-        "border": {
-          "value": {
-            "style": "solid",
-            "width": "5",
-            "color": "{gradient.blue2yellow}"
-          },
-          "type": "border"
-        }
-      },
-      "shadow": {
-        "value": "{elevation.herald.09}",
-        "type": "boxShadow"
-      }
-    },
-    "speech bubbles": {
-      "shadow": {
-        "value": "{elevation.herald.09}",
-        "type": "boxShadow"
-      }
-    },
     "button": {
       "height": {
         "value": "54px",
@@ -2642,6 +2610,10 @@
       "width": {
         "value": "220px",
         "type": "sizing"
+      },
+      "shadow": {
+        "value": "none",
+        "type": "boxShadow"
       },
       "bg": {
         "blue": {
@@ -2652,10 +2624,26 @@
           "value": "{basic.blue.2}",
           "type": "color"
         },
+        "black": {
+          "value": "{opacity.black.100}",
+          "type": "color"
+        },
+        "black_hover": {
+          "value": "{basic.grey.8}",
+          "type": "color"
+        },
         "white": {
           "value": "{opacity.white.48}",
           "type": "color"
         }
+      },
+      "none": {
+        "value": {
+          "style": "solid",
+          "width": "0",
+          "color": "none"
+        },
+        "type": "border"
       },
       "text": {
         "white": {
@@ -2676,34 +2664,64 @@
           "value": "{basic.gold.7}",
           "type": "color"
         }
-      }
-    },
-    "service_use_history": {
-      "border": {
-        "value": {
-          "style": "solid",
-          "width": "0",
-          "color": "none"
-        },
-        "type": "border"
       },
-      "shadow": {
-        "value": "none",
-        "type": "boxShadow"
-      }
-    },
-    "sendbutton": {
-      "border": {
-        "value": {
-          "style": "solid",
-          "width": "0",
-          "color": "none"
+      "cn": {
+        "12": {
+          "value": {
+            "fontFamily": "{fontFamilies.pingfang-sc}",
+            "fontWeight": "{fontWeights.pingfang-sc-0}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
         },
-        "type": "border"
-      },
-      "shadow": {
-        "value": "{elevation.herald.02}",
-        "type": "boxShadow"
+        "14": {
+          "value": {
+            "fontFamily": "{fontFamilies.pingfang-sc}",
+            "fontWeight": "{fontWeights.pingfang-sc-0}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.2}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "16": {
+          "value": {
+            "fontFamily": "{fontFamilies.pingfang-sc}",
+            "fontWeight": "{fontWeights.pingfang-sc-1}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.3}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "18": {
+          "value": {
+            "fontFamily": "{fontFamilies.pingfang-sc}",
+            "fontWeight": "{fontWeights.pingfang-sc-0}",
+            "lineHeight": "{lineHeights.4}",
+            "fontSize": "{fontSize.4}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
       }
     },
     "borderradius": {
