@@ -2645,6 +2645,10 @@
         "gold": {
           "value": "{basic.gold.7}",
           "type": "color"
+        },
+        "black": {
+          "value": "{opacity.black.100}",
+          "type": "color"
         }
       },
       "icon": {
@@ -2654,6 +2658,10 @@
         },
         "gold": {
           "value": "{basic.gold.7}",
+          "type": "color"
+        },
+        "black": {
+          "value": "{opacity.black.100}",
           "type": "color"
         }
       },
