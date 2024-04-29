@@ -2603,14 +2603,6 @@
       }
     },
     "button": {
-      "height": {
-        "value": "54px",
-        "type": "sizing"
-      },
-      "width": {
-        "value": "220px",
-        "type": "sizing"
-      },
       "shadow": {
         "value": "none",
         "type": "boxShadow"
@@ -2854,6 +2846,18 @@
       "40": {
         "value": "40px",
         "type": "spacing"
+      }
+    },
+    "width": {
+      "40": {
+        "value": "{dimension.40}",
+        "type": "sizing"
+      }
+    },
+    "height": {
+      "40": {
+        "value": "{dimension.40}",
+        "type": "sizing"
       }
     }
   },
