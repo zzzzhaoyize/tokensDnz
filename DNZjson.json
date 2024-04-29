@@ -2720,15 +2720,15 @@
         }
       },
       "hover": {
-        "blue": {
+        "blue_bg": {
           "value": "{basic.blue.2}",
           "type": "color"
         },
-        "black": {
+        "black_bg": {
           "value": "{basic.grey.8}",
           "type": "color"
         },
-        "white": {
+        "white_bg": {
           "value": "{opacity.white.64}",
           "type": "color"
         }
