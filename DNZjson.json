@@ -2620,16 +2620,8 @@
           "value": "{gradient.blue}",
           "type": "color"
         },
-        "blue_hover": {
-          "value": "{basic.blue.2}",
-          "type": "color"
-        },
         "black": {
           "value": "{opacity.black.100}",
-          "type": "color"
-        },
-        "black_hover": {
-          "value": "{basic.grey.8}",
           "type": "color"
         },
         "white": {
@@ -2721,6 +2713,20 @@
             "textDecoration": "{textDecoration.none}"
           },
           "type": "typography"
+        }
+      },
+      "hover": {
+        "blue": {
+          "value": "{basic.blue.2}",
+          "type": "color"
+        },
+        "black": {
+          "value": "{basic.grey.8}",
+          "type": "color"
+        },
+        "white": {
+          "value": "{opacity.white.64}",
+          "type": "color"
         }
       }
     },
