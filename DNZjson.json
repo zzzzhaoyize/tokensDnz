@@ -2849,8 +2849,8 @@
       }
     },
     "width": {
-      "40": {
-        "value": "{dimension.40}",
+      "96": {
+        "value": "96px",
         "type": "sizing"
       }
     },
