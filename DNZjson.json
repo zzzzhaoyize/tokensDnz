@@ -2619,6 +2619,10 @@
         "white": {
           "value": "{opacity.white.48}",
           "type": "color"
+        },
+        "orange": {
+          "value": "{basic.orange.1}",
+          "type": "color"
         }
       },
       "none": {
@@ -2855,6 +2859,10 @@
       }
     },
     "height": {
+      "32": {
+        "value": "{dimension.32}",
+        "type": "sizing"
+      },
       "40": {
         "value": "{dimension.40}",
         "type": "sizing"
