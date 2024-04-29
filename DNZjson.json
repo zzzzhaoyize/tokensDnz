@@ -2571,13 +2571,218 @@
       }
     }
   },
+  "button(new)": {
+    "structure-left": {
+      "ture": {
+        "value": "{true}",
+        "type": "boolean"
+      },
+      "false": {
+        "value": "{false}",
+        "type": "boolean"
+      }
+    },
+    "structure-main": {
+      "ture": {
+        "value": "{true}",
+        "type": "boolean"
+      },
+      "false": {
+        "value": "{false}",
+        "type": "boolean"
+      }
+    },
+    "structure-right": {
+      "ture": {
+        "value": "{true}",
+        "type": "boolean"
+      },
+      "false": {
+        "value": "{false}",
+        "type": "boolean"
+      }
+    },
+    "structure-top": {
+      "ture": {
+        "value": "{true}",
+        "type": "boolean"
+      },
+      "false": {
+        "value": "{false}",
+        "type": "boolean"
+      }
+    },
+    "structure-bottom": {
+      "ture": {
+        "value": "{true}",
+        "type": "boolean"
+      },
+      "false": {
+        "value": "{false}",
+        "type": "boolean"
+      }
+    },
+    "service_use_main": {
+      "gold": {
+        "border": {
+          "value": {
+            "style": "solid",
+            "width": "5",
+            "color": "{gradient.gold2}"
+          },
+          "type": "border"
+        }
+      },
+      "blue": {
+        "border": {
+          "value": {
+            "style": "solid",
+            "width": "5",
+            "color": "{gradient.blue2yellow}"
+          },
+          "type": "border"
+        }
+      },
+      "padding": {
+        "value": "{dimension.8}",
+        "type": "spacing"
+      },
+      "padding_right": {
+        "value": "{dimension.24}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{dimension.24}",
+        "type": "spacing"
+      },
+      "gap_narrow": {
+        "value": "{dimension.12}",
+        "type": "spacing"
+      },
+      "shadow": {
+        "value": "{elevation.herald.09}",
+        "type": "boxShadow"
+      }
+    },
+    "speech bubbles": {
+      "shadow": {
+        "value": "{elevation.herald.09}",
+        "type": "boxShadow"
+      }
+    },
+    "button": {
+      "height": {
+        "value": "54px",
+        "type": "sizing"
+      },
+      "width": {
+        "value": "220px",
+        "type": "sizing"
+      },
+      "bg": {
+        "blue": {
+          "value": "{gradient.blue}",
+          "type": "color"
+        },
+        "blue_hover": {
+          "value": "{basic.blue.2}",
+          "type": "color"
+        },
+        "white": {
+          "value": "{opacity.white.48}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "white": {
+          "value": "{opacity.white.100}",
+          "type": "color"
+        },
+        "gold": {
+          "value": "{basic.gold.7}",
+          "type": "color"
+        }
+      }
+    },
+    "service_use_history": {
+      "border": {
+        "value": {
+          "style": "solid",
+          "width": "0",
+          "color": "none"
+        },
+        "type": "border"
+      },
+      "shadow": {
+        "value": "none",
+        "type": "boxShadow"
+      }
+    },
+    "sendbutton": {
+      "border": {
+        "value": {
+          "style": "solid",
+          "width": "0",
+          "color": "none"
+        },
+        "type": "border"
+      },
+      "shadow": {
+        "value": "{elevation.herald.02}",
+        "type": "boxShadow"
+      }
+    },
+    "borderradius": {
+      "0": {
+        "value": "0px",
+        "type": "borderRadius"
+      },
+      "4": {
+        "value": "4px",
+        "type": "borderRadius"
+      },
+      "8": {
+        "value": "8px",
+        "type": "borderRadius"
+      },
+      "12": {
+        "value": "12px",
+        "type": "borderRadius"
+      },
+      "16": {
+        "value": "16px",
+        "type": "borderRadius"
+      },
+      "20": {
+        "value": "20px",
+        "type": "borderRadius"
+      },
+      "24": {
+        "value": "24px",
+        "type": "borderRadius"
+      },
+      "28": {
+        "value": "28px",
+        "type": "borderRadius"
+      },
+      "32": {
+        "value": "32px",
+        "type": "borderRadius"
+      },
+      "200": {
+        "value": "200px",
+        "type": "borderRadius"
+      }
+    }
+  },
   "$themes": [
     {
       "id": "65300e9fbeadd46524a1f9df3f25570104206746",
       "name": "dark",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "basic": "source"
+        "basic": "source",
+        "button(new)": "disabled"
       },
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
@@ -2628,7 +2833,8 @@
       "intent distribution",
       "background",
       "focus",
-      "speech bubbles"
+      "speech bubbles",
+      "button(new)"
     ]
   }
 }
