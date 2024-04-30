@@ -2900,18 +2900,58 @@
         "type": "boolean"
       }
     },
-    "button": {
-      "shadow": {
-        "value": "none",
-        "type": "boxShadow"
-      },
-      "none": {
-        "value": {
-          "style": "solid",
-          "width": "0",
-          "color": "none"
+    "progress": {
+      "finishi": {
+        "shadow": {
+          "value": "none",
+          "type": "boxShadow"
         },
-        "type": "border"
+        "none": {
+          "value": {
+            "style": "solid",
+            "width": "0",
+            "color": "none"
+          },
+          "type": "border"
+        }
+      },
+      "unfinishi": {
+        "shadow": {
+          "value": "none",
+          "type": "boxShadow"
+        },
+        "none": {
+          "value": {
+            "style": "solid",
+            "width": "0",
+            "color": "none"
+          },
+          "type": "border"
+        }
+      },
+      "bg": {
+        "orange_finish": {
+          "value": "{basic.orange.6}",
+          "type": "color"
+        },
+        "orange_unfinishi": {
+          "value": "{basic.amber.0}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "white": {
+          "value": "{opacity.white.100}",
+          "type": "color"
+        },
+        "gold": {
+          "value": "{basic.orange.6}",
+          "type": "color"
+        },
+        "black": {
+          "value": "{opacity.black.64}",
+          "type": "color"
+        }
       },
       "cn": {
         "12": {
@@ -2969,32 +3009,6 @@
             "textDecoration": "{textDecoration.none}"
           },
           "type": "typography"
-        }
-      }
-    },
-    "progress": {
-      "bg": {
-        "orange_finish": {
-          "value": "{basic.orange.6}",
-          "type": "color"
-        },
-        "orange_unfinishi": {
-          "value": "{basic.amber.0}",
-          "type": "color"
-        }
-      },
-      "text": {
-        "white": {
-          "value": "{opacity.white.100}",
-          "type": "color"
-        },
-        "gold": {
-          "value": "{basic.orange.6}",
-          "type": "color"
-        },
-        "black": {
-          "value": "{opacity.black.64}",
-          "type": "color"
         }
       }
     },
@@ -3135,8 +3149,7 @@
       "name": "dark",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "basic": "source",
-        "progress": "disabled"
+        "basic": "source"
       },
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
