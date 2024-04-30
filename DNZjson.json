@@ -2907,7 +2907,11 @@
       },
       "bg": {
         "red": {
-          "value": "{gradient.blue}",
+          "value": "{basic.red.6}",
+          "type": "color"
+        },
+        "orange": {
+          "value": "{basic.orange.0}",
           "type": "color"
         }
       },
@@ -2922,6 +2926,10 @@
       "text": {
         "white": {
           "value": "{opacity.white.100}",
+          "type": "color"
+        },
+        "orange": {
+          "value": "{basic.orange.7}",
           "type": "color"
         }
       },
