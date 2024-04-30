@@ -2957,7 +2957,7 @@
         "12": {
           "value": {
             "fontFamily": "{fontFamilies.pingfang-sc}",
-            "fontWeight": "{fontWeights.pingfang-sc-0}",
+            "fontWeight": "{fontWeights.pingfang-sc-2}",
             "lineHeight": "{lineHeights.2}",
             "fontSize": "{fontSize.1}",
             "letterSpacing": "{letterSpacing.0}",
