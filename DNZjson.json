@@ -2930,12 +2930,12 @@
         }
       },
       "bg": {
-        "orange_finish": {
-          "value": "{basic.orange.6}",
+        "gold_finish": {
+          "value": "{gradient.gold2}",
           "type": "color"
         },
-        "orange_unfinishi": {
-          "value": "{basic.amber.0}",
+        "gold_unfinishi": {
+          "value": "{basic.gold.1}",
           "type": "color"
         }
       },
@@ -2945,7 +2945,7 @@
           "type": "color"
         },
         "gold": {
-          "value": "{basic.orange.6}",
+          "value": "{basic.gold.5}",
           "type": "color"
         },
         "black": {
