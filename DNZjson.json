@@ -24178,7 +24178,7 @@
         "type": "boxShadow"
       }
     },
-    "bg": {
+    "bg-state-defult": {
       "blue": {
         "value": "{gradient.blue}",
         "type": "color"
@@ -24206,7 +24206,7 @@
         "type": "border"
       }
     },
-    "text": {
+    "text-state-defult": {
       "white": {
         "value": "{opacity.white.100}",
         "type": "color"
@@ -24220,7 +24220,7 @@
         "type": "color"
       }
     },
-    "icon": {
+    "icon-state-defult": {
       "white": {
         "value": "{opacity.white.100}",
         "type": "color"
