@@ -24178,8 +24178,8 @@
         "type": "boxShadow"
       }
     },
-    "bg-state-defult": {
-      "blue": {
+    "color-bg-state-defult": {
+      "blue1": {
         "value": "{gradient.blue}",
         "type": "color"
       },
