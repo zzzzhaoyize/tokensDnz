@@ -24292,7 +24292,7 @@
         "type": "typography"
       }
     },
-    "hover": {
+    "bg-state-hover": {
       "blue_bg": {
         "value": "{basic.blue.2}",
         "type": "color"
