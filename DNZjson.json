@@ -2022,12 +2022,12 @@
       }
     },
     "scale-height": {
-      "32": {
-        "value": "{dimension.32}",
+      "dimension-32": {
+        "value": "{dimension.dimension-32}",
         "type": "sizing"
       },
-      "40": {
-        "value": "{dimension.40}",
+      "dimension-40": {
+        "value": "{dimension.dimension-40}",
         "type": "sizing"
       }
     }
@@ -24745,9 +24745,7 @@
       "id": "65300e9fbeadd46524a1f9df3f25570104206746",
       "name": "dark",
       "$figmaStyleReferences": {},
-      "selectedTokenSets": {
-        "basic": "disabled"
-      },
+      "selectedTokenSets": {},
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
       "$figmaVariableReferences": {
