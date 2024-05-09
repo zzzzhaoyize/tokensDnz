@@ -1,4 +1,5 @@
 {
+  "22": {},
   "basic": {
     "basic": {
       "brand": {
@@ -1091,6 +1092,10 @@
       "dimension-64": {
         "value": "64px",
         "type": "dimension"
+      },
+      "dimension-96": {
+        "value": "96px",
+        "type": "dimension"
       }
     },
     "spacing": {
@@ -1763,31 +1768,19 @@
         "type": "boolean"
       }
     },
-    "layout-elevation": {
+    "layout-elevation-state-default": {
       "none": {
         "value": "none",
         "type": "boxShadow"
       }
     },
     "color-bg-state-defult": {
-      "blue1": {
-        "value": "{gradient.blue}",
-        "type": "color"
-      },
-      "black": {
-        "value": "{opacity.black.100}",
-        "type": "color"
-      },
-      "white": {
-        "value": "{opacity.white.48}",
-        "type": "color"
-      },
-      "orange": {
-        "value": "{basic.orange.1}",
+      "gradient-blue": {
+        "value": "{gradient.gradient-blue}",
         "type": "color"
       }
     },
-    "shape-border": {
+    "shape-border-state-default": {
       "none": {
         "value": {
           "style": "solid",
@@ -1798,30 +1791,14 @@
       }
     },
     "color-text-state-defult": {
-      "white": {
-        "value": "{opacity.white.100}",
-        "type": "color"
-      },
-      "gold": {
-        "value": "{basic.gold.7}",
-        "type": "color"
-      },
-      "black": {
-        "value": "{opacity.black.100}",
+      "white-100": {
+        "value": "{opacity.white.white-100}",
         "type": "color"
       }
     },
     "color-icon-state-defult": {
-      "white": {
-        "value": "{opacity.white.100}",
-        "type": "color"
-      },
-      "gold": {
-        "value": "{basic.gold.7}",
-        "type": "color"
-      },
-      "black": {
-        "value": "{opacity.black.100}",
+      "white-100": {
+        "value": "{opacity.white.white-100}",
         "type": "color"
       }
     },
@@ -1884,20 +1861,12 @@
       }
     },
     "color-bg-state-hover": {
-      "blue_bg": {
-        "value": "{basic.blue.2}",
-        "type": "color"
-      },
-      "black_bg": {
-        "value": "{basic.grey.8}",
-        "type": "color"
-      },
-      "white_bg": {
-        "value": "{opacity.white.64}",
+      "blue-2": {
+        "value": "{basic.blue.blue-2}",
         "type": "color"
       }
     },
-    "shape-borderradius": {
+    "shape-borderradius-state-default": {
       "0": {
         "value": "0px",
         "type": "borderRadius"
@@ -1939,7 +1908,7 @@
         "type": "borderRadius"
       }
     },
-    "scale-padding": {
+    "scale-padding-state-default": {
       "0": {
         "value": "0px",
         "type": "spacing"
@@ -1977,7 +1946,7 @@
         "type": "spacing"
       }
     },
-    "scale-gap": {
+    "scale-gap-state-default": {
       "0": {
         "value": "0px",
         "type": "spacing"
@@ -2015,13 +1984,13 @@
         "type": "spacing"
       }
     },
-    "scale-width": {
-      "96": {
-        "value": "96px",
+    "scale-width-state-default": {
+      "dimension-96": {
+        "value": "{dimension.dimension-96}",
         "type": "sizing"
       }
     },
-    "scale-height": {
+    "scale-height-state-default": {
       "dimension-32": {
         "value": "{dimension.dimension-32}",
         "type": "sizing"
@@ -24745,7 +24714,9 @@
       "id": "65300e9fbeadd46524a1f9df3f25570104206746",
       "name": "dark",
       "$figmaStyleReferences": {},
-      "selectedTokenSets": {},
+      "selectedTokenSets": {
+        "22": "disabled"
+      },
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
       "$figmaVariableReferences": {
@@ -24790,6 +24761,7 @@
   ],
   "$metadata": {
     "tokenSetOrder": [
+      "22",
       "basic",
       "basic-button-odclight",
       "button(basic)",
