@@ -25885,7 +25885,7 @@
       }
     }
   },
-  "button(new)": {
+  "basic-button-odclight": {
     "structure-left": {
       "ture": {
         "value": "{true}",
@@ -25916,7 +25916,7 @@
         "type": "boolean"
       }
     },
-    "shadow": {
+    "layout-elevation": {
       "none": {
         "value": "none",
         "type": "boxShadow"
@@ -25940,7 +25940,7 @@
         "type": "color"
       }
     },
-    "border": {
+    "shape-border": {
       "none": {
         "value": {
           "style": "solid",
@@ -25950,7 +25950,7 @@
         "type": "border"
       }
     },
-    "text-state-defult": {
+    "color-text-state-defult": {
       "white": {
         "value": "{opacity.white.100}",
         "type": "color"
@@ -25964,7 +25964,7 @@
         "type": "color"
       }
     },
-    "icon-state-defult": {
+    "color-icon-state-defult": {
       "white": {
         "value": "{opacity.white.100}",
         "type": "color"
@@ -26036,7 +26036,7 @@
         "type": "typography"
       }
     },
-    "bg-state-hover": {
+    "color-bg-state-hover": {
       "blue_bg": {
         "value": "{basic.blue.2}",
         "type": "color"
@@ -26050,7 +26050,7 @@
         "type": "color"
       }
     },
-    "borderradius": {
+    "shape-borderradius": {
       "0": {
         "value": "0px",
         "type": "borderRadius"
@@ -26092,7 +26092,7 @@
         "type": "borderRadius"
       }
     },
-    "padding": {
+    "scale-padding": {
       "0": {
         "value": "0px",
         "type": "spacing"
@@ -26130,7 +26130,7 @@
         "type": "spacing"
       }
     },
-    "gap": {
+    "scale-gap": {
       "0": {
         "value": "0px",
         "type": "spacing"
@@ -26168,13 +26168,13 @@
         "type": "spacing"
       }
     },
-    "width": {
+    "scale-width": {
       "96": {
         "value": "96px",
         "type": "sizing"
       }
     },
-    "height": {
+    "scale-height": {
       "32": {
         "value": "{dimension.32}",
         "type": "sizing"
@@ -26754,7 +26754,7 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "basic": "source",
-        "basic_复制": "disabled"
+        "basic-button-odclight": "disabled"
       },
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
@@ -26820,7 +26820,7 @@
       "background",
       "focus",
       "speech bubbles",
-      "button(new)",
+      "basic-button-odclight",
       "badge",
       "progress"
     ]
