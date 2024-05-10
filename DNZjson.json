@@ -2283,12 +2283,8 @@
       }
     },
     "scale-padding-state-default": {
-      "8": {
-        "value": "{dimension.8}",
-        "type": "spacing"
-      },
-      "16": {
-        "value": "{dimension.16}",
+      "none": {
+        "value": "none",
         "type": "spacing"
       }
     },
@@ -2337,6 +2333,16 @@
     "color-bg-state-hover": {
       "gold1": {
         "value": "{basic.gold.1}",
+        "type": "color"
+      }
+    },
+    "color-text-state-default": {
+      "gold5": {
+        "value": "{basic.gold.5}",
+        "type": "color"
+      },
+      "black": {
+        "value": "{opacity.black.64}",
         "type": "color"
       }
     }
@@ -3570,10 +3576,6 @@
         }
       },
       "text": {
-        "white": {
-          "value": "{opacity.white.100}",
-          "type": "color"
-        },
         "gold": {
           "value": "{basic.gold.5}",
           "type": "color"
