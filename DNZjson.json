@@ -4040,6 +4040,140 @@
       }
     }
   },
+  "basic-badge-odc": {
+    "layout-left-state-default": {
+      "ture": {
+        "value": "{true}",
+        "type": "boolean"
+      },
+      "false": {
+        "value": "{false}",
+        "type": "boolean"
+      }
+    },
+    "layout-main-state-default": {
+      "ture": {
+        "value": "{true}",
+        "type": "boolean"
+      },
+      "false": {
+        "value": "{false}",
+        "type": "boolean"
+      }
+    },
+    "layout-right-state-default": {
+      "ture": {
+        "value": "{true}",
+        "type": "boolean"
+      },
+      "false": {
+        "value": "{false}",
+        "type": "boolean"
+      }
+    },
+    "layout-elevation-state-default": {
+      "none": {
+        "value": "none",
+        "type": "boxShadow"
+      }
+    },
+    "shape-border-state-default": {
+      "none": {
+        "value": {
+          "style": "solid",
+          "width": "0",
+          "color": "none"
+        },
+        "type": "border"
+      }
+    },
+    "shape-borderradius-state-default": {
+      "16": {
+        "value": "{borderRadius.16}",
+        "type": "borderRadius"
+      },
+      "200": {
+        "value": "{borderRadius.200}",
+        "type": "borderRadius"
+      }
+    },
+    "scale-padding-state-default": {
+      "8": {
+        "value": "{dimension.8}",
+        "type": "spacing"
+      },
+      "16": {
+        "value": "{dimension.16}",
+        "type": "spacing"
+      }
+    },
+    "scale-gap-state-default": {
+      "8": {
+        "value": "{dimension.8}",
+        "type": "spacing"
+      }
+    },
+    "scale-width-state-default": {
+      "56": {
+        "value": "{dimension.56}",
+        "type": "sizing"
+      },
+      "96": {
+        "value": "{dimension.96}",
+        "type": "sizing"
+      }
+    },
+    "scale-height-state-default": {
+      "32": {
+        "value": "{dimension.32}",
+        "type": "sizing"
+      },
+      "40": {
+        "value": "{dimension.40}",
+        "type": "sizing"
+      },
+      "56": {
+        "value": "{dimension.56}",
+        "type": "sizing"
+      }
+    },
+    "text-state-default": {
+      "buttoncn16": {
+        "value": "{button.cn.16}",
+        "type": "typography"
+      }
+    },
+    "color-bg-state-defult": {
+      "red": {
+        "value": "{basic.red.6}",
+        "type": "color"
+      },
+      "orange": {
+        "value": "{basic.orange.0}",
+        "type": "color"
+      }
+    },
+    "color-text-state-defult": {
+      "white": {
+        "value": "{opacity.white.100}",
+        "type": "color"
+      },
+      "orange": {
+        "value": "{basic.orange.7}",
+        "type": "color"
+      }
+    },
+    "color-icon-state-defult": {
+      "white": {
+        "value": "{opacity.white.100}",
+        "type": "color"
+      },
+      "orange": {
+        "value": "{basic.orange.7}",
+        "type": "color"
+      }
+    }
+  },
   "button(basic)": {
     "basic": {
       "brand": {
@@ -26754,7 +26888,7 @@
       "name": "dark",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "basic-progress-odc": "disabled"
+        "basic-badge-odc": "disabled"
       },
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
@@ -26804,6 +26938,7 @@
       "basic_复制",
       "basic-button-odc",
       "basic-progress-odc",
+      "basic-badge-odc",
       "button(basic)",
       "progress(basic)",
       "badge(basic)",
