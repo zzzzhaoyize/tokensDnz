@@ -2023,6 +2023,20 @@
     "false": {
       "value": "false",
       "type": "boolean"
+    },
+    "boderWidth": {
+      "0": {
+        "value": "0px",
+        "type": "borderWidth"
+      },
+      "1": {
+        "value": "1px",
+        "type": "borderWidth"
+      },
+      "2": {
+        "value": "2px",
+        "type": "borderWidth"
+      }
     }
   },
   "basic_复制": {
@@ -4261,16 +4275,6 @@
         "type": "boxShadow"
       }
     },
-    "shape-border-state-default": {
-      "none": {
-        "value": {
-          "style": "solid",
-          "width": "0",
-          "color": "none"
-        },
-        "type": "border"
-      }
-    },
     "shape-borderradius-state-default": {
       "32": {
         "value": "{borderRadius.32}",
@@ -4409,11 +4413,11 @@
     },
     "shape-borderwidth-state-default": {
       "1": {
-        "value": "{dimension.2}",
+        "value": "{boderWidth.1}",
         "type": "borderWidth"
       },
       "2": {
-        "value": "{dimension.2}",
+        "value": "{boderWidth.2}",
         "type": "borderWidth"
       }
     }
