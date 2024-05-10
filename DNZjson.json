@@ -2321,8 +2321,8 @@
       }
     },
     "text-state-default": {
-      "buttoncn16": {
-        "value": "{button.cn.16}",
+      "buttoncn12": {
+        "value": "{body.cn.12}",
         "type": "typography"
       }
     },
