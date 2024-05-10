@@ -2303,8 +2303,8 @@
       }
     },
     "scale-gap-state-default": {
-      "8": {
-        "value": "{dimension.8}",
+      "12": {
+        "value": "{dimension.12}",
         "type": "spacing"
       }
     },
