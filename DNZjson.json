@@ -1385,6 +1385,10 @@
         "value": "96px",
         "type": "dimension"
       },
+      "120": {
+        "value": "120px",
+        "type": "dimension"
+      },
       "1200": {
         "value": "1200px",
         "type": "dimension"
@@ -2305,26 +2309,14 @@
       }
     },
     "scale-width-state-default": {
-      "56": {
-        "value": "{dimension.56}",
-        "type": "sizing"
-      },
-      "96": {
-        "value": "{dimension.96}",
+      "120": {
+        "value": "{dimension.120}",
         "type": "sizing"
       }
     },
     "scale-height-state-default": {
-      "32": {
-        "value": "{dimension.32}",
-        "type": "sizing"
-      },
-      "40": {
-        "value": "{dimension.40}",
-        "type": "sizing"
-      },
-      "56": {
-        "value": "{dimension.56}",
+      "8": {
+        "value": "{dimension.8}",
         "type": "sizing"
       }
     },
