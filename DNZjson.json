@@ -4420,6 +4420,12 @@
         "value": "{boderWidth.2}",
         "type": "borderWidth"
       }
+    },
+    "material-backdropfilterblur-state-default": {
+      "96": {
+        "value": "{dimension.96}",
+        "type": "dimension"
+      }
     }
   },
   "button(basic)": {
