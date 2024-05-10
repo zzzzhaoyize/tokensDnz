@@ -3785,6 +3785,10 @@
       "white48": {
         "value": "{opacity.white.48}",
         "type": "color"
+      },
+      "none": {
+        "value": "none",
+        "type": "color"
       }
     },
     "shape-border-state-default": {
