@@ -4293,6 +4293,10 @@
       "16": {
         "value": "{dimension.16}",
         "type": "spacing"
+      },
+      "24": {
+        "value": "{dimension.24}",
+        "type": "spacing"
       }
     },
     "scale-gap-state-default": {
@@ -4302,6 +4306,10 @@
       },
       "8": {
         "value": "{dimension.8}",
+        "type": "spacing"
+      },
+      "12": {
+        "value": "{dimension.12}",
         "type": "spacing"
       }
     },
@@ -4316,22 +4324,22 @@
       }
     },
     "color-text-state-defult": {
-      "white": {
+      "white100": {
         "value": "{opacity.white.100}",
         "type": "color"
       },
-      "orange": {
-        "value": "{basic.orange.7}",
+      "green9": {
+        "value": "{basic.green.9}",
         "type": "color"
       }
     },
     "color-icon-state-defult": {
-      "white": {
-        "value": "{opacity.white.100}",
+      "green9": {
+        "value": "{basic.green.9}",
         "type": "color"
       },
-      "orange": {
-        "value": "{basic.orange.7}",
+      "white100": {
+        "value": "{opacity.white.100}",
         "type": "color"
       }
     },
@@ -4369,6 +4377,14 @@
       "24": {
         "value": "{dimension.24}",
         "type": "sizing"
+      },
+      "72": {
+        "value": "{dimension.72}",
+        "type": "sizing"
+      },
+      "88": {
+        "value": "{dimension.88}",
+        "type": "sizing"
       }
     },
     "text-state-default": {
@@ -4379,6 +4395,26 @@
       "headlinecn14": {
         "value": "{headLine.cn.14}",
         "type": "typography"
+      }
+    },
+    "color-border-state-defult": {
+      "white64": {
+        "value": "{opacity.white.64}",
+        "type": "color"
+      },
+      "gold5": {
+        "value": "{basic.gold.5}",
+        "type": "color"
+      }
+    },
+    "shape-borderwidth-state-default": {
+      "1": {
+        "value": "{dimension.2}",
+        "type": "borderWidth"
+      },
+      "2": {
+        "value": "{dimension.2}",
+        "type": "borderWidth"
       }
     }
   },
@@ -27095,9 +27131,7 @@
       "id": "65300e9fbeadd46524a1f9df3f25570104206746",
       "name": "dark",
       "$figmaStyleReferences": {},
-      "selectedTokenSets": {
-        "basic-textinput-odc": "disabled"
-      },
+      "selectedTokenSets": {},
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
       "$figmaVariableReferences": {
