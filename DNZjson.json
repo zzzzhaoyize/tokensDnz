@@ -2317,8 +2317,8 @@
       }
     },
     "color-bg-state-unfinish": {
-      "gold1": {
-        "value": "{basic.gold.1}",
+      "gold5": {
+        "value": "{basic.gold.5}",
         "type": "color"
       }
     },
@@ -2332,6 +2332,12 @@
       "0": {
         "value": "{boderWidth.0}",
         "type": "borderWidth"
+      }
+    },
+    "color-bg-state-hover": {
+      "gold1": {
+        "value": "{basic.gold.1}",
+        "type": "color"
       }
     }
   },
