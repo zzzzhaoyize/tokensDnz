@@ -1384,6 +1384,14 @@
       "96": {
         "value": "96px",
         "type": "dimension"
+      },
+      "1200": {
+        "value": "1200px",
+        "type": "dimension"
+      },
+      "1380": {
+        "value": "1380px",
+        "type": "dimension"
       }
     },
     "spacing": {
@@ -1541,6 +1549,20 @@
             "textDecoration": "{textDecoration.none}"
           },
           "type": "typography"
+        },
+        "24": {
+          "value": {
+            "fontFamily": "{fontFamilies.pingfang-sc}",
+            "fontWeight": "{fontWeights.pingfang-sc-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.6}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
         }
       },
       "en": {
@@ -1592,6 +1614,20 @@
             "fontWeight": "{fontWeights.inter-1}",
             "lineHeight": "{lineHeights.0}",
             "fontSize": "{fontSize.3}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "24": {
+          "value": {
+            "fontFamily": "{fontFamilies.inter}",
+            "fontWeight": "{fontWeights.inter-1}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.6}",
             "letterSpacing": "{letterSpacing.0}",
             "paragraphSpacing": "{paragraphSpacing.0}",
             "paragraphIndent": "{paragraphIndent.0}",
@@ -4162,11 +4198,11 @@
       }
     },
     "color-bg-state-defult": {
-      "red": {
+      "red6": {
         "value": "{basic.red.6}",
         "type": "color"
       },
-      "orange": {
+      "orange0": {
         "value": "{basic.orange.0}",
         "type": "color"
       }
@@ -4286,32 +4322,12 @@
       }
     },
     "scale-padding-state-default": {
-      "4": {
-        "value": "{dimension.4}",
-        "type": "spacing"
-      },
-      "8": {
-        "value": "{dimension.8}",
-        "type": "spacing"
-      },
-      "16": {
-        "value": "{dimension.16}",
-        "type": "spacing"
-      },
       "24": {
         "value": "{dimension.24}",
         "type": "spacing"
       }
     },
     "scale-gap-state-default": {
-      "4": {
-        "value": "{dimension.4}",
-        "type": "spacing"
-      },
-      "8": {
-        "value": "{dimension.8}",
-        "type": "spacing"
-      },
       "12": {
         "value": "{dimension.12}",
         "type": "spacing"
@@ -4337,51 +4353,17 @@
         "type": "color"
       }
     },
-    "color-icon-state-defult": {
-      "green9": {
-        "value": "{basic.green.9}",
-        "type": "color"
-      },
-      "white100": {
-        "value": "{opacity.white.100}",
-        "type": "color"
-      }
-    },
     "scale-width-state-default": {
-      "6": {
-        "value": "{dimension.6}",
+      "1200": {
+        "value": "{dimension.1200}",
         "type": "sizing"
       },
-      "20": {
-        "value": "{dimension.20}",
-        "type": "sizing"
-      },
-      "24": {
-        "value": "{dimension.24}",
-        "type": "sizing"
-      },
-      "32": {
-        "value": "{dimension.32}",
-        "type": "sizing"
-      },
-      "40": {
-        "value": "{dimension.40}",
+      "1380": {
+        "value": "{dimension.1380}",
         "type": "sizing"
       }
     },
     "scale-height-state-default": {
-      "6": {
-        "value": "{dimension.6}",
-        "type": "sizing"
-      },
-      "20": {
-        "value": "{dimension.20}",
-        "type": "sizing"
-      },
-      "24": {
-        "value": "{dimension.24}",
-        "type": "sizing"
-      },
       "72": {
         "value": "{dimension.72}",
         "type": "sizing"
@@ -4392,12 +4374,8 @@
       }
     },
     "text-state-default": {
-      "buttoncn12": {
-        "value": "{button.cn.12}",
-        "type": "typography"
-      },
-      "headlinecn14": {
-        "value": "{headLine.cn.14}",
+      "bodycn24": {
+        "value": "{body.cn.24}",
         "type": "typography"
       }
     },
