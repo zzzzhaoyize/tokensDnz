@@ -2278,30 +2278,6 @@
         "type": "border"
       }
     },
-    "color-icon-state-defult": {
-      "white100": {
-        "value": "{opacity.white.100}",
-        "type": "color"
-      },
-      "gold7": {
-        "value": "{basic.gold.7}",
-        "type": "color"
-      }
-    },
-    "color-bg-state-hover": {
-      "blue2": {
-        "value": "{basic.blue.2}",
-        "type": "color"
-      },
-      "grey8": {
-        "value": "{basic.grey.8}",
-        "type": "color"
-      },
-      "white64": {
-        "value": "{opacity.white.64}",
-        "type": "color"
-      }
-    },
     "shape-borderradius-state-default": {
       "16": {
         "value": "{borderRadius.16}",
@@ -2359,22 +2335,14 @@
       }
     },
     "color-bg-state-unfinish": {
-      "gold_finish": {
-        "value": "{gradient.gold2}",
-        "type": "color"
-      },
-      "gold_unfinishi": {
+      "gold1": {
         "value": "{basic.gold.1}",
         "type": "color"
       }
     },
     "color-bg-state-finish": {
-      "gold_finish": {
+      "gradientgold2": {
         "value": "{gradient.gold2}",
-        "type": "color"
-      },
-      "gold_unfinishi": {
-        "value": "{basic.gold.1}",
         "type": "color"
       }
     }
