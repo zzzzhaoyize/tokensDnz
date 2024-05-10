@@ -2272,16 +2272,6 @@
         "type": "boxShadow"
       }
     },
-    "shape-border-state-default": {
-      "none": {
-        "value": {
-          "style": "solid",
-          "width": "0",
-          "color": "none"
-        },
-        "type": "border"
-      }
-    },
     "shape-borderradius-state-default": {
       "16": {
         "value": "{borderRadius.16}",
@@ -2336,6 +2326,12 @@
       "gradientgold2": {
         "value": "{gradient.gold2}",
         "type": "color"
+      }
+    },
+    "shape-borderwidth-state-default": {
+      "0": {
+        "value": "{boderWidth.0}",
+        "type": "borderWidth"
       }
     }
   },
@@ -2613,6 +2609,10 @@
       }
     },
     "shape-borderwidth-state-default": {
+      "0": {
+        "value": "{boderWidth.0}",
+        "type": "borderWidth"
+      },
       "1": {
         "value": "{boderWidth.1}",
         "type": "borderWidth"
