@@ -4208,21 +4208,21 @@
       }
     },
     "color-text-state-defult": {
-      "white": {
+      "white100": {
         "value": "{opacity.white.100}",
         "type": "color"
       },
-      "orange": {
+      "orange7": {
         "value": "{basic.orange.7}",
         "type": "color"
       }
     },
     "color-icon-state-defult": {
-      "white": {
+      "white100": {
         "value": "{opacity.white.100}",
         "type": "color"
       },
-      "orange": {
+      "orange7": {
         "value": "{basic.orange.7}",
         "type": "color"
       }
