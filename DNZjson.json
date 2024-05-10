@@ -1223,11 +1223,11 @@
       },
       "odc": {
         "grey": {
-          "value": "#ffffff0a",
+          "value": "linear-gradient(90deg, rgba(132, 112, 75, 0.88) 0%, rgba(97, 82, 54, 0.88) 100%);",
           "type": "color"
         },
         "gold": {
-          "value": "#ffffff0a",
+          "value": "rgba(198, 198, 205, 0.64);",
           "type": "color"
         }
       }
