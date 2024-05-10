@@ -1220,6 +1220,16 @@
           "value": "#ffffff",
           "type": "color"
         }
+      },
+      "odc": {
+        "grey": {
+          "value": "#ffffff0a",
+          "type": "color"
+        },
+        "gold": {
+          "value": "#ffffff0a",
+          "type": "color"
+        }
       }
     },
     "gradient": {
