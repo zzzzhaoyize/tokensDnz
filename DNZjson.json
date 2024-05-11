@@ -3714,6 +3714,292 @@
         "type": "boxShadow"
       }
     },
+    "layout-elevation-state-loading": {
+      "05": {
+        "value": "{elevation.herald.05}",
+        "type": "boxShadow"
+      }
+    },
+    "shape-borderradius-state-default": {
+      "8": {
+        "value": "{borderRadius.8}",
+        "type": "borderRadius"
+      },
+      "12": {
+        "value": "{borderRadius.12}",
+        "type": "borderRadius"
+      },
+      "32": {
+        "value": "{borderRadius.32}",
+        "type": "borderRadius"
+      },
+      "200": {
+        "value": "{borderRadius.200}",
+        "type": "borderRadius"
+      }
+    },
+    "shape-borderradius-state-loading": {
+      "32": {
+        "value": "{borderRadius.32}",
+        "type": "borderRadius"
+      }
+    },
+    "scale-padding-state-default": {
+      "4": {
+        "value": "{dimension.4}",
+        "type": "spacing"
+      },
+      "8": {
+        "value": "{dimension.8}",
+        "type": "spacing"
+      },
+      "12": {
+        "value": "{dimension.12}",
+        "type": "spacing"
+      },
+      "16": {
+        "value": "{dimension.16}",
+        "type": "spacing"
+      },
+      "20": {
+        "value": "{dimension.20}",
+        "type": "spacing"
+      },
+      "24": {
+        "value": "{dimension.24}",
+        "type": "spacing"
+      },
+      "120": {
+        "value": "{dimension.120}",
+        "type": "spacing"
+      }
+    },
+    "scale-gap-state-default": {
+      "4": {
+        "value": "{dimension.4}",
+        "type": "spacing"
+      },
+      "8": {
+        "value": "{dimension.8}",
+        "type": "spacing"
+      },
+      "12": {
+        "value": "{dimension.12}",
+        "type": "spacing"
+      }
+    },
+    "color-bg-state-defult": {
+      "gradientgoldv": {
+        "value": "{gradient.goldv}",
+        "type": "color"
+      },
+      "gold5": {
+        "value": "{basic.gold.5}",
+        "type": "color"
+      }
+    },
+    "color-text-state-defult": {
+      "orange9": {
+        "value": "{basic.orange.9}",
+        "type": "color"
+      }
+    },
+    "color-text-state-loading": {
+      "orange9": {
+        "value": "{basic.orange.9}",
+        "type": "color"
+      }
+    },
+    "scale-width-state-default": {
+      "176": {
+        "value": "{dimension.176}",
+        "type": "sizing"
+      },
+      "240": {
+        "value": "{dimension.240}",
+        "type": "sizing"
+      }
+    },
+    "scale-height-state-default": {
+      "40": {
+        "value": "{dimension.40}",
+        "type": "sizing"
+      },
+      "72": {
+        "value": "{dimension.72}",
+        "type": "sizing"
+      },
+      "88": {
+        "value": "{dimension.88}",
+        "type": "sizing"
+      },
+      "160": {
+        "value": "{dimension.160",
+        "type": "sizing"
+      }
+    },
+    "text-state-default": {
+      "headlinecn14": {
+        "value": "{headLine.cn.14}",
+        "type": "typography"
+      },
+      "bodycn12": {
+        "value": "{body.cn.12}",
+        "type": "typography"
+      },
+      "bodycn16": {
+        "value": "{body.cn.16}",
+        "type": "typography"
+      }
+    },
+    "text-state-loading": {
+      "buttoncn18": {
+        "value": "{button.cn.18}",
+        "type": "typography"
+      }
+    },
+    "color-border-state-defult": {
+      "none": {
+        "value": "none",
+        "type": "color"
+      }
+    },
+    "color-border-state-loading": {
+      "none": {
+        "value": "none",
+        "type": "color"
+      }
+    },
+    "shape-borderwidth-state-default": {
+      "0": {
+        "value": "{boderWidth.0}",
+        "type": "borderWidth"
+      },
+      "1": {
+        "value": "{boderWidth.1}",
+        "type": "borderWidth"
+      },
+      "2": {
+        "value": "{boderWidth.2}",
+        "type": "borderWidth"
+      },
+      "12": {
+        "value": "{boderWidth.1}",
+        "type": "borderWidth"
+      }
+    },
+    "shape-borderwidth-state-loading": {
+      "0": {
+        "value": "{boderWidth.0}",
+        "type": "borderWidth"
+      }
+    },
+    "material-backdropfilterblur-state-default": {
+      "96": {
+        "value": "{dimension.96}",
+        "type": "dimension"
+      }
+    },
+    "color-bg-state-loading": {
+      "gradientgoldv": {
+        "value": "{gradient.goldv}",
+        "type": "color"
+      },
+      "gold5": {
+        "value": "{basic.gold.5}",
+        "type": "color"
+      }
+    },
+    "scale-gap-loading-default": {
+      "4": {
+        "value": "{dimension.4}",
+        "type": "spacing"
+      },
+      "8": {
+        "value": "{dimension.8}",
+        "type": "spacing"
+      },
+      "12": {
+        "value": "{dimension.12}",
+        "type": "spacing"
+      }
+    },
+    "scale-padding-state-loading": {
+      "4": {
+        "value": "{dimension.4}",
+        "type": "spacing"
+      },
+      "8": {
+        "value": "{dimension.8}",
+        "type": "spacing"
+      },
+      "12": {
+        "value": "{dimension.12}",
+        "type": "spacing"
+      },
+      "16": {
+        "value": "{dimension.16}",
+        "type": "spacing"
+      },
+      "20": {
+        "value": "{dimension.20}",
+        "type": "spacing"
+      },
+      "24": {
+        "value": "{dimension.24}",
+        "type": "spacing"
+      },
+      "120": {
+        "value": "{dimension.120}",
+        "type": "spacing"
+      }
+    }
+  },
+  "basic-texttip-odcdark存档": {
+    "layout-top-state-default": {
+      "ture": {
+        "value": "{true}",
+        "type": "boolean"
+      },
+      "false": {
+        "value": "{false}",
+        "type": "boolean"
+      }
+    },
+    "layout-main-state-default": {
+      "ture": {
+        "value": "{true}",
+        "type": "boolean"
+      },
+      "false": {
+        "value": "{false}",
+        "type": "boolean"
+      }
+    },
+    "layout-bottom-state-default": {
+      "ture": {
+        "value": "{true}",
+        "type": "boolean"
+      },
+      "false": {
+        "value": "{false}",
+        "type": "boolean"
+      }
+    },
+    "layout-elevation-state-default": {
+      "05": {
+        "value": "{elevation.herald.05}",
+        "type": "boxShadow"
+      },
+      "03": {
+        "value": "{elevation.herald.03}",
+        "type": "boxShadow"
+      },
+      "none": {
+        "value": "none",
+        "type": "boxShadow"
+      }
+    },
     "shape-borderradius-state-default": {
       "8": {
         "value": "{borderRadius.8}",
@@ -5060,7 +5346,9 @@
       "id": "65300e9fbeadd46524a1f9df3f25570104206746",
       "name": "dark",
       "$figmaStyleReferences": {},
-      "selectedTokenSets": {},
+      "selectedTokenSets": {
+        "basic-texttip-odcdark存档": "disabled"
+      },
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
       "$figmaVariableReferences": {
@@ -5118,6 +5406,7 @@
       "basic-textinput-odc",
       "basic-badge-odc",
       "basic-texttip-odcdark",
+      "basic-texttip-odcdark存档",
       "button",
       "intent distribution",
       "background",
