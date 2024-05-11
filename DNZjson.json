@@ -2872,10 +2872,6 @@
       "32": {
         "value": "{borderRadius.32}",
         "type": "borderRadius"
-      },
-      "200": {
-        "value": "{borderRadius.200}",
-        "type": "borderRadius"
       }
     },
     "scale-padding-state-default": {
@@ -2911,10 +2907,6 @@
       }
     },
     "scale-width-state-default": {
-      "1200": {
-        "value": "{dimension.1200}",
-        "type": "sizing"
-      },
       "1380": {
         "value": "{dimension.1380}",
         "type": "sizing"
@@ -2923,10 +2915,6 @@
     "scale-height-state-default": {
       "72": {
         "value": "{dimension.72}",
-        "type": "sizing"
-      },
-      "88": {
-        "value": "{dimension.88}",
         "type": "sizing"
       }
     },
@@ -2947,16 +2935,8 @@
       }
     },
     "shape-borderwidth-state-default": {
-      "0": {
-        "value": "{boderWidth.0}",
-        "type": "borderWidth"
-      },
       "1": {
         "value": "{boderWidth.1}",
-        "type": "borderWidth"
-      },
-      "2": {
-        "value": "{boderWidth.2}",
         "type": "borderWidth"
       }
     },
@@ -4730,11 +4710,7 @@
       "id": "65300e9fbeadd46524a1f9df3f25570104206746",
       "name": "dark",
       "$figmaStyleReferences": {},
-      "selectedTokenSets": {
-        "basic-progress-odcdark": "disabled",
-        "basic-badge-odc": "disabled",
-        "basic-textinput-odcdark": "disabled"
-      },
+      "selectedTokenSets": {},
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
       "$figmaVariableReferences": {
