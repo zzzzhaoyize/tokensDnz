@@ -3741,6 +3741,10 @@
         "value": "{dimension.12}",
         "type": "spacing"
       },
+      "16": {
+        "value": "{dimension.16}",
+        "type": "spacing"
+      },
       "20": {
         "value": "{dimension.20}",
         "type": "spacing"
@@ -3748,9 +3752,17 @@
       "24": {
         "value": "{dimension.24}",
         "type": "spacing"
+      },
+      "120": {
+        "value": "{dimension.120}",
+        "type": "spacing"
       }
     },
     "scale-gap-state-default": {
+      "4": {
+        "value": "{dimension.4}",
+        "type": "spacing"
+      },
       "8": {
         "value": "{dimension.8}",
         "type": "spacing"
