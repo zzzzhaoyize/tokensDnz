@@ -3349,6 +3349,12 @@
         "value": "{button.cn.18}",
         "type": "typography"
       }
+    },
+    "material-backdropfilterblur-state-default": {
+      "96": {
+        "value": "{dimension.96}",
+        "type": "dimension"
+      }
     }
   },
   "basic-textinput-odc": {
