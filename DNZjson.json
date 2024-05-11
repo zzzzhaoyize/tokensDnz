@@ -3174,22 +3174,16 @@
       "orange1": {
         "value": "{basic.orange.1}",
         "type": "color"
+      },
+      "opacityblack32": {
+        "value": "{opacity.black.32}",
+        "type": "color"
       }
     },
     "color-bg-state-scan": {
       "gradientgold3": {
         "value": "{gradient.gold3}",
         "type": "color"
-      }
-    },
-    "shape-border-state-default": {
-      "none": {
-        "value": {
-          "style": "solid",
-          "width": "0",
-          "color": "none"
-        },
-        "type": "border"
       }
     },
     "color-text-state-defult": {
@@ -3203,6 +3197,20 @@
       },
       "orange9": {
         "value": "{basic.orange.9}",
+        "type": "color"
+      },
+      "gold5": {
+        "value": "{basic.gold.5}",
+        "type": "color"
+      }
+    },
+    "color-border-state-defult": {
+      "none": {
+        "value": "none",
+        "type": "color"
+      },
+      "opacityodcgold": {
+        "value": "{opacity.odc.gold}",
         "type": "color"
       }
     },
@@ -3324,6 +3332,12 @@
       "headlinecn24": {
         "value": "{headLine.cn.24}",
         "type": "typography"
+      }
+    },
+    "shape-borderwidth-state-default": {
+      "1": {
+        "value": "{boderWidth.1}",
+        "type": "borderWidth"
       }
     }
   },
@@ -3821,6 +3835,10 @@
       },
       "2": {
         "value": "{boderWidth.2}",
+        "type": "borderWidth"
+      },
+      "12": {
+        "value": "{boderWidth.1}",
         "type": "borderWidth"
       }
     },
@@ -5004,9 +5022,7 @@
       "id": "65300e9fbeadd46524a1f9df3f25570104206746",
       "name": "dark",
       "$figmaStyleReferences": {},
-      "selectedTokenSets": {
-        "basic-texttip-odcdark": "disabled"
-      },
+      "selectedTokenSets": {},
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
       "$figmaVariableReferences": {
