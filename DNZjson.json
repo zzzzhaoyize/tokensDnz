@@ -3919,6 +3919,12 @@
         "value": "{dimension.96}",
         "type": "dimension"
       }
+    },
+    "color-bg-state-loading": {
+      "gradientgoldv": {
+        "value": "{gradient.goldv}",
+        "type": "color"
+      }
     }
   },
   "button": {
