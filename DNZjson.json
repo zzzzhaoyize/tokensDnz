@@ -2087,7 +2087,7 @@
       }
     }
   },
-  "basic-button-odcdark": {
+  "basic-button-odcdarknormal": {
     "layout-left-state-default": {
       "ture": {
         "value": "{true}",
@@ -3119,6 +3119,218 @@
         "value": "{basic.blue.2}",
         "type": "color"
       },
+      "grey8": {
+        "value": "{basic.grey.8}",
+        "type": "color"
+      },
+      "white64": {
+        "value": "{opacity.white.64}",
+        "type": "color"
+      },
+      "orange0": {
+        "value": "{basic.orange.0}",
+        "type": "color"
+      }
+    },
+    "shape-borderradius-state-default": {
+      "16": {
+        "value": "{borderRadius.16}",
+        "type": "borderRadius"
+      },
+      "200": {
+        "value": "{borderRadius.200}",
+        "type": "borderRadius"
+      }
+    },
+    "shape-borderradius-state-scan": {
+      "12": {
+        "value": "{borderRadius.12}",
+        "type": "borderRadius"
+      }
+    },
+    "scale-padding-state-default": {
+      "8": {
+        "value": "{dimension.8}",
+        "type": "spacing"
+      },
+      "16": {
+        "value": "{dimension.16}",
+        "type": "spacing"
+      }
+    },
+    "scale-gap-state-default": {
+      "8": {
+        "value": "{dimension.8}",
+        "type": "spacing"
+      }
+    },
+    "scale-gap-state-scan": {
+      "8": {
+        "value": "{dimension.8}",
+        "type": "spacing"
+      },
+      "12": {
+        "value": "{dimension.12}",
+        "type": "spacing"
+      }
+    },
+    "scale-width-state-default": {
+      "56": {
+        "value": "{dimension.56}",
+        "type": "sizing"
+      },
+      "96": {
+        "value": "{dimension.96}",
+        "type": "sizing"
+      }
+    },
+    "scale-height-state-default": {
+      "32": {
+        "value": "{dimension.32}",
+        "type": "sizing"
+      },
+      "40": {
+        "value": "{dimension.40}",
+        "type": "sizing"
+      },
+      "56": {
+        "value": "{dimension.56}",
+        "type": "sizing"
+      }
+    },
+    "scale-height-state-scan": {
+      "40": {
+        "value": "{dimension.40}",
+        "type": "sizing"
+      }
+    },
+    "text-state-default": {
+      "buttoncn16": {
+        "value": "{button.cn.16}",
+        "type": "typography"
+      },
+      "headlinecn14": {
+        "value": "{headLine.cn.14}",
+        "type": "typography"
+      },
+      "headlinecn24": {
+        "value": "{headLine.cn.24}",
+        "type": "typography"
+      }
+    }
+  },
+  "basic-button-odcdark": {
+    "layout-left-state-default": {
+      "ture": {
+        "value": "{true}",
+        "type": "boolean"
+      },
+      "false": {
+        "value": "{false}",
+        "type": "boolean"
+      }
+    },
+    "layout-main-state-default": {
+      "ture": {
+        "value": "{true}",
+        "type": "boolean"
+      },
+      "false": {
+        "value": "{false}",
+        "type": "boolean"
+      }
+    },
+    "layout-right-state-default": {
+      "ture": {
+        "value": "{true}",
+        "type": "boolean"
+      },
+      "false": {
+        "value": "{false}",
+        "type": "boolean"
+      }
+    },
+    "layout-elevation-state-default": {
+      "none": {
+        "value": "none",
+        "type": "boxShadow"
+      }
+    },
+    "layout-elevation-state-scan": {
+      "04": {
+        "value": "{elevation.herald.04}",
+        "type": "boxShadow"
+      }
+    },
+    "color-bg-state-defult": {
+      "black100": {
+        "value": "{opacity.black.100}",
+        "type": "color"
+      },
+      "white48": {
+        "value": "{opacity.white.48}",
+        "type": "color"
+      },
+      "none": {
+        "value": "none",
+        "type": "color"
+      },
+      "orange1": {
+        "value": "{basic.orange.1}",
+        "type": "color"
+      }
+    },
+    "color-bg-state-scan": {
+      "gradientgold3": {
+        "value": "{gradient.gold3}",
+        "type": "color"
+      }
+    },
+    "shape-border-state-default": {
+      "none": {
+        "value": {
+          "style": "solid",
+          "width": "0",
+          "color": "none"
+        },
+        "type": "border"
+      }
+    },
+    "color-text-state-defult": {
+      "white100": {
+        "value": "{opacity.white.100}",
+        "type": "color"
+      },
+      "gold7": {
+        "value": "{basic.gold.7}",
+        "type": "color"
+      },
+      "orange9": {
+        "value": "{basic.orange.9}",
+        "type": "color"
+      }
+    },
+    "color-icon-state-defult": {
+      "white100": {
+        "value": "{opacity.white.100}",
+        "type": "color"
+      },
+      "gold7": {
+        "value": "{basic.gold.7}",
+        "type": "color"
+      },
+      "orange9": {
+        "value": "{basic.orange.9}",
+        "type": "color"
+      }
+    },
+    "color-icon-state-scan": {
+      "orange9": {
+        "value": "{basic.orange.9}",
+        "type": "color"
+      }
+    },
+    "color-bg-state-hover": {
       "grey8": {
         "value": "{basic.grey.8}",
         "type": "color"
@@ -4870,7 +5082,10 @@
       "id": "65300e9fbeadd46524a1f9df3f25570104206746",
       "name": "dark",
       "$figmaStyleReferences": {},
-      "selectedTokenSets": {},
+      "selectedTokenSets": {
+        "basic-button-odcdarknormal": "disabled",
+        "basic-button-odcdark": "disabled"
+      },
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
       "$figmaVariableReferences": {
@@ -4916,7 +5131,7 @@
   "$metadata": {
     "tokenSetOrder": [
       "basic",
-      "basic-button-odcdark",
+      "basic-button-odcdarknormal",
       "basic-button-odcdarkicon",
       "basic-button-odcdarknoicon",
       "basic-badge-odcdarktag",
@@ -4925,6 +5140,7 @@
       "basic-progress-odcdark",
       "basic-texttip-odcdark",
       "basic-button-odc",
+      "basic-button-odcdark",
       "basic-textinput-odc",
       "basic-badge-odc",
       "basic-texttip-odc",
