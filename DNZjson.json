@@ -3883,41 +3883,41 @@
       }
     },
     "shape-borderradius-data-image": {
-      "8": {
-        "value": "{borderRadius.8}",
+      "16": {
+        "value": "{borderRadius.16}",
         "type": "borderRadius"
       },
-      "12": {
-        "value": "{borderRadius.12}",
-        "type": "borderRadius"
-      },
-      "32": {
-        "value": "{borderRadius.32}",
-        "type": "borderRadius"
-      },
-      "200": {
-        "value": "{borderRadius.200}",
+      "none": {
+        "value": "none",
         "type": "borderRadius"
       }
     },
     "scale-width-date-image": {
+      "96": {
+        "value": "{dimension.96}",
+        "type": "sizing"
+      },
       "288": {
         "value": "{dimension.288}",
         "type": "sizing"
       }
     },
     "scale-height-date-image": {
+      "96": {
+        "value": "{dimension.96}",
+        "type": "sizing"
+      },
       "160": {
         "value": "{dimension.160",
         "type": "sizing"
       }
     },
     "material-image-state-default": {
-      "value": "11",
+      "value": "https://930754-dc01.bestrhy.com/docs/app/lenovo-box/8522233397/edit/Pictures/bac919c2-64b1-4ea3-807c-9e286f71330b.png?zdocs_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXZpY2VJZCI6IjNmZDlhOWVkLTdiOGQtNGY5ZC04MmI1LTg1ZTE4NjRmNjZhOSIsInJlcG9JZCI6Imxlbm92by1ib3giLCJ1c2VySWQiOiIzNjI2Njc5IiwidXNlck5hbWUiOiLnvZfmnKYiLCJpYXQiOjE3MTU0MTY3OTAsImV4cCI6MTcxNTQyMzk4OX0.SFZbRS_Iz8M0cHqmt7jRP1rOFK3bKlW4h63BaHobcWQ",
       "type": "asset"
     },
     "material-image-state-loading": {
-      "value": "11",
+      "value": "https://930754-dc01.bestrhy.com/docs/app/lenovo-box/8522233397/edit/Pictures/9e814712-1f19-4fa7-adc6-0d1973693cb3.png?zdocs_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXZpY2VJZCI6IjNmZDlhOWVkLTdiOGQtNGY5ZC04MmI1LTg1ZTE4NjRmNjZhOSIsInJlcG9JZCI6Imxlbm92by1ib3giLCJ1c2VySWQiOiIzNjI2Njc5IiwidXNlck5hbWUiOiLnvZfmnKYiLCJpYXQiOjE3MTU0MTY3OTAsImV4cCI6MTcxNTQyMzk4OX0.SFZbRS_Iz8M0cHqmt7jRP1rOFK3bKlW4h63BaHobcWQ",
       "type": "asset"
     }
   },
