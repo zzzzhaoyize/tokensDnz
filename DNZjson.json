@@ -3234,6 +3234,10 @@
       "orange9": {
         "value": "{basic.orange.9}",
         "type": "color"
+      },
+      "gold5": {
+        "value": "{basic.gold.5}",
+        "type": "color"
       }
     },
     "color-icon-state-scan": {
