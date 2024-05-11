@@ -2087,7 +2087,7 @@
       }
     }
   },
-  "basic-button-odcdark1": {
+  "basic-button-odcdark": {
     "layout-left-state-default": {
       "ture": {
         "value": "{true}",
@@ -2195,7 +2195,7 @@
       }
     }
   },
-  "basic-button-odcdark2": {
+  "basic-button-odcdarkicon": {
     "layout-left-state-default": {
       "ture": {
         "value": "{true}",
@@ -2303,7 +2303,7 @@
       }
     }
   },
-  "basic-button-odcdark3": {
+  "basic-button-odcdarknoicon": {
     "layout-left-state-default": {
       "ture": {
         "value": "{true}",
@@ -4827,7 +4827,9 @@
       "name": "dark",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "basic-texttip-odcdark": "disabled"
+        "basic-button-odcdarkicon": "disabled",
+        "basic-button-odcdark": "disabled",
+        "basic-button-odcdarknoicon": "disabled"
       },
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
@@ -4874,9 +4876,9 @@
   "$metadata": {
     "tokenSetOrder": [
       "basic",
-      "basic-button-odcdark1",
-      "basic-button-odcdark2",
-      "basic-button-odcdark3",
+      "basic-button-odcdark",
+      "basic-button-odcdarkicon",
+      "basic-button-odcdarknoicon",
       "basic-badge-odcdarktag",
       "basic-badge-odcdarknumber",
       "basic-textinput-odcdark",
