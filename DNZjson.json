@@ -3175,7 +3175,7 @@
         "value": "{basic.orange.1}",
         "type": "color"
       },
-      "opacityblack32": {
+      "black32": {
         "value": "{opacity.black.32}",
         "type": "color"
       }
@@ -3205,6 +3205,10 @@
       },
       "gold5": {
         "value": "{basic.gold.5}",
+        "type": "color"
+      },
+      "black100": {
+        "value": "{opacity.black.100}",
         "type": "color"
       }
     },
@@ -3335,6 +3339,10 @@
       },
       "headlinecn24": {
         "value": "{headLine.cn.24}",
+        "type": "typography"
+      },
+      "headlinecn20": {
+        "value": "{headLine.cn.20}",
         "type": "typography"
       }
     },
