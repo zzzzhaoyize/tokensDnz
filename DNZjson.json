@@ -3336,7 +3336,7 @@
         "type": "sizing"
       }
     },
-    "text-state-default": {
+    "font-text-state-default": {
       "buttoncn16": {
         "value": "{button.cn.16}",
         "type": "typography"
@@ -3354,16 +3354,16 @@
         "type": "typography"
       }
     },
+    "font-text-state-scan": {
+      "buttoncn18": {
+        "value": "{button.cn.18}",
+        "type": "typography"
+      }
+    },
     "shape-borderwidth-state-default": {
       "1": {
         "value": "{boderWidth.1}",
         "type": "borderWidth"
-      }
-    },
-    "text-state-scan-copy": {
-      "buttoncn18": {
-        "value": "{button.cn.18}",
-        "type": "typography"
       }
     },
     "material-backdropfilterblur-state-default": {
