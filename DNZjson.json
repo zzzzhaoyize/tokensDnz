@@ -3150,13 +3150,13 @@
         "type": "boolean"
       }
     },
-    "layout-elevation-state-default": {
+    "material-elevation-state-default": {
       "none": {
         "value": "none",
         "type": "boxShadow"
       }
     },
-    "layout-elevation-state-scan": {
+    "material-elevation-state-scan": {
       "04": {
         "value": "{elevation.herald.04}",
         "type": "boxShadow"
