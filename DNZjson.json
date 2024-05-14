@@ -3240,12 +3240,6 @@
         "type": "borderWidth"
       }
     },
-    "color-bg-state-hover": {
-      "gold1": {
-        "value": "{basic.gold.1}",
-        "type": "color"
-      }
-    },
     "color-text-state-default": {
       "gold5": {
         "value": "{basic.gold.5}",
