@@ -2928,7 +2928,7 @@
         "type": "boxShadow"
       }
     },
-    "material-elevation-state-loading": {
+    "material-elevation-state-onloading-loaded": {
       "04": {
         "value": "{elevation.herald.04}",
         "type": "boxShadow"
@@ -2956,7 +2956,7 @@
         "type": "color"
       }
     },
-    "color-bg-state-loading": {
+    "color-bg-state-onloading-loading": {
       "gradientgold3": {
         "value": "{gradient.gold3}",
         "type": "color"
@@ -3016,7 +3016,7 @@
         "type": "color"
       }
     },
-    "color-icon-state-loading": {
+    "color-icon-state-onloading-loading": {
       "orange9": {
         "value": "{basic.orange.9}",
         "type": "color"
@@ -3046,7 +3046,7 @@
         "type": "borderRadius"
       }
     },
-    "shape-borderradius-state-loading": {
+    "shape-borderradius-state-onloading-loading": {
       "12": {
         "value": "{borderRadius.12}",
         "type": "borderRadius"
@@ -3068,7 +3068,7 @@
         "type": "spacing"
       }
     },
-    "scale-gap-state-loading": {
+    "scale-gap-state-onloading-loading": {
       "8": {
         "value": "{dimension.8}",
         "type": "spacing"
@@ -3102,7 +3102,7 @@
         "type": "sizing"
       }
     },
-    "scale-height-state-loading": {
+    "scale-height-state-onloading-loaded": {
       "40": {
         "value": "{dimension.40}",
         "type": "sizing"
@@ -3126,7 +3126,7 @@
         "type": "typography"
       }
     },
-    "font-text-state-loading": {
+    "font-text-state-onloading-loading": {
       "buttoncn18": {
         "value": "{button.cn.18}",
         "type": "typography"
@@ -3142,6 +3142,56 @@
       "96": {
         "value": "{dimension.96}",
         "type": "dimension"
+      }
+    },
+    "scale-height-state-onloading-loading": {
+      "40": {
+        "value": "{dimension.40}",
+        "type": "sizing"
+      }
+    },
+    "scale-gap-state-onloading-loaded": {
+      "8": {
+        "value": "{dimension.8}",
+        "type": "spacing"
+      },
+      "12": {
+        "value": "{dimension.12}",
+        "type": "spacing"
+      }
+    },
+    "color-bg-state-onloading-loaded": {
+      "gradientgold3": {
+        "value": "{gradient.gold3}",
+        "type": "color"
+      },
+      "gold5": {
+        "value": "{basic.gold.5}",
+        "type": "color"
+      }
+    },
+    "color-icon-state-onloading-loaded": {
+      "orange9": {
+        "value": "{basic.orange.9}",
+        "type": "color"
+      }
+    },
+    "shape-borderradius-state-onloading-loaded": {
+      "12": {
+        "value": "{borderRadius.12}",
+        "type": "borderRadius"
+      }
+    },
+    "material-elevation-state-onloading-loading": {
+      "04": {
+        "value": "{elevation.herald.04}",
+        "type": "boxShadow"
+      }
+    },
+    "font-text-state-onloading-loaded": {
+      "buttoncn18": {
+        "value": "{button.cn.18}",
+        "type": "typography"
       }
     }
   },
