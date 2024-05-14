@@ -3373,7 +3373,7 @@
       }
     }
   },
-  "basic-badge-odc": {
+  "basic-badge-odcdark": {
     "layout-left-state-default": {
       "ture": {
         "value": "{true}",
@@ -3404,7 +3404,7 @@
         "type": "boolean"
       }
     },
-    "layout-elevation-state-default": {
+    "material-elevation-state-default": {
       "none": {
         "value": "none",
         "type": "boxShadow"
@@ -3520,7 +3520,7 @@
         "type": "sizing"
       }
     },
-    "text-state-default": {
+    "font-text-state-default": {
       "buttoncn12": {
         "value": "{button.cn.12}",
         "type": "typography"
@@ -5208,7 +5208,9 @@
       "id": "65300e9fbeadd46524a1f9df3f25570104206746",
       "name": "dark",
       "$figmaStyleReferences": {},
-      "selectedTokenSets": {},
+      "selectedTokenSets": {
+        "basic-badge-odcdark": "disabled"
+      },
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
       "$figmaVariableReferences": {
@@ -5263,7 +5265,7 @@
       "basic-progress-odcdark",
       "basic-button-odc",
       "basic-button-odcdark",
-      "basic-badge-odc",
+      "basic-badge-odcdark",
       "basic-texttip-odcdark",
       "basic-texttip-odcdark_复制",
       "button",
