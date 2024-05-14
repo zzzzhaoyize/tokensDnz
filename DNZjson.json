@@ -2928,7 +2928,7 @@
         "type": "boxShadow"
       }
     },
-    "material-elevation-state-scan": {
+    "material-elevation-state-loading": {
       "04": {
         "value": "{elevation.herald.04}",
         "type": "boxShadow"
@@ -2956,7 +2956,7 @@
         "type": "color"
       }
     },
-    "color-bg-state-scan": {
+    "color-bg-state-loading": {
       "gradientgold3": {
         "value": "{gradient.gold3}",
         "type": "color"
@@ -3022,7 +3022,7 @@
         "type": "color"
       }
     },
-    "color-bg-state-hover": {
+    "color-bg-state-onmouseover-hover": {
       "grey8": {
         "value": "{basic.grey.8}",
         "type": "color"
@@ -3046,7 +3046,7 @@
         "type": "borderRadius"
       }
     },
-    "shape-borderradius-state-scan": {
+    "shape-borderradius-state-loading": {
       "12": {
         "value": "{borderRadius.12}",
         "type": "borderRadius"
@@ -3126,7 +3126,7 @@
         "type": "typography"
       }
     },
-    "font-text-state-scan": {
+    "font-text-state-loading": {
       "buttoncn18": {
         "value": "{button.cn.18}",
         "type": "typography"
