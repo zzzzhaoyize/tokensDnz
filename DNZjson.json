@@ -3016,7 +3016,7 @@
         "type": "color"
       }
     },
-    "color-icon-state-scan": {
+    "color-icon-state-loading": {
       "orange9": {
         "value": "{basic.orange.9}",
         "type": "color"
@@ -3068,7 +3068,7 @@
         "type": "spacing"
       }
     },
-    "scale-gap-state-scan": {
+    "scale-gap-state-loading": {
       "8": {
         "value": "{dimension.8}",
         "type": "spacing"
@@ -3102,7 +3102,7 @@
         "type": "sizing"
       }
     },
-    "scale-height-state-scan": {
+    "scale-height-state-loading": {
       "40": {
         "value": "{dimension.40}",
         "type": "sizing"
@@ -3222,13 +3222,13 @@
         "type": "typography"
       }
     },
-    "color-bg-state-unfinish": {
+    "color-bg-state-default": {
       "gold5": {
         "value": "{basic.gold.5}",
         "type": "color"
       }
     },
-    "color-bg-state-finish": {
+    "color-bg-state-loading": {
       "gradientgold2": {
         "value": "{gradient.gold2}",
         "type": "color"
@@ -3446,7 +3446,7 @@
         "type": "boolean"
       }
     },
-    "layout-elevation-state-default": {
+    "material-elevation-state-default": {
       "05": {
         "value": "{elevation.herald.05}",
         "type": "boxShadow"
@@ -3570,7 +3570,7 @@
         "type": "sizing"
       }
     },
-    "text-state-default": {
+    "font-text-state-default": {
       "headlinecn14": {
         "value": "{headLine.cn.14}",
         "type": "typography"
@@ -3632,26 +3632,6 @@
       "none": {
         "value": "none",
         "type": "borderRadius"
-      }
-    },
-    "scale-width-date-image": {
-      "96": {
-        "value": "{dimension.96}",
-        "type": "sizing"
-      },
-      "288": {
-        "value": "{dimension.288}",
-        "type": "sizing"
-      }
-    },
-    "scale-height-date-image": {
-      "96": {
-        "value": "{dimension.96}",
-        "type": "sizing"
-      },
-      "160": {
-        "value": "{dimension.160",
-        "type": "sizing"
       }
     },
     "material-image-state-default": {
