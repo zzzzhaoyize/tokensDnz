@@ -1389,6 +1389,10 @@
         "value": "120px",
         "type": "dimension"
       },
+      "128": {
+        "value": "128px",
+        "type": "dimension"
+      },
       "160": {
         "value": "160px",
         "type": "dimension"
@@ -3083,8 +3087,16 @@
         "value": "{dimension.56}",
         "type": "sizing"
       },
+      "72": {
+        "value": "{dimension.56}",
+        "type": "sizing"
+      },
       "96": {
         "value": "{dimension.96}",
+        "type": "sizing"
+      },
+      "128": {
+        "value": "{dimension.128}",
         "type": "sizing"
       }
     },
