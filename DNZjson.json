@@ -3285,8 +3285,8 @@
       }
     },
     "color-bg-state-default": {
-      "gold5": {
-        "value": "{basic.gold.5}",
+      "gold1": {
+        "value": "{basic.gold.1}",
         "type": "color"
       }
     },
