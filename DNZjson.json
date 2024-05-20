@@ -3703,10 +3703,6 @@
       }
     },
     "shape-borderradius-state-default": {
-      "8": {
-        "value": "{borderRadius.8}",
-        "type": "borderRadius"
-      },
       "200": {
         "value": "{borderRadius.200}",
         "type": "borderRadius"
@@ -3737,76 +3733,30 @@
       }
     },
     "color-bg-state-defult": {
-      "red6": {
-        "value": "{basic.red.6}",
-        "type": "color"
-      },
-      "orange0": {
-        "value": "{basic.orange.0}",
+      "blue1": {
+        "value": "{basic.blue.1}",
         "type": "color"
       }
     },
     "color-text-state-defult": {
-      "white100": {
-        "value": "{opacity.white.100}",
-        "type": "color"
-      },
-      "orange7": {
-        "value": "{basic.orange.7}",
-        "type": "color"
-      }
-    },
-    "color-icon-state-defult": {
-      "white100": {
-        "value": "{opacity.white.100}",
-        "type": "color"
-      },
-      "orange7": {
-        "value": "{basic.orange.7}",
+      "blue6": {
+        "value": "{basic.blue.6}",
         "type": "color"
       }
     },
     "scale-width-state-default": {
-      "6": {
-        "value": "{dimension.6}",
-        "type": "sizing"
-      },
-      "20": {
-        "value": "{dimension.20}",
-        "type": "sizing"
-      },
-      "24": {
-        "value": "{dimension.24}",
-        "type": "sizing"
-      },
-      "32": {
-        "value": "{dimension.32}",
-        "type": "sizing"
-      },
-      "40": {
-        "value": "{dimension.40}",
+      "48": {
+        "value": "{dimension.48}",
         "type": "sizing"
       }
     },
     "scale-height-state-default": {
-      "6": {
-        "value": "{dimension.6}",
-        "type": "sizing"
-      },
-      "20": {
-        "value": "{dimension.20}",
-        "type": "sizing"
-      },
-      "28": {
-        "value": "{dimension.28}",
+      "26": {
+        "value": "{dimension.26}",
         "type": "sizing"
       }
     },
     "font-text-state-default": {
-      "buttoncn12": {
-        "value": "{button.cn.12}",
-        "type": "typography"
-      },
       "headlinecn14": {
         "value": "{headLine.cn.14}",
         "type": "typography"
@@ -5470,10 +5420,7 @@
       "id": "65300e9fbeadd46524a1f9df3f25570104206746",
       "name": "dark",
       "$figmaStyleReferences": {},
-      "selectedTokenSets": {
-        "basic-badge-quote": "disabled",
-        "basic-badge-purple": "disabled"
-      },
+      "selectedTokenSets": {},
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
       "$figmaVariableReferences": {
