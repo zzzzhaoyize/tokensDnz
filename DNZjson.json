@@ -2613,7 +2613,7 @@
       }
     }
   },
-  "button(ex)": {
+  "button(example)": {
     "color-bg-state-defult": {
       "value": "{color.basic.dark-blue.5}",
       "type": "color"
@@ -4648,7 +4648,9 @@
       "id": "65300e9fbeadd46524a1f9df3f25570104206746",
       "name": "dark",
       "$figmaStyleReferences": {},
-      "selectedTokenSets": {},
+      "selectedTokenSets": {
+        "button(example)": "disabled"
+      },
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
       "$figmaVariableReferences": {
@@ -4700,7 +4702,7 @@
       "basic-badge-odcdarktag",
       "basic-badge-odcdarknumber",
       "basic-button-odc",
-      "button(ex)",
+      "button(example)",
       "basic-progress-odcdark",
       "basic-badge-odcdark",
       "basic-badge-purple",
