@@ -1154,196 +1154,196 @@
       "basic": {
         "dimension": {
           "0": {
-            "value": "0",
+            "value": "0px",
             "type": "other"
           },
           "1": {
-            "value": "1",
+            "value": "1px",
             "type": "other"
           },
           "2": {
-            "value": "2",
+            "value": "2px",
             "type": "other"
           },
           "4": {
-            "value": "4",
+            "value": "4px",
             "type": "other"
           },
           "6": {
-            "value": "6",
+            "value": "6px",
             "type": "other"
           },
           "8": {
-            "value": "8",
+            "value": "8px",
             "type": "other"
           },
           "12": {
-            "value": "12",
+            "value": "12px",
             "type": "other"
           },
           "16": {
-            "value": "16",
+            "value": "16px",
             "type": "other"
           },
           "20": {
-            "value": "20",
+            "value": "20px",
             "type": "other"
           },
           "24": {
-            "value": "24",
+            "value": "24px",
             "type": "other"
           },
           "26": {
-            "value": "26",
+            "value": "26px",
             "type": "other"
           },
           "28": {
-            "value": "28",
+            "value": "28px",
             "type": "other"
           },
           "32": {
-            "value": "32",
+            "value": "32px",
             "type": "other"
           },
           "40": {
-            "value": "40",
+            "value": "40px",
             "type": "other"
           },
           "48": {
-            "value": "48",
+            "value": "48px",
             "type": "other"
           },
           "56": {
-            "value": "56",
+            "value": "56px",
             "type": "other"
           },
           "64": {
-            "value": "64",
+            "value": "64px",
             "type": "other"
           },
           "72": {
-            "value": "72",
+            "value": "72px",
             "type": "other"
           },
           "80": {
-            "value": "80",
+            "value": "80px",
             "type": "other"
           },
           "88": {
-            "value": "88",
+            "value": "88px",
             "type": "other"
           },
           "96": {
-            "value": "96",
+            "value": "96px",
             "type": "other"
           },
           "120": {
-            "value": "120",
+            "value": "120px",
             "type": "other"
           },
           "128": {
-            "value": "128",
+            "value": "128px",
             "type": "other"
           },
           "160": {
-            "value": "160",
+            "value": "160px",
             "type": "other"
           },
           "176": {
-            "value": "176",
+            "value": "176px",
             "type": "other"
           },
           "200": {
-            "value": "200",
+            "value": "200px",
             "type": "other"
           },
           "240": {
-            "value": "240",
+            "value": "240px",
             "type": "other"
           },
           "288": {
-            "value": "288",
+            "value": "288px",
             "type": "other"
           },
           "320": {
-            "value": "320",
+            "value": "320px",
             "type": "other"
           },
           "1200": {
-            "value": "1200",
+            "value": "1200px",
             "type": "other"
           },
           "1380": {
-            "value": "1380",
+            "value": "1380px",
             "type": "other"
           }
         },
         "deg": {
           "45": {
-            "value": "45",
+            "value": "45deg",
             "type": "other"
           },
           "90": {
-            "value": "90",
+            "value": "90deg",
             "type": "other"
           },
           "135": {
-            "value": "135",
+            "value": "135deg",
             "type": "other"
           },
           "180": {
-            "value": "180",
+            "value": "180deg",
             "type": "other"
           }
         },
         "percent": {
           "0": {
-            "value": "0",
+            "value": "0%",
             "type": "other"
           },
           "10": {
-            "value": "10",
+            "value": "10%",
             "type": "other"
           },
           "20": {
-            "value": "20",
+            "value": "20%",
             "type": "other"
           },
           "30": {
-            "value": "30",
+            "value": "30%",
             "type": "other"
           },
           "40": {
-            "value": "40",
+            "value": "40%",
             "type": "other"
           },
           "50": {
-            "value": "50",
+            "value": "50%",
             "type": "other"
           },
           "60": {
-            "value": "60",
+            "value": "60%",
             "type": "other"
           },
           "70": {
-            "value": "70",
+            "value": "70%",
             "type": "other"
           },
           "80": {
-            "value": "80",
+            "value": "80%",
             "type": "other"
           },
           "90": {
-            "value": "90",
+            "value": "90%",
             "type": "other"
           },
           "100": {
-            "value": "100",
+            "value": "100%",
             "type": "other"
           }
         }
       },
-      "boderradius": {
+      "borderradius": {
         "0": {
           "value": "{dimension.basic.dimension.0}",
           "type": "other"
@@ -2614,6 +2614,74 @@
     }
   },
   "button(example)": {
+    "color-bg-state-default": {
+      "darkblue5": {
+        "value": "{color.basic.dark-blue.5}",
+        "type": "color"
+      }
+    },
+    "color-bg-state-onmouseover_hover": {
+      "darkblue4": {
+        "value": "{color.basic.dark-blue.4}",
+        "type": "color"
+      }
+    },
+    "color-text-state-default": {
+      "white100": {
+        "value": "{color.basic.opacity.white.100}",
+        "type": "color"
+      }
+    },
+    "color-border-state-default": {
+      "white32": {
+        "value": "{color.basic.opacity.white.32}",
+        "type": "color"
+      }
+    },
+    "color-icon-state-default": {
+      "white100": {
+        "value": "{color.basic.opacity.white.100}",
+        "type": "color"
+      }
+    },
+    "shape-borderradius-state-default": {
+      "24": {
+        "value": "{dimension.boderradius.24}",
+        "type": "borderRadius"
+      }
+    },
+    "scale-padding-state-default": {
+      "xl": {
+        "value": "{size.padding.xl}",
+        "type": "spacing"
+      }
+    },
+    "scale-gap-state-default": {
+      "8": {
+        "value": "{dimension.gap.8}",
+        "type": "spacing"
+      }
+    },
+    "scale-width-state-default": {
+      "176": {
+        "value": "{dimension.basic.dimension.176}",
+        "type": "sizing"
+      }
+    },
+    "scale-height-state-default": {
+      "72": {
+        "value": "{dimension.basic.dimension.72}",
+        "type": "sizing"
+      }
+    },
+    "shape-borderwidth-state-default": {
+      "1": {
+        "value": "{dimension.basic.dimension.1}",
+        "type": "borderWidth"
+      }
+    }
+  },
+  "button(example2)": {
     "color-bg-state-defult": {
       "value": "{color.basic.dark-blue.5}",
       "type": "color"
@@ -4648,7 +4716,9 @@
       "id": "65300e9fbeadd46524a1f9df3f25570104206746",
       "name": "dark",
       "$figmaStyleReferences": {},
-      "selectedTokenSets": {},
+      "selectedTokenSets": {
+        "button(example2)": "disabled"
+      },
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
       "$figmaVariableReferences": {
@@ -4701,6 +4771,7 @@
       "basic-badge-odcdarknumber",
       "basic-button-odc",
       "button(example)",
+      "button(example2)",
       "basic-progress-odcdark",
       "basic-badge-odcdark",
       "basic-badge-purple",
