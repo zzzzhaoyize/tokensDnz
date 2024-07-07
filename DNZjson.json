@@ -1889,6 +1889,56 @@
       }
     }
   },
+  "text": {
+    "color-bg-state-default": {
+      "grey1": {
+        "value": "{color.basic.grey.1}",
+        "type": "color"
+      }
+    },
+    "color-text-state-default": {
+      "black100": {
+        "value": "{color.basic.opacity.black.100}",
+        "type": "color"
+      }
+    },
+    "color-border-state-default": {
+      "white32": {
+        "value": "{color.basic.opacity.white.32}",
+        "type": "color"
+      }
+    },
+    "shape-borderradius-state-default": {
+      "16": {
+        "value": "{dimension.borderradius.16}",
+        "type": "borderRadius"
+      }
+    },
+    "scale-padding-state-default": {
+      "xxl": {
+        "value": "{size.padding.xxl}",
+        "type": "spacing"
+      }
+    },
+    "scale-gap-state-default": {
+      "16": {
+        "value": "{dimension.gap.16}",
+        "type": "spacing"
+      }
+    },
+    "scale-min_height-state-default": {
+      "80": {
+        "value": "{dimension.basic.dimension.80}",
+        "type": "sizing"
+      }
+    },
+    "shape-borderwidth-state-default": {
+      "1": {
+        "value": "{dimension.basic.dimension.1}",
+        "type": "borderWidth"
+      }
+    }
+  },
   "basic-button-odcdarknormal": {
     "layout-left-state-default": {
       "ture": {
@@ -4010,9 +4060,7 @@
       "id": "65300e9fbeadd46524a1f9df3f25570104206746",
       "name": "dark",
       "$figmaStyleReferences": {},
-      "selectedTokenSets": {
-        "button": "disabled"
-      },
+      "selectedTokenSets": {},
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
       "$figmaVariableReferences": {
@@ -4059,6 +4107,7 @@
     "tokenSetOrder": [
       "basic",
       "button",
+      "text",
       "basic-button-odcdarknormal",
       "basic-button-odcdarkicon",
       "basic-button-odcdarknoicon",
