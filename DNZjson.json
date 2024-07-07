@@ -1276,6 +1276,10 @@
           "1380": {
             "value": "1380px",
             "type": "other"
+          },
+          "1600": {
+            "value": "1600px",
+            "type": "other"
           }
         },
         "deg": {
@@ -2001,8 +2005,8 @@
       }
     },
     "scale-width-state-default": {
-      "96": {
-        "value": "{dimension.basic.dimension.1380}",
+      "1600": {
+        "value": "{dimension.basic.dimension.1600}",
         "type": "sizing"
       }
     }
