@@ -1827,8 +1827,8 @@
   },
   "button": {
     "color-bg-state-default": {
-      "darkblue5": {
-        "value": "{color.basic.dark-blue.5}",
+      "brand5": {
+        "value": "{color.basic.brand.5}",
         "type": "color"
       }
     },
