@@ -1821,7 +1821,7 @@
       }
     }
   },
-  "button(example)": {
+  "button": {
     "color-bg-state-default": {
       "darkblue5": {
         "value": "{color.basic.dark-blue.5}",
@@ -1854,7 +1854,7 @@
     },
     "shape-borderradius-state-default": {
       "24": {
-        "value": "{dimension.boderradius.24}",
+        "value": "{dimension.borderradius.24}",
         "type": "borderRadius"
       }
     },
@@ -4011,7 +4011,7 @@
       "name": "dark",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "background之前": "disabled"
+        "button": "disabled"
       },
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
@@ -4058,7 +4058,7 @@
   "$metadata": {
     "tokenSetOrder": [
       "basic",
-      "button(example)",
+      "button",
       "basic-button-odcdarknormal",
       "basic-button-odcdarkicon",
       "basic-button-odcdarknoicon",
