@@ -1826,10 +1826,6 @@
       "darkblue5": {
         "value": "{color.basic.dark-blue.5}",
         "type": "color"
-      },
-      "white100": {
-        "value": "{color.basic.opacity.white.100}",
-        "type": "color"
       }
     },
     "color-bg-state-onmouseover_hover": {
@@ -2065,6 +2061,30 @@
       "type": "borderRadius"
     }
   },
+  "avatar": {
+    "scale-height-state-default": {
+      "80": {
+        "value": "{dimension.basic.dimension.80}",
+        "type": "sizing"
+      }
+    },
+    "scale-width-state-default": {
+      "80": {
+        "value": "{dimension.basic.dimension.80}",
+        "type": "sizing"
+      }
+    },
+    "shape-borderradius-state-default": {
+      "100": {
+        "value": "{dimension.borderradius.100}",
+        "type": "borderRadius"
+      }
+    },
+    "material-image-state-default": {
+      "value": "https://i.pinimg.com/736x/3e/c7/04/3ec704e63141380a0094d70a73b4e50e.jpg",
+      "type": "asset"
+    }
+  },
   "intent_distribution": {
     "scale-height-state-default": {
       "64": {
@@ -2095,30 +2115,6 @@
         "value": "{dimension.borderradius.20}",
         "type": "borderRadius"
       }
-    }
-  },
-  "avatar": {
-    "scale-height-state-default": {
-      "80": {
-        "value": "{dimension.basic.dimension.80}",
-        "type": "sizing"
-      }
-    },
-    "scale-width-state-default": {
-      "80": {
-        "value": "{dimension.basic.dimension.80}",
-        "type": "sizing"
-      }
-    },
-    "shape-borderradius-state-default": {
-      "100": {
-        "value": "{dimension.borderradius.100}",
-        "type": "borderRadius"
-      }
-    },
-    "material-image-state-default": {
-      "value": "https://i.pinimg.com/736x/3e/c7/04/3ec704e63141380a0094d70a73b4e50e.jpg",
-      "type": "asset"
     }
   },
   "button(example2)": {
@@ -2831,8 +2827,8 @@
       "input",
       "badge",
       "background",
-      "intent_distribution",
       "avatar",
+      "intent_distribution",
       "button(example2)",
       "basic-progress-odcdark",
       "basic-texttip-odcdark",
