@@ -1833,14 +1833,14 @@
       }
     },
     "color-bg-state-onmouseover_hover": {
-      "darkblue4": {
-        "value": "{color.basic.dark-blue.4}",
+      "brand4": {
+        "value": "{color.basic.brand.4}",
         "type": "color"
       }
     },
     "color-bg-state-active": {
-      "darkblue4": {
-        "value": "{color.basic.dark-blue.4}",
+      "brand4": {
+        "value": "{color.basic.brand.4}",
         "type": "color"
       }
     },
@@ -2031,8 +2031,8 @@
       }
     },
     "color-bg-state-defult": {
-      "darkblue4": {
-        "value": "{color.basic.dark-blue.4}",
+      "brand4": {
+        "value": "{color.basic.brand.4}",
         "type": "color"
       }
     },
