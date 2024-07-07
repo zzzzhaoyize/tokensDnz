@@ -2097,6 +2097,30 @@
       }
     }
   },
+  "avatar": {
+    "scale-height-state-default": {
+      "80": {
+        "value": "{dimension.basic.dimension.80}",
+        "type": "sizing"
+      }
+    },
+    "scale-width-state-default": {
+      "80": {
+        "value": "{dimension.basic.dimension.80}",
+        "type": "sizing"
+      }
+    },
+    "shape-borderradius-state-default": {
+      "100": {
+        "value": "{dimension.borderradius.100}",
+        "type": "borderRadius"
+      }
+    },
+    "material-image-state-default": {
+      "value": "https://i.pinimg.com/736x/3e/c7/04/3ec704e63141380a0094d70a73b4e50e.jpg",
+      "type": "asset"
+    }
+  },
   "button(example2)": {
     "color-bg-state-defult": {
       "value": "{color.basic.dark-blue.5}",
@@ -2808,6 +2832,7 @@
       "badge",
       "background",
       "intent_distribution",
+      "avatar",
       "button(example2)",
       "basic-progress-odcdark",
       "basic-texttip-odcdark",
