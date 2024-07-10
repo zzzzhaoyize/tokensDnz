@@ -2122,18 +2122,6 @@
     }
   },
   "intent_distribution": {
-    "scale-height-state-default": {
-      "64": {
-        "value": "{dimension.basic.dimension.64}",
-        "type": "sizing"
-      }
-    },
-    "scale-width-state-default": {
-      "320": {
-        "value": "{dimension.basic.dimension.320}",
-        "type": "sizing"
-      }
-    },
     "color-bg-state-default": {
       "white100": {
         "value": "{color.basic.opacity.white.100}",
