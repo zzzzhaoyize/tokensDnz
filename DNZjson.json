@@ -1485,40 +1485,6 @@
       }
     },
     "size": {
-      "font": {
-        "tiny": {
-          "value": "0.75",
-          "type": "sizing"
-        },
-        "small": {
-          "value": "0.875",
-          "type": "sizing"
-        },
-        "medium": {
-          "value": "1",
-          "type": "sizing"
-        },
-        "large": {
-          "value": "1.25",
-          "type": "sizing"
-        },
-        "xl": {
-          "value": "1.5",
-          "type": "sizing"
-        },
-        "xxl": {
-          "value": "2",
-          "type": "sizing"
-        },
-        "xxxl": {
-          "value": "3",
-          "type": "sizing"
-        },
-        "base": {
-          "value": "{size.font.medium.value}",
-          "type": "sizing"
-        }
-      },
       "icon": {
         "small": {
           "value": "1.5",
@@ -1823,6 +1789,42 @@
         "value": "%",
         "type": "other"
       }
+    },
+    "font": {
+      "size": {
+        "basic": {
+          "value": "14",
+          "type": "fontSizes"
+        },
+        "tiny": {
+          "value": "14*0.75",
+          "type": "fontSizes"
+        },
+        "small": {
+          "value": "14*0.875",
+          "type": "fontSizes"
+        },
+        "medium": {
+          "value": "14*1",
+          "type": "fontSizes"
+        },
+        "large": {
+          "value": "14*1.25",
+          "type": "fontSizes"
+        },
+        "xl": {
+          "value": "14*1.5",
+          "type": "fontSizes"
+        },
+        "xxl": {
+          "value": "14*2",
+          "type": "fontSizes"
+        },
+        "xxxl": {
+          "value": "14*3",
+          "type": "fontSizes"
+        }
+      }
     }
   },
   "button": {
@@ -1856,7 +1858,7 @@
         "type": "color"
       }
     },
-    "shape-icon_colot-state-default": {
+    "shape-icon_color-state-default": {
       "white100": {
         "value": "{color.basic.opacity.white.100}",
         "type": "color"
@@ -1903,6 +1905,12 @@
         "value": "{color.basic.opacity.white.32}",
         "type": "color"
       }
+    },
+    "font-fontsize-state-default": {
+      "xl": {
+        "value": "{font.size.xl}",
+        "type": "fontSizes"
+      }
     }
   },
   "text": {
@@ -1925,8 +1933,8 @@
       }
     },
     "shape-borderradius-state-default": {
-      "16": {
-        "value": "{dimension.borderradius.16}",
+      "24": {
+        "value": "{dimension.borderradius.24}",
         "type": "borderRadius"
       }
     },
@@ -1943,8 +1951,8 @@
       }
     },
     "scale-min_height-state-default": {
-      "80": {
-        "value": "{dimension.basic.dimension.80}",
+      "72": {
+        "value": "{dimension.basic.dimension.72}",
         "type": "sizing"
       }
     },
@@ -1952,6 +1960,12 @@
       "1": {
         "value": "{dimension.basic.dimension.1}",
         "type": "borderWidth"
+      }
+    },
+    "font-fontsize-state-default": {
+      "large": {
+        "value": "{font.size.large}",
+        "type": "fontSizes"
       }
     }
   },
@@ -2008,6 +2022,12 @@
       "1600": {
         "value": "{dimension.basic.dimension.1600}",
         "type": "sizing"
+      }
+    },
+    "font-fontsize-state-default": {
+      "xl": {
+        "value": "{font.size.xl}",
+        "type": "fontSizes"
       }
     }
   },
@@ -2067,14 +2087,14 @@
   },
   "avatar": {
     "scale-height-state-default": {
-      "80": {
-        "value": "{dimension.basic.dimension.80}",
+      "medium": {
+        "value": "{dimension.basic.dimension.72}",
         "type": "sizing"
       }
     },
     "scale-width-state-default": {
-      "80": {
-        "value": "{dimension.basic.dimension.80}",
+      "medium": {
+        "value": "{dimension.basic.dimension.72}",
         "type": "sizing"
       }
     },
@@ -2097,8 +2117,8 @@
       }
     },
     "scale-width-state-default": {
-      "240": {
-        "value": "{dimension.basic.dimension.240}",
+      "320": {
+        "value": "{dimension.basic.dimension.320}",
         "type": "sizing"
       }
     },
@@ -2118,6 +2138,12 @@
       "20": {
         "value": "{dimension.borderradius.20}",
         "type": "borderRadius"
+      }
+    },
+    "font-fontsize-state-default": {
+      "large": {
+        "value": "{font.size.large}",
+        "type": "fontSizes"
       }
     }
   },
