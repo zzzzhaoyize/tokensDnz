@@ -2111,6 +2111,18 @@
         "value": "{dimension.borderradius.0}",
         "type": "borderRadius"
       }
+    },
+    "material-image-state-default-unload": {
+      "bg_unload": {
+        "value": "https://i.pinimg.com/736x/35/6f/f1/356ff1848ba9affde2fbde8dacbf9891.jpg",
+        "type": "asset"
+      }
+    },
+    "material-image-state-default-loading": {
+      "gif": {
+        "value": "https://i.pinimg.com/736x/35/6f/f1/356ff1848ba9affde2fbde8dacbf9891.jpg",
+        "type": "asset"
+      }
     }
   },
   "avatar": {
