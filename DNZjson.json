@@ -2107,6 +2107,10 @@
     "material-image-state-default": {
       "value": "https://i.pinimg.com/736x/3e/c7/04/3ec704e63141380a0094d70a73b4e50e.jpg",
       "type": "asset"
+    },
+    "material-image-state-onmouseover_hover": {
+      "value": "https://i.pinimg.com/736x/3e/c7/04/3ec704e63141380a0094d70a73b4e50e.jpg",
+      "type": "asset"
     }
   },
   "intent_distribution": {
