@@ -1841,8 +1841,8 @@
       }
     },
     "color-bg-state-active": {
-      "brand4": {
-        "value": "{color.basic.brand.4}",
+      "brand6": {
+        "value": "{color.basic.brand.6}",
         "type": "color"
       }
     },
