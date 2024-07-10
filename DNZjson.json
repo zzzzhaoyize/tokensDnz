@@ -1967,6 +1967,30 @@
         "value": "{font.size.large}",
         "type": "fontSizes"
       }
+    },
+    "color-bg-state-loaded": {
+      "black4": {
+        "value": "{color.basic.opacity.black.4}",
+        "type": "color"
+      }
+    },
+    "color-bg-state-loading": {
+      "brand3": {
+        "value": "{color.basic.brand.3}",
+        "type": "color"
+      }
+    },
+    "color-text-state-loading": {
+      "white100": {
+        "value": "{color.basic.opacity.white.100}",
+        "type": "color"
+      }
+    },
+    "color-text-state-unload": {
+      "black32": {
+        "value": "{color.basic.opacity.black.32}",
+        "type": "color"
+      }
     }
   },
   "input": {
