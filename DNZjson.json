@@ -2077,12 +2077,16 @@
   },
   "background": {
     "material-image-state-default": {
-      "value": "https://i.pinimg.com/736x/35/6f/f1/356ff1848ba9affde2fbde8dacbf9891.jpg",
-      "type": "asset"
+      "bg": {
+        "value": "https://i.pinimg.com/736x/35/6f/f1/356ff1848ba9affde2fbde8dacbf9891.jpg",
+        "type": "asset"
+      }
     },
     "shape-borderradius-state-default": {
-      "value": "{dimension.borderradius.0}",
-      "type": "borderRadius"
+      "0": {
+        "value": "{dimension.borderradius.0}",
+        "type": "borderRadius"
+      }
     }
   },
   "avatar": {
@@ -2105,12 +2109,16 @@
       }
     },
     "material-image-state-default": {
-      "value": "https://i.pinimg.com/736x/3e/c7/04/3ec704e63141380a0094d70a73b4e50e.jpg",
-      "type": "asset"
+      "avatar": {
+        "value": "https://i.pinimg.com/736x/3e/c7/04/3ec704e63141380a0094d70a73b4e50e.jpg",
+        "type": "asset"
+      }
     },
     "material-image-state-onmouseover_hover": {
-      "value": "https://i.pinimg.com/736x/3e/c7/04/3ec704e63141380a0094d70a73b4e50e.jpg",
-      "type": "asset"
+      "gif": {
+        "value": "https://i.pinimg.com/736x/3e/c7/04/3ec704e63141380a0094d70a73b4e50e.jpg",
+        "type": "asset"
+      }
     }
   },
   "intent_distribution": {
