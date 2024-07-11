@@ -1991,18 +1991,6 @@
         "value": "{color.basic.opacity.black.32}",
         "type": "color"
       }
-    },
-    "shape-borderradius-state-loading": {
-      "12": {
-        "value": "{dimension.borderradius.12}",
-        "type": "borderRadius"
-      }
-    },
-    "shape-borderradius-state-loaded": {
-      "12": {
-        "value": "{dimension.borderradius.12}",
-        "type": "borderRadius"
-      }
     }
   },
   "input": {
