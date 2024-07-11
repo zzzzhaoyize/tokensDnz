@@ -2195,6 +2195,18 @@
         "value": "{color.basic.brand.5}",
         "type": "color"
       }
+    },
+    "scale-width-state-default": {
+      "56": {
+        "value": "{dimension.basic.dimension.56}",
+        "type": "sizing"
+      }
+    },
+    "scale-height-state-default": {
+      "56": {
+        "value": "{dimension.basic.dimension.56}",
+        "type": "sizing"
+      }
     }
   },
   "button(example2)": {
