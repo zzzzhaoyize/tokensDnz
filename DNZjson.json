@@ -2189,6 +2189,14 @@
       }
     }
   },
+  "icon": {
+    "shape-icon_color-state-default": {
+      "brand5": {
+        "value": "{color.basic.brand.5}",
+        "type": "color"
+      }
+    }
+  },
   "button(example2)": {
     "color-bg-state-defult": {
       "value": "{color.basic.dark-blue.5}",
@@ -2901,6 +2909,7 @@
       "background",
       "avatar",
       "intent_distribution",
+      "icon",
       "button(example2)",
       "basic-progress-odcdark",
       "basic-texttip-odcdark",
