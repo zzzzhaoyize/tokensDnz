@@ -2086,7 +2086,7 @@
         "type": "color"
       }
     },
-    "shape-icon_color-state-defult": {
+    "color-icon_color-state-defult": {
       "white100": {
         "value": "{color.basic.opacity.white.100}",
         "type": "color"
@@ -2190,7 +2190,7 @@
     }
   },
   "icon": {
-    "shape-icon_color-state-default": {
+    "color-icon_color-state-default": {
       "brand5": {
         "value": "{color.basic.brand.5}",
         "type": "color"
