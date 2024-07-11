@@ -2053,6 +2053,42 @@
         "value": "{font.size.xl}",
         "type": "fontSizes"
       }
+    },
+    "color-bg-state-received": {
+      "white64": {
+        "value": "{color.basic.opacity.white.64}",
+        "type": "color"
+      }
+    },
+    "color-text-state-recived": {
+      "black100": {
+        "value": "{color.basic.opacity.black.100}",
+        "type": "color"
+      }
+    },
+    "color-bg-state-sent": {
+      "brand3": {
+        "value": "{color.basic.brand.3}",
+        "type": "color"
+      }
+    },
+    "color-text-state-sent": {
+      "white100": {
+        "value": "{color.basic.opacity.white.100}",
+        "type": "color"
+      }
+    },
+    "color-border-state-sent": {
+      "white24": {
+        "value": "{color.basic.opacity.white.24}",
+        "type": "color"
+      }
+    },
+    "color-border-state-recived": {
+      "white24": {
+        "value": "{color.basic.opacity.white.24}",
+        "type": "color"
+      }
     }
   },
   "badge": {
