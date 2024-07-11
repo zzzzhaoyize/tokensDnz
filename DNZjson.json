@@ -2089,6 +2089,12 @@
         "value": "{color.basic.opacity.white.24}",
         "type": "color"
       }
+    },
+    "color-text-state-hyperlink": {
+      "lightblue5": {
+        "value": "{color.basic.light-blue.5}",
+        "type": "color"
+      }
     }
   },
   "badge": {
