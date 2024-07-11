@@ -1871,8 +1871,8 @@
       }
     },
     "scale-width-state-default": {
-      "176": {
-        "value": "{dimension.basic.dimension.176}",
+      "72": {
+        "value": "{dimension.basic.dimension.72}",
         "type": "sizing"
       }
     },
@@ -1927,8 +1927,8 @@
       }
     },
     "scale-padding-state-default": {
-      "xxl": {
-        "value": "{size.padding.xxl}",
+      "16": {
+        "value": "{dimension.padding.16}",
         "type": "spacing"
       }
     },
@@ -2007,8 +2007,8 @@
       }
     },
     "scale-padding-state-default": {
-      "xxl": {
-        "value": "{size.padding.xxl}",
+      "24": {
+        "value": "{dimension.padding.24}",
         "type": "spacing"
       }
     },
@@ -2093,8 +2093,8 @@
       }
     },
     "scale-padding-state-default": {
-      "medium": {
-        "value": "{size.padding.medium}",
+      "4": {
+        "value": "{dimension.padding.4}",
         "type": "spacing"
       }
     },
