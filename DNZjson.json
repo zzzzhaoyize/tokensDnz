@@ -1482,59 +1482,47 @@
           "value": "8px 16px",
           "type": "other"
         }
-      }
-    },
-    "size": {
-      "icon": {
-        "small": {
-          "value": "1.5",
-          "type": "sizing"
-        },
-        "base": {
-          "value": "2.0",
-          "type": "sizing"
-        },
-        "large": {
-          "value": "2.5",
-          "type": "sizing"
-        },
-        "xl": {
-          "value": "3.0",
-          "type": "sizing"
-        },
-        "xxl": {
-          "value": "5.0",
-          "type": "sizing"
-        }
       },
       "padding": {
-        "tiny": {
-          "value": "0.25",
-          "type": "sizing"
+        "4": {
+          "value": "4px 4px",
+          "type": "other"
         },
-        "small": {
-          "value": "0.5",
-          "type": "sizing"
+        "8": {
+          "value": "8px 8px",
+          "type": "other"
         },
-        "medium": {
-          "value": "1",
-          "type": "sizing"
+        "12": {
+          "value": "12px 12px",
+          "type": "other"
         },
-        "large": {
-          "value": "1.5",
-          "type": "sizing"
+        "16": {
+          "value": "16px 16px",
+          "type": "other"
         },
-        "xl": {
-          "value": "2",
-          "type": "sizing"
+        "20": {
+          "value": "20px 20px",
+          "type": "other"
         },
-        "xxl": {
-          "value": "3",
-          "type": "sizing"
+        "24": {
+          "value": "24px 24px",
+          "type": "other"
         },
-        "base": {
-          "value": "{size.padding.medium.value}",
-          "type": "sizing"
+        "0-4": {
+          "value": "0px 4px",
+          "type": "other"
+        },
+        "4-8": {
+          "value": "4px 8px",
+          "type": "other"
+        },
+        "8-12": {
+          "value": "8px 12px",
+          "type": "other"
+        },
+        "8-16": {
+          "value": "8px 16px",
+          "type": "other"
         }
       }
     },
@@ -1871,8 +1859,8 @@
       }
     },
     "scale-padding-state-default": {
-      "xl": {
-        "value": "{size.padding.xl}",
+      "20": {
+        "value": "{dimension.padding.20}",
         "type": "spacing"
       }
     },
