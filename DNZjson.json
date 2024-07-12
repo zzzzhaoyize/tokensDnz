@@ -2217,6 +2217,18 @@
         "value": "{font.size.large}",
         "type": "fontSizes"
       }
+    },
+    "scale-gap-state-default": {
+      "12": {
+        "value": "{dimension.gap.12}",
+        "type": "spacing"
+      }
+    },
+    "scale-padding-state-default": {
+      "16": {
+        "value": "{dimension.padding.16}",
+        "type": "spacing"
+      }
     }
   },
   "icon": {
