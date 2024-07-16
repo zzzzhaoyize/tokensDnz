@@ -2104,19 +2104,19 @@
         "type": "spacing"
       }
     },
-    "color-bg-state-defult": {
+    "color-bg-state-default": {
       "brand4": {
         "value": "{color.basic.brand.4}",
         "type": "color"
       }
     },
-    "color-text-state-defult": {
+    "color-text-state-default": {
       "white100": {
         "value": "{color.basic.opacity.white.100}",
         "type": "color"
       }
     },
-    "color-icon_color-state-defult": {
+    "color-icon_color-state-default": {
       "white100": {
         "value": "{color.basic.opacity.white.100}",
         "type": "color"
