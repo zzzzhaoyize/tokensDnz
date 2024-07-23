@@ -2261,6 +2261,30 @@
         "value": "{color.basic.light-blue.5}",
         "type": "color"
       }
+    },
+    "font-fontsize-state-display": {
+      "xxxl": {
+        "value": "{font.size.xxxl}",
+        "type": "fontSizes"
+      }
+    },
+    "font-fontsize-state-headline": {
+      "xxl": {
+        "value": "{font.size.xxl}",
+        "type": "fontSizes"
+      }
+    },
+    "font-fontsize-state-title": {
+      "xl": {
+        "value": "{font.size.xl}",
+        "type": "fontSizes"
+      }
+    },
+    "font-fontsize-state-label": {
+      "small": {
+        "value": "{font.size.small}",
+        "type": "fontSizes"
+      }
     }
   },
   "input": {
