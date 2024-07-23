@@ -2073,6 +2073,66 @@
         "value": "{font.size.xl}",
         "type": "fontSizes"
       }
+    },
+    "scale-width-state-onmouseover_hover": {
+      "72": {
+        "value": "{dimension.basic.dimension.72}",
+        "type": "sizing"
+      }
+    },
+    "scale-height-state-onmouseover_hover": {
+      "72": {
+        "value": "{dimension.basic.dimension.72}",
+        "type": "sizing"
+      }
+    },
+    "scale-width-state-active": {
+      "72": {
+        "value": "{dimension.basic.dimension.72}",
+        "type": "sizing"
+      }
+    },
+    "scale-height-state-active": {
+      "72": {
+        "value": "{dimension.basic.dimension.72}",
+        "type": "sizing"
+      }
+    },
+    "scale-width-state-loadng": {
+      "72": {
+        "value": "{dimension.basic.dimension.72}",
+        "type": "sizing"
+      }
+    },
+    "scale-height-state-loading": {
+      "72": {
+        "value": "{dimension.basic.dimension.72}",
+        "type": "sizing"
+      }
+    },
+    "scale-width-state-pressed": {
+      "72": {
+        "value": "{dimension.basic.dimension.72}",
+        "type": "sizing"
+      }
+    },
+    "scale-height-state-pressed": {
+      "72": {
+        "value": "{dimension.basic.dimension.72}",
+        "type": "sizing"
+      }
+    },
+    "scale-width-state-disable": {
+      "72": {
+        "value": "{dimension.basic.dimension.72}",
+        "type": "sizing"
+      }
+    },
+    "scale-height-state-disable": {
+      "72": {
+        "value": "{dimension.basic.dimension.72}",
+        "type": "sizing"
+      }
     }
   },
   "text": {
