@@ -1923,6 +1923,156 @@
         "value": "{color.basic.grey.2}",
         "type": "color"
       }
+    },
+    "scale-padding-state-onmouseover_hover": {
+      "20": {
+        "value": "{dimension.padding.20}",
+        "type": "spacing"
+      }
+    },
+    "scale-padding-state-active": {
+      "20": {
+        "value": "{dimension.padding.20}",
+        "type": "spacing"
+      }
+    },
+    "scale-padding-state-disable": {
+      "20": {
+        "value": "{dimension.padding.20}",
+        "type": "spacing"
+      }
+    },
+    "scale-padding-state-pressed": {
+      "20": {
+        "value": "{dimension.padding.20}",
+        "type": "spacing"
+      }
+    },
+    "scale-padding-state-loading": {
+      "20": {
+        "value": "{dimension.padding.20}",
+        "type": "spacing"
+      }
+    },
+    "scale-gap-state-onmouseover_hover": {
+      "8": {
+        "value": "{dimension.gap.8}",
+        "type": "spacing"
+      }
+    },
+    "scale-gap-state-active": {
+      "8": {
+        "value": "{dimension.gap.8}",
+        "type": "spacing"
+      }
+    },
+    "scale-gap-state-disable": {
+      "8": {
+        "value": "{dimension.gap.8}",
+        "type": "spacing"
+      }
+    },
+    "scale-gap-state-pressed": {
+      "8": {
+        "value": "{dimension.gap.8}",
+        "type": "spacing"
+      }
+    },
+    "scale-gap-state-loading": {
+      "8": {
+        "value": "{dimension.gap.8}",
+        "type": "spacing"
+      }
+    },
+    "shape-borderradius-state-onmouseover_hover": {
+      "24": {
+        "value": "{dimension.borderradius.24}",
+        "type": "borderRadius"
+      }
+    },
+    "shape-borderradius-state-active": {
+      "24": {
+        "value": "{dimension.borderradius.24}",
+        "type": "borderRadius"
+      }
+    },
+    "shape-borderradius-state-pressed": {
+      "24": {
+        "value": "{dimension.borderradius.24}",
+        "type": "borderRadius"
+      }
+    },
+    "shape-borderradius-state-loading": {
+      "24": {
+        "value": "{dimension.borderradius.24}",
+        "type": "borderRadius"
+      }
+    },
+    "shape-borderradius-state-disable": {
+      "24": {
+        "value": "{dimension.borderradius.24}",
+        "type": "borderRadius"
+      }
+    },
+    "shape-borderwidth-state-onmouseover_hover": {
+      "1": {
+        "value": "{dimension.basic.dimension.1}",
+        "type": "borderWidth"
+      }
+    },
+    "shape-borderwidth-state-active": {
+      "1": {
+        "value": "{dimension.basic.dimension.1}",
+        "type": "borderWidth"
+      }
+    },
+    "shape-borderwidth-state-pressed": {
+      "1": {
+        "value": "{dimension.basic.dimension.1}",
+        "type": "borderWidth"
+      }
+    },
+    "shape-borderwidth-state-loading": {
+      "1": {
+        "value": "{dimension.basic.dimension.1}",
+        "type": "borderWidth"
+      }
+    },
+    "shape-borderwidth-state-disable": {
+      "1": {
+        "value": "{dimension.basic.dimension.1}",
+        "type": "borderWidth"
+      }
+    },
+    "font-fontsize-state-onmouseover_hover": {
+      "xl": {
+        "value": "{font.size.xl}",
+        "type": "fontSizes"
+      }
+    },
+    "font-fontsize-state-active": {
+      "xl": {
+        "value": "{font.size.xl}",
+        "type": "fontSizes"
+      }
+    },
+    "font-fontsize-state-pressed": {
+      "xl": {
+        "value": "{font.size.xl}",
+        "type": "fontSizes"
+      }
+    },
+    "font-fontsize-state-loading": {
+      "xl": {
+        "value": "{font.size.xl}",
+        "type": "fontSizes"
+      }
+    },
+    "font-fontsize-state-disable": {
+      "xl": {
+        "value": "{font.size.xl}",
+        "type": "fontSizes"
+      }
     }
   },
   "text": {
