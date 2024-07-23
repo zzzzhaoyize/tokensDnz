@@ -2133,6 +2133,12 @@
         "value": "{dimension.basic.dimension.72}",
         "type": "sizing"
       }
+    },
+    "shape-borderradius-state-small": {
+      "100": {
+        "value": "{dimension.borderradius.100}",
+        "type": "borderRadius"
+      }
     }
   },
   "text": {
@@ -2403,6 +2409,36 @@
         "value": "{dimension.basic.dimension.24}",
         "type": "sizing"
       }
+    },
+    "scale-padding-state-small": {
+      "4": {
+        "value": "{dimension.padding.4}",
+        "type": "spacing"
+      }
+    },
+    "scale-gap-state-small": {
+      "4": {
+        "value": "{dimension.gap.4}",
+        "type": "spacing"
+      }
+    },
+    "scale-height-state-small": {
+      "8": {
+        "value": "{dimension.basic.dimension.8}",
+        "type": "sizing"
+      }
+    },
+    "scale-width-state-small": {
+      "8": {
+        "value": "{dimension.basic.dimension.8}",
+        "type": "sizing"
+      }
+    },
+    "color-bg-state-small": {
+      "red5": {
+        "value": "{color.basic.red.5}",
+        "type": "color"
+      }
     }
   },
   "background": {
@@ -2504,6 +2540,12 @@
       "16": {
         "value": "{dimension.padding.16}",
         "type": "spacing"
+      }
+    },
+    "color-bg-state-small": {
+      "brand4": {
+        "value": "{color.basic.brand.4}",
+        "type": "color"
       }
     }
   },
