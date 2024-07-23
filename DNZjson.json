@@ -1911,6 +1911,18 @@
         "value": "{color.basic.opacity.white.32}",
         "type": "color"
       }
+    },
+    "color-bg-state-loading": {
+      "brand7": {
+        "value": "{color.gradient.gradient.blue2yellow}",
+        "type": "color"
+      }
+    },
+    "color-bg-state-disable": {
+      "grey2": {
+        "value": "{color.basic.grey.2}",
+        "type": "color"
+      }
     }
   },
   "text": {
