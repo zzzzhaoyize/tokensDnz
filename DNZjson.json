@@ -1899,6 +1899,18 @@
         "value": "{font.size.xl}",
         "type": "fontSizes"
       }
+    },
+    "color-bg-state-pressed": {
+      "brand7": {
+        "value": "{color.basic.brand.7}",
+        "type": "color"
+      }
+    },
+    "color-border-state-pressed": {
+      "white32": {
+        "value": "{color.basic.opacity.white.32}",
+        "type": "color"
+      }
     }
   },
   "text": {
