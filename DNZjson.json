@@ -2507,6 +2507,12 @@
         "value": "{color.basic.grey.3}",
         "type": "color"
       }
+    },
+    "color-bg-state-selection": {
+      "blue4_20": {
+        "value": "{color.basic.blue.4_20}",
+        "type": "color"
+      }
     }
   },
   "input": {
