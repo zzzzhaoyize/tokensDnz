@@ -2815,6 +2815,42 @@
         "value": "https://i.pinimg.com/736x/3e/c7/04/3ec704e63141380a0094d70a73b4e50e.jpg",
         "type": "asset"
       }
+    },
+    "shape-borderradius-state-monogram": {
+      "100": {
+        "value": "{dimension.borderradius.100}",
+        "type": "borderRadius"
+      }
+    },
+    "scale-height-state-monogram": {
+      "medium": {
+        "value": "{dimension.basic.dimension.72}",
+        "type": "sizing"
+      }
+    },
+    "scale-width-state-monogram": {
+      "medium": {
+        "value": "{dimension.basic.dimension.72}",
+        "type": "sizing"
+      }
+    },
+    "color-text-state-monogram": {
+      "white100": {
+        "value": "{color.gradient.gradient.4}",
+        "type": "color"
+      }
+    },
+    "font-fontsize-state-monogram": {
+      "xxl": {
+        "value": "{font.size.xxl}",
+        "type": "fontSizes"
+      }
+    },
+    "color-bg-state-monogram": {
+      "white100": {
+        "value": "{color.basic.opacity.white.100}",
+        "type": "color"
+      }
     }
   },
   "intent_distribution": {
