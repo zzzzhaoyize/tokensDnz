@@ -2441,8 +2441,8 @@
       }
     },
     "scale-padding-state-default": {
-      "4": {
-        "value": "{dimension.padding.4}",
+      "4_8": {
+        "value": "{dimension.padding.4-8}",
         "type": "spacing"
       }
     },
@@ -2504,6 +2504,18 @@
       "red5": {
         "value": "{color.basic.red.5}",
         "type": "color"
+      }
+    },
+    "shape-borderradius-state-small": {
+      "100": {
+        "value": "{dimension.borderradius.100}",
+        "type": "borderRadius"
+      }
+    },
+    "font-fontsize-state-default": {
+      "basic": {
+        "value": "{font.size.basic}",
+        "type": "fontSizes"
       }
     }
   },
