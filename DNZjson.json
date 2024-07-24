@@ -2695,6 +2695,66 @@
         "value": "{dimension.gap.24}",
         "type": "spacing"
       }
+    },
+    "shape-borderwidth-placeholder": {
+      "1": {
+        "value": "{dimension.basic.dimension.1}",
+        "type": "borderWidth"
+      }
+    },
+    "shape-borderwidth-onmouseover_hover": {
+      "1": {
+        "value": "{dimension.basic.dimension.1}",
+        "type": "borderWidth"
+      }
+    },
+    "shape-borderwidth-active": {
+      "2": {
+        "value": "{dimension.basic.dimension.2}",
+        "type": "borderWidth"
+      }
+    },
+    "shape-borderwidth-error": {
+      "1": {
+        "value": "{dimension.basic.dimension.1}",
+        "type": "borderWidth"
+      }
+    },
+    "shape-borderwidth-disable": {
+      "1": {
+        "value": "{dimension.basic.dimension.1}",
+        "type": "borderWidth"
+      }
+    },
+    "shape-borderradius-state-placeholder": {
+      "32": {
+        "value": "{dimension.borderradius.32}",
+        "type": "borderRadius"
+      }
+    },
+    "shape-borderradius-state-onmouseover_hover": {
+      "32": {
+        "value": "{dimension.borderradius.32}",
+        "type": "borderRadius"
+      }
+    },
+    "shape-borderradius-state-active": {
+      "32": {
+        "value": "{dimension.borderradius.32}",
+        "type": "borderRadius"
+      }
+    },
+    "shape-borderradius-state-error": {
+      "32": {
+        "value": "{dimension.borderradius.32}",
+        "type": "borderRadius"
+      }
+    },
+    "shape-borderradius-state-disable": {
+      "32": {
+        "value": "{dimension.borderradius.32}",
+        "type": "borderRadius"
+      }
     }
   },
   "badge": {
