@@ -2497,8 +2497,8 @@
       }
     },
     "color-text-state-title": {
-      "brand4": {
-        "value": "{color.basic.brand.4}",
+      "grey7": {
+        "value": "{color.basic.grey.7}",
         "type": "color"
       }
     },
