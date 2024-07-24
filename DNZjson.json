@@ -2483,6 +2483,30 @@
         "value": "{dimension.gap.8}",
         "type": "spacing"
       }
+    },
+    "color-text-state-display": {
+      "grey9": {
+        "value": "{color.basic.grey.9}",
+        "type": "color"
+      }
+    },
+    "color-text-state-headline": {
+      "grey8": {
+        "value": "{color.basic.grey.8}",
+        "type": "color"
+      }
+    },
+    "color-text-state-title": {
+      "brand4": {
+        "value": "{color.basic.brand.4}",
+        "type": "color"
+      }
+    },
+    "color-text-state-label": {
+      "grey3": {
+        "value": "{color.basic.grey.3}",
+        "type": "color"
+      }
     }
   },
   "input": {
