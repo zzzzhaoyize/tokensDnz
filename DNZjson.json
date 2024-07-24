@@ -2134,10 +2134,52 @@
         "type": "sizing"
       }
     },
-    "shape-borderradius-state-small": {
-      "100": {
-        "value": "{dimension.borderradius.100}",
-        "type": "borderRadius"
+    "color-border-state-loading": {
+      "white32": {
+        "value": "{color.basic.opacity.white.32}",
+        "type": "color"
+      }
+    },
+    "color-border-state-disable": {
+      "white32": {
+        "value": "{color.basic.opacity.white.32}",
+        "type": "color"
+      }
+    },
+    "color-border-state-onmouseover_hover": {
+      "white32": {
+        "value": "{color.basic.opacity.white.32}",
+        "type": "color"
+      }
+    },
+    "color-icon_color-state-onmouseover_hover": {
+      "white100": {
+        "value": "{color.basic.opacity.white.100}",
+        "type": "color"
+      }
+    },
+    "color-icon_color-state-active": {
+      "white100": {
+        "value": "{color.basic.opacity.white.100}",
+        "type": "color"
+      }
+    },
+    "color-icon_color-state-pressed": {
+      "white100": {
+        "value": "{color.basic.opacity.white.100}",
+        "type": "color"
+      }
+    },
+    "color-icon_color-state-loading": {
+      "white100": {
+        "value": "{color.basic.opacity.white.100}",
+        "type": "color"
+      }
+    },
+    "color-icon_color-state-disable": {
+      "white100": {
+        "value": "{color.basic.opacity.white.100}",
+        "type": "color"
       }
     }
   },
