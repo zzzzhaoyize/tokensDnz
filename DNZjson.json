@@ -2517,6 +2517,54 @@
         "value": "{font.size.basic}",
         "type": "fontSizes"
       }
+    },
+    "scale-height-state-label": {
+      "20": {
+        "value": "{dimension.basic.dimension.20}",
+        "type": "sizing"
+      }
+    },
+    "scale-padding-state-label": {
+      "4": {
+        "value": "{dimension.padding.4}",
+        "type": "spacing"
+      }
+    },
+    "scale-gap-state-label": {
+      "4": {
+        "value": "{dimension.gap.4}",
+        "type": "spacing"
+      }
+    },
+    "scale-min_width-state-label": {
+      "20": {
+        "value": "{dimension.basic.dimension.20}",
+        "type": "sizing"
+      }
+    },
+    "font-fontsize-state-label": {
+      "small": {
+        "value": "{font.size.small}",
+        "type": "fontSizes"
+      }
+    },
+    "color-bg-state-label": {
+      "red5": {
+        "value": "{color.basic.red.5}",
+        "type": "color"
+      }
+    },
+    "shape-borderradius-state-label": {
+      "100": {
+        "value": "{dimension.borderradius.100}",
+        "type": "borderRadius"
+      }
+    },
+    "color-text-state-label": {
+      "white100": {
+        "value": "{color.basic.opacity.white.100}",
+        "type": "color"
+      }
     }
   },
   "background": {
