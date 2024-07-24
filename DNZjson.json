@@ -2755,6 +2755,96 @@
         "value": "{dimension.borderradius.32}",
         "type": "borderRadius"
       }
+    },
+    "color-bg-state-placeholder": {
+      "white64": {
+        "value": "{color.basic.opacity.white.64}",
+        "type": "color"
+      }
+    },
+    "color-text-state-placeholder": {
+      "black24": {
+        "value": "{color.basic.opacity.black.24}",
+        "type": "color"
+      }
+    },
+    "color-border-state-placeholder": {
+      "white24": {
+        "value": "{color.basic.opacity.white.24}",
+        "type": "color"
+      }
+    },
+    "color-bg-state-onmouseover_hover": {
+      "white76": {
+        "value": "{color.basic.opacity.white.76}",
+        "type": "color"
+      }
+    },
+    "color-text-state-onmouseover_hover": {
+      "black100": {
+        "value": "{color.basic.opacity.black.100}",
+        "type": "color"
+      }
+    },
+    "color-border-state-onmouseover_hover": {
+      "white76": {
+        "value": "{color.basic.opacity.white.76}",
+        "type": "color"
+      }
+    },
+    "color-bg-state-active": {
+      "white88": {
+        "value": "{color.basic.opacity.white.88}",
+        "type": "color"
+      }
+    },
+    "color-text-state-active": {
+      "black100": {
+        "value": "{color.basic.opacity.black.100}",
+        "type": "color"
+      }
+    },
+    "color-border-state-active": {
+      "white76": {
+        "value": "{color.basic.opacity.white.76}",
+        "type": "color"
+      }
+    },
+    "color-bg-state-error": {
+      "white88": {
+        "value": "{color.basic.opacity.white.88}",
+        "type": "color"
+      }
+    },
+    "color-text-state-error": {
+      "red5": {
+        "value": "{color.basic.red.5}",
+        "type": "color"
+      }
+    },
+    "color-border-state-error": {
+      "red5": {
+        "value": "{color.basic.red.5}",
+        "type": "color"
+      }
+    },
+    "color-bg-state-disable": {
+      "grey2": {
+        "value": "{color.basic.grey.2}",
+        "type": "color"
+      }
+    },
+    "color-text-state-disable": {
+      "black24": {
+        "value": "{color.basic.opacity.black.24}",
+        "type": "color"
+      }
+    },
+    "color-border-state-disable": {
+      "white12": {
+        "value": "{color.basic.opacity.white.12}",
+        "type": "color"
+      }
     }
   },
   "badge": {
