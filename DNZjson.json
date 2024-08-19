@@ -2513,6 +2513,18 @@
         "value": "{color.basic.blue.4_20}",
         "type": "color"
       }
+    },
+    "scale-max_width-state-sent": {
+      "1096": {
+        "value": "{dimension.basic.dimension.1200}",
+        "type": "sizing"
+      }
+    },
+    "scale-max_width-state-received": {
+      "1096": {
+        "value": "{dimension.basic.dimension.1200}",
+        "type": "sizing"
+      }
     }
   },
   "input": {
