@@ -2885,8 +2885,8 @@
       }
     },
     "color-bg-state-default": {
-      "brand4": {
-        "value": "{color.basic.brand.4}",
+      "black24": {
+        "value": "{color.basic.opacity.black.24}",
         "type": "color"
       }
     },
