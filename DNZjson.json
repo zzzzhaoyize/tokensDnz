@@ -3144,7 +3144,7 @@
     }
   },
   "icon": {
-    "color-icon_color-state-default": {
+    "color-bg-state-default": {
       "brand5": {
         "value": "{color.basic.brand.5}",
         "type": "color"
@@ -3160,6 +3160,12 @@
       "56": {
         "value": "{dimension.basic.dimension.56}",
         "type": "sizing"
+      }
+    },
+    "color-border-state-default": {
+      "brand5": {
+        "value": "{color.basic.brand.5}",
+        "type": "color"
       }
     }
   },
