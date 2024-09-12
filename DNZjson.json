@@ -2015,32 +2015,32 @@
       }
     },
     "shape-borderwidth-state-hover": {
-      "0": {
-        "value": "{dimension.borderwidth.0}",
+      "1": {
+        "value": "{dimension.borderwidth.1}",
         "type": "borderWidth"
       }
     },
     "shape-borderwidth-state-active": {
-      "0": {
-        "value": "{dimension.borderwidth.0}",
+      "1": {
+        "value": "{dimension.borderwidth.1}",
         "type": "borderWidth"
       }
     },
     "shape-borderwidth-state-pressed": {
-      "0": {
-        "value": "{dimension.basic.dimension.1}",
+      "1": {
+        "value": "{dimension.borderwidth.1}",
         "type": "borderWidth"
       }
     },
     "shape-borderwidth-state-loading": {
-      "0": {
-        "value": "{dimension.borderwidth.0}",
+      "1": {
+        "value": "{dimension.borderwidth.1}",
         "type": "borderWidth"
       }
     },
     "shape-borderwidth-state-disable": {
-      "0": {
-        "value": "{dimension.borderwidth.0}",
+      "1": {
+        "value": "{dimension.borderwidth.1}",
         "type": "borderWidth"
       }
     },
