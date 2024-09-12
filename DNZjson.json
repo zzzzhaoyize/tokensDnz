@@ -1389,7 +1389,7 @@
           "type": "other"
         }
       },
-      "boderwidth": {
+      "borderwidth": {
         "0": {
           "value": "{dimension.basic.dimension.1}",
           "type": "other"
@@ -1822,7 +1822,7 @@
         "type": "color"
       }
     },
-    "color-bg-state-onmouseover_hover": {
+    "color-bg-state-hover": {
       "brand4": {
         "value": "{color.basic.brand.4}",
         "type": "color"
@@ -1883,8 +1883,8 @@
       }
     },
     "shape-borderwidth-state-default": {
-      "1": {
-        "value": "{dimension.basic.dimension.1}",
+      "0": {
+        "value": "{dimension.borderwidth.0}",
         "type": "borderWidth"
       }
     },
@@ -1924,7 +1924,7 @@
         "type": "color"
       }
     },
-    "scale-padding-state-onmouseover_hover": {
+    "scale-padding-state-hover": {
       "20": {
         "value": "{dimension.padding.20}",
         "type": "spacing"
@@ -1984,7 +1984,7 @@
         "type": "spacing"
       }
     },
-    "shape-borderradius-state-onmouseover_hover": {
+    "shape-borderradius-state-hover": {
       "24": {
         "value": "{dimension.borderradius.24}",
         "type": "borderRadius"
@@ -2014,37 +2014,37 @@
         "type": "borderRadius"
       }
     },
-    "shape-borderwidth-state-onmouseover_hover": {
-      "1": {
-        "value": "{dimension.basic.dimension.1}",
+    "shape-borderwidth-state-hover": {
+      "0": {
+        "value": "{dimension.borderwidth.0}",
         "type": "borderWidth"
       }
     },
     "shape-borderwidth-state-active": {
-      "1": {
-        "value": "{dimension.basic.dimension.1}",
+      "0": {
+        "value": "{dimension.borderwidth.0}",
         "type": "borderWidth"
       }
     },
     "shape-borderwidth-state-pressed": {
-      "1": {
+      "0": {
         "value": "{dimension.basic.dimension.1}",
         "type": "borderWidth"
       }
     },
     "shape-borderwidth-state-loading": {
-      "1": {
-        "value": "{dimension.basic.dimension.1}",
+      "0": {
+        "value": "{dimension.borderwidth.0}",
         "type": "borderWidth"
       }
     },
     "shape-borderwidth-state-disable": {
-      "1": {
-        "value": "{dimension.basic.dimension.1}",
+      "0": {
+        "value": "{dimension.borderwidth.0}",
         "type": "borderWidth"
       }
     },
-    "font-fontsize-state-onmouseover_hover": {
+    "font-fontsize-state-hover": {
       "xl": {
         "value": "{font.size.xl}",
         "type": "fontSizes"
@@ -2074,66 +2074,6 @@
         "type": "fontSizes"
       }
     },
-    "scale-width-state-hover": {
-      "72": {
-        "value": "{dimension.basic.dimension.72}",
-        "type": "sizing"
-      }
-    },
-    "scale-height-state-onmouseover_hover": {
-      "72": {
-        "value": "{dimension.basic.dimension.72}",
-        "type": "sizing"
-      }
-    },
-    "scale-width-state-active": {
-      "72": {
-        "value": "{dimension.basic.dimension.72}",
-        "type": "sizing"
-      }
-    },
-    "scale-height-state-active": {
-      "72": {
-        "value": "{dimension.basic.dimension.72}",
-        "type": "sizing"
-      }
-    },
-    "scale-width-state-loadng": {
-      "72": {
-        "value": "{dimension.basic.dimension.72}",
-        "type": "sizing"
-      }
-    },
-    "scale-height-state-loading": {
-      "72": {
-        "value": "{dimension.basic.dimension.72}",
-        "type": "sizing"
-      }
-    },
-    "scale-width-state-pressed": {
-      "72": {
-        "value": "{dimension.basic.dimension.72}",
-        "type": "sizing"
-      }
-    },
-    "scale-height-state-pressed": {
-      "72": {
-        "value": "{dimension.basic.dimension.72}",
-        "type": "sizing"
-      }
-    },
-    "scale-width-state-disable": {
-      "72": {
-        "value": "{dimension.basic.dimension.72}",
-        "type": "sizing"
-      }
-    },
-    "scale-height-state-disable": {
-      "72": {
-        "value": "{dimension.basic.dimension.72}",
-        "type": "sizing"
-      }
-    },
     "color-border-state-loading": {
       "white32": {
         "value": "{color.basic.opacity.white.32}",
@@ -2146,13 +2086,13 @@
         "type": "color"
       }
     },
-    "color-border-state-onmouseover_hover": {
+    "color-border-state-hover": {
       "white32": {
         "value": "{color.basic.opacity.white.32}",
         "type": "color"
       }
     },
-    "color-icon_color-state-onmouseover_hover": {
+    "color-icon_color-state-hover": {
       "white100": {
         "value": "{color.basic.opacity.white.100}",
         "type": "color"
@@ -2180,6 +2120,66 @@
       "white100": {
         "value": "{color.basic.opacity.white.100}",
         "type": "color"
+      }
+    },
+    "scale-min_width-state-hover": {
+      "64": {
+        "value": "{dimension.basic.dimension.64}",
+        "type": "sizing"
+      }
+    },
+    "scale-min_height-state-hover": {
+      "64": {
+        "value": "{dimension.basic.dimension.64}",
+        "type": "sizing"
+      }
+    },
+    "scale-min_width-state-active": {
+      "64": {
+        "value": "{dimension.basic.dimension.64}",
+        "type": "sizing"
+      }
+    },
+    "scale-min_height-state-active": {
+      "64": {
+        "value": "{dimension.basic.dimension.64}",
+        "type": "sizing"
+      }
+    },
+    "scale-min_width-state-loading": {
+      "64": {
+        "value": "{dimension.basic.dimension.64}",
+        "type": "sizing"
+      }
+    },
+    "scale-min_height-state-loading": {
+      "64": {
+        "value": "{dimension.basic.dimension.64}",
+        "type": "sizing"
+      }
+    },
+    "scale-min_width-state-pressed": {
+      "64": {
+        "value": "{dimension.basic.dimension.64}",
+        "type": "sizing"
+      }
+    },
+    "scale-min_height-state-pressed": {
+      "64": {
+        "value": "{dimension.basic.dimension.64}",
+        "type": "sizing"
+      }
+    },
+    "scale-min_width-state-disable": {
+      "64": {
+        "value": "{dimension.basic.dimension.64}",
+        "type": "sizing"
+      }
+    },
+    "scale-min_height-state-disable": {
+      "64": {
+        "value": "{dimension.basic.dimension.64}",
+        "type": "sizing"
       }
     }
   },
