@@ -1870,15 +1870,15 @@
         "type": "spacing"
       }
     },
-    "scale-width-state-default": {
-      "72": {
-        "value": "{dimension.basic.dimension.72}",
+    "scale-min_width-state-default": {
+      "64": {
+        "value": "{dimension.basic.dimension.64}",
         "type": "sizing"
       }
     },
-    "scale-height-state-default": {
-      "72": {
-        "value": "{dimension.basic.dimension.72}",
+    "scale-min_height-state-default": {
+      "64": {
+        "value": "{dimension.basic.dimension.64}",
         "type": "sizing"
       }
     },
@@ -2074,7 +2074,7 @@
         "type": "fontSizes"
       }
     },
-    "scale-width-state-onmouseover_hover": {
+    "scale-width-state-hover": {
       "72": {
         "value": "{dimension.basic.dimension.72}",
         "type": "sizing"
