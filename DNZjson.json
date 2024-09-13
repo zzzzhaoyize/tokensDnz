@@ -2875,6 +2875,10 @@
   },
   "badge": {
     "shape-borderradius-state-default": {
+      "20": {
+        "value": "{dimension.borderradius.20}",
+        "type": "borderRadius"
+      },
       "100": {
         "value": "{dimension.borderradius.100}",
         "type": "borderRadius"
@@ -2900,113 +2904,67 @@
       "black24": {
         "value": "{color.basic.opacity.black.24}",
         "type": "color"
-      }
-    },
-    "color-text-state-default": {
-      "white100": {
-        "value": "{color.basic.opacity.white.100}",
-        "type": "color"
-      }
-    },
-    "color-icon_color-state-default": {
-      "white100": {
-        "value": "{color.basic.opacity.white.100}",
-        "type": "color"
-      }
-    },
-    "scale-height-state-default": {
-      "24": {
-        "value": "{dimension.basic.dimension.24}",
-        "type": "sizing"
-      }
-    },
-    "scale-padding-state-small": {
-      "4": {
-        "value": "{dimension.padding.4}",
-        "type": "spacing"
-      }
-    },
-    "scale-gap-state-small": {
-      "4": {
-        "value": "{dimension.gap.4}",
-        "type": "spacing"
-      }
-    },
-    "scale-height-state-small": {
-      "8": {
-        "value": "{dimension.basic.dimension.8}",
-        "type": "sizing"
-      }
-    },
-    "scale-width-state-small": {
-      "8": {
-        "value": "{dimension.basic.dimension.8}",
-        "type": "sizing"
-      }
-    },
-    "color-bg-state-small": {
+      },
       "red5": {
         "value": "{color.basic.red.5}",
         "type": "color"
       }
     },
-    "shape-borderradius-state-small": {
-      "100": {
-        "value": "{dimension.borderradius.100}",
-        "type": "borderRadius"
+    "color-text-state-default": {
+      "brand0": {
+        "value": "{color.basic.brand.0}",
+        "type": "color"
+      },
+      "red0": {
+        "value": "{color.basic.red.0}",
+        "type": "color"
+      }
+    },
+    "color-icon_color-state-default": {
+      "orange0": {
+        "value": "{color.basic.orange.0}",
+        "type": "color"
+      }
+    },
+    "scale-height-state-default": {
+      "8": {
+        "value": "{dimension.basic.dimension.8}",
+        "type": "sizing"
+      },
+      "20": {
+        "value": "{dimension.basic.dimension.20}",
+        "type": "sizing"
+      },
+      "24": {
+        "value": "{dimension.basic.dimension.24}",
+        "type": "sizing"
+      }
+    },
+    "scale-width-state-default": {
+      "8": {
+        "value": "{dimension.basic.dimension.8}",
+        "type": "sizing"
       }
     },
     "font-fontsize-state-default": {
       "basic": {
         "value": "{font.size.basic}",
         "type": "fontSizes"
-      }
-    },
-    "scale-height-state-label": {
-      "20": {
-        "value": "{dimension.basic.dimension.20}",
-        "type": "sizing"
-      }
-    },
-    "scale-padding-state-label": {
-      "4": {
-        "value": "{dimension.padding.4}",
-        "type": "spacing"
-      }
-    },
-    "scale-gap-state-label": {
-      "4": {
-        "value": "{dimension.gap.4}",
-        "type": "spacing"
-      }
-    },
-    "scale-min_width-state-label": {
-      "20": {
-        "value": "{dimension.basic.dimension.20}",
-        "type": "sizing"
-      }
-    },
-    "font-fontsize-state-label": {
+      },
       "small": {
         "value": "{font.size.small}",
         "type": "fontSizes"
       }
     },
-    "color-bg-state-label": {
-      "red5": {
-        "value": "{color.basic.red.5}",
-        "type": "color"
+    "scale-min_width-state-default": {
+      "20": {
+        "value": "{dimension.basic.dimension.20}",
+        "type": "sizing"
       }
     },
-    "shape-borderradius-state-label": {
-      "100": {
-        "value": "{dimension.borderradius.100}",
-        "type": "borderRadius"
-      }
-    },
-    "color-text-state-label": {
-      "white100": {
-        "value": "{color.basic.opacity.white.100}",
+    "color-icon_border-state-default": {
+      "orange0": {
+        "value": "{color.basic.orange.0}",
         "type": "color"
       }
     }
