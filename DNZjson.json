@@ -3172,9 +3172,9 @@
         "type": "sizing"
       }
     },
-    "color-text-state-monogram": {
-      "white100": {
-        "value": "{color.gradient.gradient.4}",
+    "color-bg-state-default": {
+      "brand4": {
+        "value": "{color.basic.brand.4}",
         "type": "color"
       }
     },
@@ -3184,7 +3184,19 @@
         "type": "fontSizes"
       }
     },
-    "color-bg-state-monogram": {
+    "color-text-state-default": {
+      "white100": {
+        "value": "{color.basic.opacity.white.100}",
+        "type": "color"
+      }
+    },
+    "color-bg-state-hover": {
+      "brand6": {
+        "value": "{color.basic.brand.6}",
+        "type": "color"
+      }
+    },
+    "color-text-state-hover": {
       "white100": {
         "value": "{color.basic.opacity.white.100}",
         "type": "color"
