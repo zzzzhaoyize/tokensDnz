@@ -3191,8 +3191,8 @@
       }
     },
     "color-bg-state-hover": {
-      "brand6": {
-        "value": "{color.basic.brand.6}",
+      "brand3": {
+        "value": "{color.basic.brand.3}",
         "type": "color"
       }
     },
