@@ -1269,6 +1269,14 @@
             "value": "320px",
             "type": "other"
           },
+          "560": {
+            "value": "560px",
+            "type": "other"
+          },
+          "640": {
+            "value": "640px",
+            "type": "other"
+          },
           "1200": {
             "value": "1200px",
             "type": "other"
@@ -2832,6 +2840,36 @@
       "xl": {
         "value": "{font.size.xl}",
         "type": "fontSizes"
+      }
+    },
+    "scale-height-state-default": {
+      "560": {
+        "value": "{dimension.basic.dimension.560}",
+        "type": "sizing"
+      }
+    },
+    "scale-height-state-hover": {
+      "560": {
+        "value": "{dimension.basic.dimension.560}",
+        "type": "sizing"
+      }
+    },
+    "scale-height-state-active": {
+      "560": {
+        "value": "{dimension.basic.dimension.560}",
+        "type": "sizing"
+      }
+    },
+    "scale-height-state-error": {
+      "560": {
+        "value": "{dimension.basic.dimension.560}",
+        "type": "sizing"
+      }
+    },
+    "scale-height-state-disable": {
+      "560": {
+        "value": "{dimension.basic.dimension.560}",
+        "type": "sizing"
       }
     }
   },
