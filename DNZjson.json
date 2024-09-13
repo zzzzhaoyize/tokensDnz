@@ -1399,7 +1399,7 @@
       },
       "borderwidth": {
         "0": {
-          "value": "{dimension.basic.dimension.1}",
+          "value": "{dimension.basic.dimension.0}",
           "type": "other"
         },
         "1": {
@@ -3014,6 +3014,54 @@
       "grey0": {
         "value": "{color.basic.grey.0}",
         "type": "color"
+      }
+    },
+    "scale-height-state-disable": {
+      "8": {
+        "value": "{dimension.basic.dimension.8}",
+        "type": "sizing"
+      },
+      "20": {
+        "value": "{dimension.basic.dimension.20}",
+        "type": "sizing"
+      },
+      "24": {
+        "value": "{dimension.basic.dimension.24}",
+        "type": "sizing"
+      }
+    },
+    "scale-width-state-disable": {
+      "8": {
+        "value": "{dimension.basic.dimension.8}",
+        "type": "sizing"
+      }
+    },
+    "scale-min_width-state-disable": {
+      "20": {
+        "value": "{dimension.basic.dimension.20}",
+        "type": "sizing"
+      }
+    },
+    "scale-padding-state-disable": {
+      "4": {
+        "value": "{dimension.padding.4}",
+        "type": "spacing"
+      },
+      "4_8": {
+        "value": "{dimension.padding.4-8}",
+        "type": "spacing"
+      }
+    },
+    "scale-gap-state-disable": {
+      "4": {
+        "value": "{dimension.gap.4}",
+        "type": "spacing"
+      }
+    },
+    "shape-borderwidth-state-default": {
+      "0": {
+        "value": "{dimension.borderwidth.0}",
+        "type": "borderWidth"
       }
     }
   },
