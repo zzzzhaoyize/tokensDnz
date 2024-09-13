@@ -2809,6 +2809,30 @@
         "value": "{color.basic.blue.4_20}",
         "type": "color"
       }
+    },
+    "font-fontsize-state-hover": {
+      "xl": {
+        "value": "{font.size.xl}",
+        "type": "fontSizes"
+      }
+    },
+    "font-fontsize-state-active": {
+      "xl": {
+        "value": "{font.size.xl}",
+        "type": "fontSizes"
+      }
+    },
+    "font-fontsize-state-error": {
+      "xl": {
+        "value": "{font.size.xl}",
+        "type": "fontSizes"
+      }
+    },
+    "font-fontsize-state-disable": {
+      "xl": {
+        "value": "{font.size.xl}",
+        "type": "fontSizes"
+      }
     }
   },
   "badge": {
