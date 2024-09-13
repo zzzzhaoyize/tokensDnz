@@ -2881,6 +2881,10 @@
       }
     },
     "scale-padding-state-default": {
+      "4": {
+        "value": "{dimension.padding.4}",
+        "type": "spacing"
+      },
       "4_8": {
         "value": "{dimension.padding.4-8}",
         "type": "spacing"
