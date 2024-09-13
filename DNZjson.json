@@ -3063,6 +3063,32 @@
         "value": "{dimension.borderwidth.0}",
         "type": "borderWidth"
       }
+    },
+    "shape-borderwidth-state-disable": {
+      "0": {
+        "value": "{dimension.borderwidth.0}",
+        "type": "borderWidth"
+      }
+    },
+    "color-border-state-default": {
+      "black20": {
+        "value": "{color.basic.opacity.black.20}",
+        "type": "color"
+      },
+      "white100": {
+        "value": "{color.basic.opacity.white.100}",
+        "type": "color"
+      }
+    },
+    "color-border-state-disable": {
+      "black20": {
+        "value": "{color.basic.opacity.black.20}",
+        "type": "color"
+      },
+      "white100": {
+        "value": "{color.basic.opacity.white.100}",
+        "type": "color"
+      }
     }
   },
   "background": {
