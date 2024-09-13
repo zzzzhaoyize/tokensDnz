@@ -2900,23 +2900,13 @@
         "type": "spacing"
       }
     },
-    "color-bg-state-default": {
-      "black24": {
-        "value": "{color.basic.opacity.black.24}",
-        "type": "color"
-      },
-      "red5": {
-        "value": "{color.basic.red.5}",
-        "type": "color"
-      }
-    },
     "color-text-state-default": {
-      "brand0": {
-        "value": "{color.basic.brand.0}",
-        "type": "color"
-      },
       "red0": {
         "value": "{color.basic.red.0}",
+        "type": "color"
+      },
+      "brand0": {
+        "value": "{color.basic.brand.0}",
         "type": "color"
       }
     },
@@ -2946,6 +2936,26 @@
         "type": "sizing"
       }
     },
+    "color-bg-state-default": {
+      "red5": {
+        "value": "{color.basic.red.5}",
+        "type": "color"
+      },
+      "brand4": {
+        "value": "{color.basic.brand.4}",
+        "type": "color"
+      },
+      "orange6": {
+        "value": "{color.basic.orange.6}",
+        "type": "color"
+      }
+    },
+    "color-bg-state-disable": {
+      "grey4": {
+        "value": "{color.basic.grey.4}",
+        "type": "color"
+      }
+    },
     "font-fontsize-state-default": {
       "basic": {
         "value": "{font.size.basic}",
@@ -2965,6 +2975,44 @@
     "color-icon_border-state-default": {
       "orange0": {
         "value": "{color.basic.orange.0}",
+        "type": "color"
+      }
+    },
+    "shape-borderradius-state-disable": {
+      "20": {
+        "value": "{dimension.borderradius.20}",
+        "type": "borderRadius"
+      },
+      "100": {
+        "value": "{dimension.borderradius.100}",
+        "type": "borderRadius"
+      }
+    },
+    "font-fontsize-state-disable": {
+      "basic": {
+        "value": "{font.size.basic}",
+        "type": "fontSizes"
+      },
+      "small": {
+        "value": "{font.size.small}",
+        "type": "fontSizes"
+      }
+    },
+    "color-text-state-disable": {
+      "grey0": {
+        "value": "{color.basic.grey.0}",
+        "type": "color"
+      }
+    },
+    "color-icon_color-state-disable": {
+      "grey0": {
+        "value": "{color.basic.grey.0}",
+        "type": "color"
+      }
+    },
+    "color-icon_border-state-disable": {
+      "grey0": {
+        "value": "{color.basic.grey.0}",
         "type": "color"
       }
     }
