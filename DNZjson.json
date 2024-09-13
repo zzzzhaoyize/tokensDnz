@@ -2021,8 +2021,8 @@
       }
     },
     "shape-borderwidth-state-active": {
-      "1": {
-        "value": "{dimension.borderwidth.1}",
+      "2": {
+        "value": "{dimension.borderwidth.2}",
         "type": "borderWidth"
       }
     },
