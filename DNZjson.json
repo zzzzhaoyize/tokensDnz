@@ -3053,6 +3053,12 @@
         "value": "{dimension.borderwidth.0}",
         "type": "borderWidth"
       }
+    },
+    "scale-max_width-state-default": {
+      "560": {
+        "value": "{dimension.basic.dimension.560}",
+        "type": "sizing"
+      }
     }
   },
   "icon": {
@@ -3746,9 +3752,7 @@
       "id": "65300e9fbeadd46524a1f9df3f25570104206746",
       "name": "dark",
       "$figmaStyleReferences": {},
-      "selectedTokenSets": {
-        "intent": "disabled"
-      },
+      "selectedTokenSets": {},
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
       "$figmaVariableReferences": {
