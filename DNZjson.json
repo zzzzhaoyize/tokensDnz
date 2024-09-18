@@ -3057,6 +3057,18 @@
         "value": "{dimension.borderwidth.0}",
         "type": "borderWidth"
       }
+    },
+    "material-elevation-state-default": {
+      "none": {
+        "value": "none",
+        "type": "boxShadow"
+      }
+    },
+    "material-elevation-state-loaded": {
+      "none": {
+        "value": "none",
+        "type": "boxShadow"
+      }
     }
   },
   "avatar": {
@@ -3081,6 +3093,10 @@
     "material-image-state-default": {
       "avatar": {
         "value": "https://i.pinimg.com/736x/3e/c7/04/3ec704e63141380a0094d70a73b4e50e.jpg",
+        "type": "asset"
+      },
+      "bg": {
+        "value": "https://sop-cdn.dingcloud.com/filez/icon/8mm6fa2u7foi4j38r6r67navgpttixwi20240708114129822.png",
         "type": "asset"
       }
     },
@@ -3170,6 +3186,18 @@
       "0": {
         "value": "{dimension.borderwidth.0}",
         "type": "borderWidth"
+      }
+    },
+    "material-elevation-state-default": {
+      "none": {
+        "value": "none",
+        "type": "boxShadow"
+      }
+    },
+    "material-elevation-state-hover": {
+      "none": {
+        "value": "none",
+        "type": "boxShadow"
       }
     }
   },
