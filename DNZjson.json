@@ -2797,32 +2797,32 @@
       }
     },
     "material-elevation-state-default": {
-      "none": {
-        "value": "none",
+      "05": {
+        "value": "{elevation.herald.05}",
         "type": "boxShadow"
       }
     },
     "material-elevation-state-hover": {
-      "none": {
-        "value": "none",
+      "05": {
+        "value": "{elevation.herald.05}",
         "type": "boxShadow"
       }
     },
     "material-elevation-state-active": {
-      "none": {
-        "value": "none",
+      "05": {
+        "value": "{elevation.herald.05}",
         "type": "boxShadow"
       }
     },
     "material-elevation-state-disable": {
-      "none": {
-        "value": "none",
+      "05": {
+        "value": "{elevation.herald.05}",
         "type": "boxShadow"
       }
     },
     "material-elevation-state-error": {
-      "none": {
-        "value": "none",
+      "05": {
+        "value": "{elevation.herald.05}",
         "type": "boxShadow"
       }
     }
