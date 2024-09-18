@@ -3148,28 +3148,10 @@
         "type": "asset"
       }
     },
-    "material-image-state-onmouseover_hover": {
+    "material-image-state-hover": {
       "gif": {
         "value": "https://i.pinimg.com/736x/3e/c7/04/3ec704e63141380a0094d70a73b4e50e.jpg",
         "type": "asset"
-      }
-    },
-    "shape-borderradius-state-monogram": {
-      "100": {
-        "value": "{dimension.borderradius.100}",
-        "type": "borderRadius"
-      }
-    },
-    "scale-height-state-monogram": {
-      "medium": {
-        "value": "{dimension.basic.dimension.72}",
-        "type": "sizing"
-      }
-    },
-    "scale-width-state-monogram": {
-      "medium": {
-        "value": "{dimension.basic.dimension.72}",
-        "type": "sizing"
       }
     },
     "color-bg-state-default": {
@@ -3178,7 +3160,17 @@
         "type": "color"
       }
     },
-    "font-fontsize-state-monogram": {
+    "color-bg-state-hover": {
+      "white16": {
+        "value": "{color.basic.opacity.white.16}",
+        "type": "color"
+      },
+      "brand3": {
+        "value": "{color.basic.brand.3}",
+        "type": "color"
+      }
+    },
+    "font-fontsize-state-default": {
       "xxl": {
         "value": "{font.size.xxl}",
         "type": "fontSizes"
@@ -3190,16 +3182,58 @@
         "type": "color"
       }
     },
-    "color-bg-state-hover": {
-      "brand3": {
-        "value": "{color.basic.brand.3}",
-        "type": "color"
-      }
-    },
     "color-text-state-hover": {
       "white100": {
         "value": "{color.basic.opacity.white.100}",
         "type": "color"
+      }
+    },
+    "shape-borderradius-state-hover": {
+      "100": {
+        "value": "{dimension.borderradius.100}",
+        "type": "borderRadius"
+      }
+    },
+    "font-fontsize-state-hover": {
+      "xxl": {
+        "value": "{font.size.xxl}",
+        "type": "fontSizes"
+      }
+    },
+    "scale-height-state-hover": {
+      "medium": {
+        "value": "{dimension.basic.dimension.72}",
+        "type": "sizing"
+      }
+    },
+    "scale-width-state-hover": {
+      "medium": {
+        "value": "{dimension.basic.dimension.72}",
+        "type": "sizing"
+      }
+    },
+    "color-border-state-default": {
+      "black20": {
+        "value": "{color.basic.opacity.black.20}",
+        "type": "color"
+      }
+    },
+    "color-border-state-hover": {
+      "indigo5": {
+        "value": "{color.basic.indigo.5}",
+        "type": "color"
+      }
+    },
+    "shape-borderwidth-state-default": {
+      "0": {
+        "value": "{dimension.borderwidth.0}",
+        "type": "borderWidth"
+      }
+    },
+    "shape-borderwidth-state-hover": {
+      "0": {
+        "value": "{dimension.borderwidth.0}",
+        "type": "borderWidth"
       }
     }
   },
