@@ -3093,6 +3093,60 @@
       }
     }
   },
+  "progress": {
+    "material-elevation-state-default": {
+      "none": {
+        "value": "none",
+        "type": "boxShadow"
+      }
+    },
+    "shape-borderradius-state-default": {
+      "200": {
+        "value": "{dimension.borderradius.100}",
+        "type": "borderRadius"
+      }
+    },
+    "scale-width-state-default": {
+      "120": {
+        "value": "{dimension.basic.dimension.120}",
+        "type": "sizing"
+      }
+    },
+    "scale-height-state-default": {
+      "8": {
+        "value": "{dimension.basic.dimension.8}",
+        "type": "sizing"
+      },
+      "120": {
+        "value": "{dimension.basic.dimension.120}",
+        "type": "sizing"
+      }
+    },
+    "shape-borderwidth-state-default": {
+      "0": {
+        "value": "{dimension.borderwidth.0}",
+        "type": "borderWidth"
+      }
+    },
+    "color-bg_top-state-default": {
+      "brand5": {
+        "value": "{color.basic.brand.5}",
+        "type": "color"
+      }
+    },
+    "color-bg_btm-state-default": {
+      "brand0": {
+        "value": "{color.basic.brand.0}",
+        "type": "color"
+      }
+    },
+    "color-border-state-default": {
+      "black12": {
+        "value": "{color.basic.opacity.black.12}",
+        "type": "color"
+      }
+    }
+  },
   "button(example2)": {
     "color-bg-state-defult": {
       "value": "{color.basic.dark-blue.5}",
@@ -3137,118 +3191,6 @@
     "shape-borderwidth-state-default": {
       "value": "{dimension.basic.dimension.1}",
       "type": "borderWidth"
-    }
-  },
-  "basic-progress-odcdark": {
-    "layout-left-state-default": {
-      "ture": {
-        "value": "{true}",
-        "type": "boolean"
-      },
-      "false": {
-        "value": "{false}",
-        "type": "boolean"
-      }
-    },
-    "layout-main-state-default": {
-      "ture": {
-        "value": "{true}",
-        "type": "boolean"
-      },
-      "false": {
-        "value": "{false}",
-        "type": "boolean"
-      }
-    },
-    "layout-right-state-default": {
-      "ture": {
-        "value": "{true}",
-        "type": "boolean"
-      },
-      "false": {
-        "value": "{false}",
-        "type": "boolean"
-      }
-    },
-    "material-elevation-state-default": {
-      "none": {
-        "value": "none",
-        "type": "boxShadow"
-      }
-    },
-    "shape-borderradius-state-default": {
-      "16": {
-        "value": "{borderRadius.16}",
-        "type": "borderRadius"
-      },
-      "200": {
-        "value": "{borderRadius.200}",
-        "type": "borderRadius"
-      }
-    },
-    "scale-padding-state-default": {
-      "none": {
-        "value": "none",
-        "type": "spacing"
-      }
-    },
-    "scale-gap-state-default": {
-      "12": {
-        "value": "{dimension.12}",
-        "type": "spacing"
-      }
-    },
-    "scale-width-state-default": {
-      "120": {
-        "value": "{dimension.120}",
-        "type": "sizing"
-      }
-    },
-    "scale-height-state-default": {
-      "8": {
-        "value": "{dimension.8}",
-        "type": "sizing"
-      }
-    },
-    "font-text-state-default": {
-      "buttoncn12": {
-        "value": "{body.cn.12}",
-        "type": "typography"
-      }
-    },
-    "color-bg-state-default": {
-      "gold1": {
-        "value": "{basic.gold.1}",
-        "type": "color"
-      }
-    },
-    "color-bg-state-onloading-loading": {
-      "gradientgold2": {
-        "value": "{gradient.gold2}",
-        "type": "color"
-      }
-    },
-    "shape-borderwidth-state-default": {
-      "0": {
-        "value": "{boderWidth.0}",
-        "type": "borderWidth"
-      }
-    },
-    "color-text-state-default": {
-      "gold5": {
-        "value": "{basic.gold.5}",
-        "type": "color"
-      },
-      "black": {
-        "value": "{opacity.black.64}",
-        "type": "color"
-      }
-    },
-    "color-bg-state-onloading-loaded": {
-      "gradientgold2": {
-        "value": "{gradient.gold2}",
-        "type": "color"
-      }
     }
   },
   "basic-texttip-odcdark": {
@@ -3752,7 +3694,9 @@
       "id": "65300e9fbeadd46524a1f9df3f25570104206746",
       "name": "dark",
       "$figmaStyleReferences": {},
-      "selectedTokenSets": {},
+      "selectedTokenSets": {
+        "progress": "disabled"
+      },
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
       "$figmaVariableReferences": {
@@ -3806,8 +3750,8 @@
       "avatar",
       "intent",
       "icon",
+      "progress",
       "button(example2)",
-      "basic-progress-odcdark",
       "basic-texttip-odcdark",
       "basic-texttip-odcdark_复制"
     ]
