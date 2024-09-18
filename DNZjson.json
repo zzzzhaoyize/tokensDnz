@@ -1409,6 +1409,10 @@
         "2": {
           "value": "{dimension.basic.dimension.2}",
           "type": "other"
+        },
+        "4": {
+          "value": "{dimension.basic.dimension.4}",
+          "type": "other"
         }
       },
       "gap": {
@@ -3068,6 +3072,12 @@
       "brand5": {
         "value": "{color.basic.brand.5}",
         "type": "color"
+      }
+    },
+    "shape-borderwidth-state-default": {
+      "4": {
+        "value": "{dimension.borderwidth.4}",
+        "type": "borderWidth"
       }
     }
   },
