@@ -3025,8 +3025,8 @@
       }
     },
     "font-fontsize-state-default": {
-      "large": {
-        "value": "{font.size.large}",
+      "medium": {
+        "value": "{font.size.medium}",
         "type": "fontSizes"
       }
     },
@@ -3037,8 +3037,8 @@
       }
     },
     "scale-padding-state-default": {
-      "16": {
-        "value": "{dimension.padding.16}",
+      "12": {
+        "value": "{dimension.padding.12}",
         "type": "spacing"
       }
     },
@@ -3057,6 +3057,12 @@
     "scale-max_width-state-default": {
       "560": {
         "value": "{dimension.basic.dimension.560}",
+        "type": "sizing"
+      }
+    },
+    "scale-max_height-state-default": {
+      "320": {
+        "value": "{dimension.basic.dimension.320}",
         "type": "sizing"
       }
     }
