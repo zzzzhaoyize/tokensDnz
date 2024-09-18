@@ -3005,7 +3005,7 @@
       }
     }
   },
-  "intent_distribution": {
+  "intent": {
     "color-bg-state-default": {
       "white100": {
         "value": "{color.basic.opacity.white.100}",
@@ -3013,14 +3013,14 @@
       }
     },
     "color-text-state-default": {
-      "black100": {
-        "value": "{color.basic.opacity.black.100}",
+      "grey9": {
+        "value": "{color.basic.grey.9}",
         "type": "color"
       }
     },
     "shape-borderradius-state-default": {
-      "20": {
-        "value": "{dimension.borderradius.20}",
+      "12": {
+        "value": "{dimension.borderradius.12}",
         "type": "borderRadius"
       }
     },
@@ -3042,10 +3042,16 @@
         "type": "spacing"
       }
     },
-    "color-bg-state-small": {
-      "brand4": {
-        "value": "{color.basic.brand.4}",
+    "color-border-state-default": {
+      "black12": {
+        "value": "{color.basic.opacity.black.12}",
         "type": "color"
+      }
+    },
+    "shape-borderwidth-state-default": {
+      "0": {
+        "value": "{dimension.borderwidth.0}",
+        "type": "borderWidth"
       }
     }
   },
@@ -3740,7 +3746,9 @@
       "id": "65300e9fbeadd46524a1f9df3f25570104206746",
       "name": "dark",
       "$figmaStyleReferences": {},
-      "selectedTokenSets": {},
+      "selectedTokenSets": {
+        "intent": "disabled"
+      },
       "$figmaCollectionId": "VariableCollectionId:149:1035",
       "$figmaModeId": "149:1",
       "$figmaVariableReferences": {
@@ -3792,7 +3800,7 @@
       "badge",
       "background",
       "avatar",
-      "intent_distribution",
+      "intent",
       "icon",
       "button(example2)",
       "basic-progress-odcdark",
