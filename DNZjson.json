@@ -3003,6 +3003,30 @@
         "value": "{dimension.borderradius.0}",
         "type": "borderRadius"
       }
+    },
+    "color-border-state-default": {
+      "black20": {
+        "value": "{color.basic.opacity.black.20}",
+        "type": "color"
+      }
+    },
+    "shape-borderwidth-state-default": {
+      "0": {
+        "value": "{dimension.borderwidth.0}",
+        "type": "borderWidth"
+      }
+    },
+    "color-border-state-loaded": {
+      "black20": {
+        "value": "{color.basic.opacity.black.20}",
+        "type": "color"
+      }
+    },
+    "shape-borderwidth-state-loaded": {
+      "0": {
+        "value": "{dimension.borderwidth.0}",
+        "type": "borderWidth"
+      }
     }
   },
   "avatar": {
