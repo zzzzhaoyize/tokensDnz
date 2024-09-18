@@ -2759,6 +2759,36 @@
         "value": "{dimension.basic.dimension.560}",
         "type": "sizing"
       }
+    },
+    "material-elevation-state-default": {
+      "none": {
+        "value": "none",
+        "type": "boxShadow"
+      }
+    },
+    "material-elevation-state-hover": {
+      "none": {
+        "value": "none",
+        "type": "boxShadow"
+      }
+    },
+    "material-elevation-state-active": {
+      "none": {
+        "value": "none",
+        "type": "boxShadow"
+      }
+    },
+    "material-elevation-state-disable": {
+      "none": {
+        "value": "none",
+        "type": "boxShadow"
+      }
+    },
+    "material-elevation-state-error": {
+      "none": {
+        "value": "none",
+        "type": "boxShadow"
+      }
     }
   },
   "badge": {
