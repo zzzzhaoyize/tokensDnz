@@ -2087,7 +2087,7 @@
       }
     },
     "scale-gap-state-active": {
-      "8": {
+      "gap": {
         "value": "{dimension.gap.8}",
         "type": "spacing"
       }
