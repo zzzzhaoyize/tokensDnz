@@ -2995,11 +2995,9 @@
       }
     },
     "scale-min_width-state-disable": {
-      "number": {
-        "min_width": {
-          "value": "{dimension.basic.dimension.20}",
-          "type": "sizing"
-        }
+      "min_width": {
+        "value": "{dimension.basic.dimension.20}",
+        "type": "sizing"
       }
     },
     "scale-padding-state-disable": {
