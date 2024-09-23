@@ -3065,31 +3065,31 @@
   },
   "background": {
     "material-image-state-default": {
-      "bg": {
+      "image": {
         "value": "https://sop-cdn.dingcloud.com/filez/icon/8mm6fa2u7foi4j38r6r67navgpttixwi20240708114129822.png",
         "type": "asset"
       }
     },
     "shape-borderradius-state-default": {
-      "0": {
+      "borderradius": {
         "value": "{dimension.borderradius.0}",
         "type": "borderRadius"
       }
     },
     "material-image-state-loaded": {
-      "bg_loaded": {
+      "image": {
         "value": "https://i.pinimg.com/736x/35/6f/f1/356ff1848ba9affde2fbde8dacbf9891.jpg",
         "type": "asset"
       }
     },
     "shape-borderradius-state-loaded": {
-      "0": {
+      "borderradius": {
         "value": "{dimension.borderradius.0}",
         "type": "borderRadius"
       }
     },
     "color-border-state-default": {
-      "blackborder": {
+      "border": {
         "value": "{color.basic.opacity.black.20}",
         "type": "color"
       }
@@ -3101,13 +3101,13 @@
       }
     },
     "color-border-state-loaded": {
-      "black20": {
+      "border": {
         "value": "{color.basic.opacity.black.20}",
         "type": "color"
       }
     },
     "shape-borderwidth-state-loaded": {
-      "0": {
+      "borderwidth": {
         "value": "{dimension.borderwidth.0}",
         "type": "borderWidth"
       }
@@ -3119,7 +3119,7 @@
       }
     },
     "material-elevation-state-loaded": {
-      "none": {
+      "elevation": {
         "value": "none",
         "type": "boxShadow"
       }
@@ -3149,7 +3149,7 @@
         "value": "https://i.pinimg.com/736x/3e/c7/04/3ec704e63141380a0094d70a73b4e50e.jpg",
         "type": "asset"
       },
-      "bg": {
+      "image": {
         "value": "https://sop-cdn.dingcloud.com/filez/icon/8mm6fa2u7foi4j38r6r67navgpttixwi20240708114129822.png",
         "type": "asset"
       }
