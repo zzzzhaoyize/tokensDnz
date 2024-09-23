@@ -3323,25 +3323,25 @@
       }
     },
     "scale-icon_width-state-default": {
-      "56": {
+      "icon_width": {
         "value": "{dimension.basic.dimension.56}",
         "type": "sizing"
       }
     },
     "scale-icon_height-state-default": {
-      "56": {
+      "icon_height": {
         "value": "{dimension.basic.dimension.56}",
         "type": "sizing"
       }
     },
     "color-border-state-default": {
-      "brand5": {
+      "border": {
         "value": "{color.basic.brand.5}",
         "type": "color"
       }
     },
     "shape-borderwidth-state-default": {
-      "4": {
+      "borderwidth": {
         "value": "{dimension.borderwidth.4}",
         "type": "borderWidth"
       }
