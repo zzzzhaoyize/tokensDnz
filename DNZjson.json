@@ -3255,37 +3255,37 @@
   },
   "intent": {
     "color-bg-state-default": {
-      "white100": {
+      "bg": {
         "value": "{color.basic.opacity.white.100}",
         "type": "color"
       }
     },
     "color-text-state-default": {
-      "grey9": {
+      "text": {
         "value": "{color.basic.grey.9}",
         "type": "color"
       }
     },
     "shape-borderradius-state-default": {
-      "12": {
+      "borderradius": {
         "value": "{dimension.borderradius.12}",
         "type": "borderRadius"
       }
     },
     "font-fontsize-state-default": {
-      "medium": {
+      "fontsize": {
         "value": "{font.size.medium}",
         "type": "fontSizes"
       }
     },
     "scale-padding-state-default": {
-      "12": {
+      "padding": {
         "value": "{dimension.padding.12}",
         "type": "spacing"
       }
     },
     "color-border-state-default": {
-      "black12": {
+      "border": {
         "value": "{color.basic.opacity.black.12}",
         "type": "color"
       }
@@ -3297,13 +3297,13 @@
       }
     },
     "scale-max_width-state-default": {
-      "560": {
+      "max_width": {
         "value": "{dimension.basic.dimension.560}",
         "type": "sizing"
       }
     },
     "scale-max_height-state-default": {
-      "320": {
+      "max_heigh": {
         "value": "{dimension.basic.dimension.320}",
         "type": "sizing"
       }
@@ -3355,24 +3355,24 @@
       }
     },
     "shape-borderradius-state-default": {
-      "200": {
+      "borderradius": {
         "value": "{dimension.borderradius.100}",
         "type": "borderRadius"
       }
     },
     "scale-width-state-default": {
-      "120": {
+      "circlewidth": {
         "value": "{dimension.basic.dimension.120}",
         "type": "sizing"
       }
     },
     "scale-height-state-default": {
-      "120": {
-        "value": "{dimension.basic.dimension.120}",
+      "height": {
+        "value": "{dimension.basic.dimension.8}",
         "type": "sizing"
       },
-      "dotheight": {
-        "value": "{dimension.basic.dimension.8}",
+      "circleheight": {
+        "value": "{dimension.basic.dimension.120}",
         "type": "sizing"
       }
     },
@@ -3383,19 +3383,19 @@
       }
     },
     "color-bg_top-state-default": {
-      "brand5": {
+      "bg_top": {
         "value": "{color.basic.brand.5}",
         "type": "color"
       }
     },
     "color-bg_btm-state-default": {
-      "brand0": {
+      "bg_btm": {
         "value": "{color.basic.brand.0}",
         "type": "color"
       }
     },
     "color-border-state-default": {
-      "black12": {
+      "border": {
         "value": "{color.basic.opacity.black.12}",
         "type": "color"
       }
