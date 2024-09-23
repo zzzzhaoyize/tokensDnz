@@ -3143,63 +3143,63 @@
       }
     },
     "material-image-state-default": {
-      "avatar": {
-        "value": "https://i.pinimg.com/736x/3e/c7/04/3ec704e63141380a0094d70a73b4e50e.jpg",
-        "type": "asset"
-      },
       "image": {
-        "value": "https://sop-cdn.dingcloud.com/filez/icon/8mm6fa2u7foi4j38r6r67navgpttixwi20240708114129822.png",
+        "value": "https://i.pinimg.com/736x/3e/c7/04/3ec704e63141380a0094d70a73b4e50e.jpg",
         "type": "asset"
       }
     },
     "material-image-state-hover": {
-      "gif": {
+      "image": {
         "value": "https://i.pinimg.com/736x/3e/c7/04/3ec704e63141380a0094d70a73b4e50e.jpg",
         "type": "asset"
       }
     },
     "color-bg-state-default": {
-      "textlabelbg": {
+      "bg": {
         "value": "{color.basic.brand.4}",
+        "type": "color"
+      },
+      "imagebg": {
+        "value": "none",
         "type": "color"
       }
     },
     "color-bg-state-hover": {
-      "white16": {
+      "imagebg": {
         "value": "{color.basic.opacity.white.16}",
         "type": "color"
       },
-      "brand3": {
+      "bg": {
         "value": "{color.basic.brand.3}",
         "type": "color"
       }
     },
     "font-fontsize-state-default": {
-      "xxl": {
+      "fontsize": {
         "value": "{font.size.xxl}",
         "type": "fontSizes"
       }
     },
     "color-text-state-default": {
-      "hyperlinktext": {
+      "text": {
         "value": "{color.basic.opacity.white.100}",
         "type": "color"
       }
     },
     "color-text-state-hover": {
-      "white100": {
+      "text": {
         "value": "{color.basic.opacity.white.100}",
         "type": "color"
       }
     },
     "shape-borderradius-state-hover": {
-      "100": {
+      "borderradius": {
         "value": "{dimension.borderradius.100}",
         "type": "borderRadius"
       }
     },
     "font-fontsize-state-hover": {
-      "xxl": {
+      "fontsize": {
         "value": "{font.size.xxl}",
         "type": "fontSizes"
       }
@@ -3217,13 +3217,13 @@
       }
     },
     "color-border-state-default": {
-      "blackborder": {
+      "border": {
         "value": "{color.basic.opacity.black.20}",
         "type": "color"
       }
     },
     "color-border-state-hover": {
-      "indigo5": {
+      "border": {
         "value": "{color.basic.indigo.5}",
         "type": "color"
       }
@@ -3235,7 +3235,7 @@
       }
     },
     "shape-borderwidth-state-hover": {
-      "0": {
+      "borderwidth": {
         "value": "{dimension.borderwidth.0}",
         "type": "borderWidth"
       }
