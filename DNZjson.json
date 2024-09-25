@@ -2871,6 +2871,10 @@
         "value": "{dimension.basic.dimension.8}",
         "type": "sizing"
       },
+      "height": {
+        "value": "{dimension.basic.dimension.",
+        "type": "sizing"
+      },
       "numberheight": {
         "value": "{dimension.basic.dimension.20}",
         "type": "sizing"
@@ -3120,6 +3124,18 @@
       "elevation": {
         "value": "none",
         "type": "boxShadow"
+      }
+    },
+    "scale-height-state-default": {
+      "height": {
+        "value": "{dimension.basic.dimension.560}",
+        "type": "sizing"
+      }
+    },
+    "scale-width-state-default": {
+      "width": {
+        "value": "{dimension.basic.dimension.640}",
+        "type": "sizing"
       }
     }
   },
