@@ -3326,7 +3326,7 @@
     },
     "material-elevation-state-default": {
       "elevation": {
-        "value": "none",
+        "value": "{elevation.herald.02}",
         "type": "boxShadow"
       }
     }
