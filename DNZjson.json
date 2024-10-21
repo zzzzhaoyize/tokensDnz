@@ -1681,7 +1681,7 @@
       }
     },
     "elevation": {
-      "shadow": {
+      "hierarchy": {
         "00": {
           "value": {
             "color": "#1f1f2a1a",
@@ -1789,6 +1789,118 @@
             "y": "9",
             "blur": "17",
             "spread": "0"
+          },
+          "type": "boxShadow"
+        }
+      },
+      "shadow": {
+        "B1": {
+          "value": {
+            "x": "0",
+            "y": "1",
+            "blur": "8",
+            "spread": "0",
+            "color": "#1f1f2a1c",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "B2": {
+          "value": {
+            "x": "0",
+            "y": "2",
+            "blur": "10",
+            "spread": "0",
+            "color": "#1f1f2a1f",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "B3": {
+          "value": {
+            "x": "0",
+            "y": "4",
+            "blur": "12",
+            "spread": "0",
+            "color": "#1f1f2a21",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "ground": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "0",
+            "color": "#1f1f2a24",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "main": {
+          "value": {
+            "x": "0",
+            "y": "1",
+            "blur": "8",
+            "spread": "0",
+            "color": "#1f1f2a26",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "1f": {
+          "value": {
+            "x": "0",
+            "y": "4",
+            "blur": "12",
+            "spread": "0",
+            "color": "#1f1f2a29",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "2f": {
+          "value": {
+            "x": "0",
+            "y": "6",
+            "blur": "16",
+            "spread": "0",
+            "color": "#1f1f2a2b",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "3f": {
+          "value": {
+            "x": "0",
+            "y": "8",
+            "blur": "20",
+            "spread": "0",
+            "color": "#1f1f2a2e",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "4f": {
+          "value": {
+            "x": "0",
+            "y": "12",
+            "blur": "24",
+            "spread": "0",
+            "color": "#1f1f2a30",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "5f": {
+          "value": {
+            "x": "0",
+            "y": "16",
+            "blur": "32",
+            "spread": "0",
+            "color": "#1f1f2a30",
+            "type": "dropShadow"
           },
           "type": "boxShadow"
         }
@@ -2798,31 +2910,31 @@
     },
     "material-elevation-state-default": {
       "elevation": {
-        "value": "{elevation.shadow.05}",
+        "value": "{elevation.hierarchy.05}",
         "type": "boxShadow"
       }
     },
     "material-elevation-state-hover": {
       "elevation": {
-        "value": "{elevation.shadow.05}",
+        "value": "{elevation.hierarchy.05}",
         "type": "boxShadow"
       }
     },
     "material-elevation-state-active": {
       "elevation": {
-        "value": "{elevation.shadow.05}",
+        "value": "{elevation.hierarchy.05}",
         "type": "boxShadow"
       }
     },
     "material-elevation-state-disable": {
       "elevation": {
-        "value": "{elevation.shadow.05}",
+        "value": "{elevation.hierarchy.05}",
         "type": "boxShadow"
       }
     },
     "material-elevation-state-error": {
       "elevation": {
-        "value": "{elevation.shadow.05}",
+        "value": "{elevation.hierarchy.05}",
         "type": "boxShadow"
       }
     }
@@ -3326,7 +3438,7 @@
     },
     "material-elevation-state-default": {
       "elevation": {
-        "value": "{elevation.shadow.02}",
+        "value": "{elevation.hierarchy.02}",
         "type": "boxShadow"
       }
     }
