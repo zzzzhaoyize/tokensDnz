@@ -1681,7 +1681,7 @@
       }
     },
     "elevation": {
-      "herald": {
+      "shadow": {
         "00": {
           "value": {
             "color": "#1f1f2a1a",
@@ -2798,31 +2798,31 @@
     },
     "material-elevation-state-default": {
       "elevation": {
-        "value": "{elevation.herald.05}",
+        "value": "{elevation.shadow.05}",
         "type": "boxShadow"
       }
     },
     "material-elevation-state-hover": {
       "elevation": {
-        "value": "{elevation.herald.05}",
+        "value": "{elevation.shadow.05}",
         "type": "boxShadow"
       }
     },
     "material-elevation-state-active": {
       "elevation": {
-        "value": "{elevation.herald.05}",
+        "value": "{elevation.shadow.05}",
         "type": "boxShadow"
       }
     },
     "material-elevation-state-disable": {
       "elevation": {
-        "value": "{elevation.herald.05}",
+        "value": "{elevation.shadow.05}",
         "type": "boxShadow"
       }
     },
     "material-elevation-state-error": {
       "elevation": {
-        "value": "{elevation.herald.05}",
+        "value": "{elevation.shadow.05}",
         "type": "boxShadow"
       }
     }
@@ -3326,7 +3326,7 @@
     },
     "material-elevation-state-default": {
       "elevation": {
-        "value": "{elevation.herald.02}",
+        "value": "{elevation.shadow.02}",
         "type": "boxShadow"
       }
     }
