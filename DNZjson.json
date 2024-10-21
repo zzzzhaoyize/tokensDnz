@@ -1820,7 +1820,7 @@
           "value": {
             "x": "0",
             "y": "4",
-            "blur": "12",
+            "blur": "16",
             "spread": "0",
             "color": "#1f1f2a21",
             "type": "innerShadow"
