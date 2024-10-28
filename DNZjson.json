@@ -2192,7 +2192,7 @@
         "type": "spacing"
       }
     },
-    "scale-gap-state-onmouseover_hover": {
+    "scale-gap-state-hover": {
       "gap": {
         "value": "{dimension.gap.8}",
         "type": "spacing"
