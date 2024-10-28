@@ -2616,7 +2616,7 @@
     },
     "shape-borderwidth-state-default": {
       "borderwidth": {
-        "value": "{dimension.basic.dimension.1}",
+        "value": "{dimension.borderwidth.1}",
         "type": "borderWidth"
       }
     },
@@ -2730,25 +2730,25 @@
     },
     "shape-borderwidth-hover": {
       "borderwidth": {
-        "value": "{dimension.basic.dimension.1}",
+        "value": "{dimension.borderwidth.1}",
         "type": "borderWidth"
       }
     },
     "shape-borderwidth-active": {
       "borderwidth": {
-        "value": "{dimension.basic.dimension.2}",
+        "value": "{dimension.borderwidth.2}",
         "type": "borderWidth"
       }
     },
     "shape-borderwidth-error": {
       "borderwidth": {
-        "value": "{dimension.basic.dimension.1}",
+        "value": "{dimension.borderwidth.1}",
         "type": "borderWidth"
       }
     },
     "shape-borderwidth-disable": {
       "borderwidth": {
-        "value": "{dimension.basic.dimension.1}",
+        "value": "{dimension.borderwidth.1}",
         "type": "borderWidth"
       }
     },
