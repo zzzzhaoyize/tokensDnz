@@ -2966,10 +2966,6 @@
       "number": {
         "value": "{color.basic.red.0}",
         "type": "color"
-      },
-      "text": {
-        "value": "{color.basic.brand.0}",
-        "type": "color"
       }
     },
     "color-icon_color-state-default": {
@@ -3006,26 +3002,10 @@
       "bg": {
         "value": "{color.basic.red.5}",
         "type": "color"
-      },
-      "textlabelbg": {
-        "value": "{color.basic.brand.4}",
-        "type": "color"
-      },
-      "iconbg": {
-        "value": "{color.basic.orange.6}",
-        "type": "color"
       }
     },
     "color-bg-state-disable": {
       "bg": {
-        "value": "{color.basic.grey.4}",
-        "type": "color"
-      },
-      "textlabelbg": {
-        "value": "{color.basic.grey.4}",
-        "type": "color"
-      },
-      "iconbg": {
         "value": "{color.basic.grey.4}",
         "type": "color"
       }
@@ -3069,10 +3049,6 @@
       }
     },
     "color-text-state-disable": {
-      "number": {
-        "value": "{color.basic.grey.0}",
-        "type": "color"
-      },
       "text": {
         "value": "{color.basic.grey.0}",
         "type": "color"
