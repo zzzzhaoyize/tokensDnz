@@ -3498,10 +3498,6 @@
       "height": {
         "value": "{dimension.basic.dimension.8}",
         "type": "sizing"
-      },
-      "circleheight": {
-        "value": "{dimension.basic.dimension.120}",
-        "type": "sizing"
       }
     },
     "shape-borderwidth-state-default": {
