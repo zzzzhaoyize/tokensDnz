@@ -2462,6 +2462,10 @@
       "text": {
         "value": "{color.basic.opacity.black.100}",
         "type": "color"
+      },
+      "hyperlinktext": {
+        "value": "{color.basic.light-blue.5}",
+        "type": "color"
       }
     },
     "scale-min_height-state-default": {
@@ -2946,6 +2950,10 @@
       "padding": {
         "value": "{dimension.padding.4}",
         "type": "spacing"
+      },
+      "textlabelpadding": {
+        "value": "{dimension.padding.4-8}",
+        "type": "spacing"
       }
     },
     "scale-gap-state-default": {
@@ -2958,6 +2966,10 @@
       "number": {
         "value": "{color.basic.red.0}",
         "type": "color"
+      },
+      "text": {
+        "value": "{color.basic.brand.0}",
+        "type": "color"
       }
     },
     "color-icon_color-state-default": {
@@ -2967,8 +2979,20 @@
       }
     },
     "scale-height-state-default": {
+      "dotheight": {
+        "value": "{dimension.basic.dimension.8}",
+        "type": "sizing"
+      },
       "height": {
         "value": "{dimension.basic.dimension.",
+        "type": "sizing"
+      },
+      "numberheight": {
+        "value": "{dimension.basic.dimension.20}",
+        "type": "sizing"
+      },
+      "textlabelheight": {
+        "value": "{dimension.basic.dimension.24}",
         "type": "sizing"
       }
     },
@@ -2982,10 +3006,26 @@
       "bg": {
         "value": "{color.basic.red.5}",
         "type": "color"
+      },
+      "textlabelbg": {
+        "value": "{color.basic.brand.4}",
+        "type": "color"
+      },
+      "iconbg": {
+        "value": "{color.basic.orange.6}",
+        "type": "color"
       }
     },
     "color-bg-state-disable": {
       "bg": {
+        "value": "{color.basic.grey.4}",
+        "type": "color"
+      },
+      "textlabelbg": {
+        "value": "{color.basic.grey.4}",
+        "type": "color"
+      },
+      "iconbg": {
         "value": "{color.basic.grey.4}",
         "type": "color"
       }
@@ -2993,6 +3033,10 @@
     "font-fontsize-state-default": {
       "textfontsize": {
         "value": "{font.size.basic}",
+        "type": "fontSizes"
+      },
+      "numberfontsize": {
+        "value": "{font.size.small}",
         "type": "fontSizes"
       }
     },
@@ -3018,9 +3062,17 @@
       "textfontsize": {
         "value": "{font.size.basic}",
         "type": "fontSizes"
+      },
+      "numberfontsize": {
+        "value": "{font.size.small}",
+        "type": "fontSizes"
       }
     },
     "color-text-state-disable": {
+      "number": {
+        "value": "{color.basic.grey.0}",
+        "type": "color"
+      },
       "text": {
         "value": "{color.basic.grey.0}",
         "type": "color"
@@ -3039,8 +3091,16 @@
       }
     },
     "scale-height-state-disable": {
-      "height": {
+      "dotheight": {
         "value": "{dimension.basic.dimension.8}",
+        "type": "sizing"
+      },
+      "numberheight": {
+        "value": "{dimension.basic.dimension.20}",
+        "type": "sizing"
+      },
+      "textlabelheight": {
+        "value": "{dimension.basic.dimension.24}",
         "type": "sizing"
       }
     },
@@ -3059,6 +3119,10 @@
     "scale-padding-state-disable": {
       "padding": {
         "value": "{dimension.padding.4}",
+        "type": "spacing"
+      },
+      "textlabelpadding": {
+        "value": "{dimension.padding.4-8}",
         "type": "spacing"
       }
     },
@@ -3081,14 +3145,22 @@
       }
     },
     "color-border-state-default": {
-      "border": {
+      "blackborder": {
         "value": "{color.basic.opacity.black.20}",
+        "type": "color"
+      },
+      "whiteborder": {
+        "value": "{color.basic.opacity.white.100}",
         "type": "color"
       }
     },
     "color-border-state-disable": {
-      "border": {
+      "blackborder": {
         "value": "{color.basic.opacity.black.20}",
+        "type": "color"
+      },
+      "whiteborder": {
+        "value": "{color.basic.opacity.white.100}",
         "type": "color"
       }
     },
@@ -3214,9 +3286,17 @@
       "bg": {
         "value": "{color.basic.brand.4}",
         "type": "color"
+      },
+      "imagebg": {
+        "value": "none",
+        "type": "color"
       }
     },
     "color-bg-state-hover": {
+      "imagebg": {
+        "value": "{color.basic.opacity.white.16}",
+        "type": "color"
+      },
       "bg": {
         "value": "{color.basic.brand.3}",
         "type": "color"
@@ -3417,6 +3497,10 @@
     "scale-height-state-default": {
       "height": {
         "value": "{dimension.basic.dimension.8}",
+        "type": "sizing"
+      },
+      "circleheight": {
+        "value": "{dimension.basic.dimension.120}",
         "type": "sizing"
       }
     },
