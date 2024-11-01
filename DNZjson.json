@@ -2935,8 +2935,20 @@
           }
         },
         "gradient": {
-          "1": {
+          "brand135light": {
             "value": "linear-gradient({dimension.basic.deg.135}, {color.basic.opacity.white.4} {dimension.basic.percent.0}, {color.basic.brand.5} {dimension.basic.percent.100})",
+            "type": "color"
+          },
+          "1-copy": {
+            "value": "linear-gradient({dimension.basic.deg.135}, {color.basic.opacity.white.4} {dimension.basic.percent.0}, {color.basic.violet.5} {dimension.basic.percent.100})",
+            "type": "color"
+          },
+          "1-copy-copy": {
+            "value": "linear-gradient({dimension.basic.deg.135}, {color.basic.opacity.white.4} {dimension.basic.percent.0}, {color.basic.blue.5} {dimension.basic.percent.100})",
+            "type": "color"
+          },
+          "1-copy-copy-copy": {
+            "value": "linear-gradient({dimension.basic.deg.135}, {color.basic.opacity.white.4} {dimension.basic.percent.0}, {color.basic.opacity.white.100} {dimension.basic.percent.100})",
             "type": "color"
           }
         }
