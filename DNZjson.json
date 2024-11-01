@@ -3746,118 +3746,6 @@
     },
     "elevation": {
       "hierarchy": {
-        "00": {
-          "value": {
-            "color": "#1f1f2a1a",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "0",
-            "blur": "8",
-            "spread": "0"
-          },
-          "type": "boxShadow"
-        },
-        "01": {
-          "value": {
-            "color": "#1f1f2a1c",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "1",
-            "blur": "9",
-            "spread": "0"
-          },
-          "type": "boxShadow"
-        },
-        "02": {
-          "value": {
-            "color": "#1f1f2a1f",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "2",
-            "blur": "10",
-            "spread": "0"
-          },
-          "type": "boxShadow"
-        },
-        "03": {
-          "value": {
-            "color": "#1f1f2a21",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "3",
-            "blur": "11",
-            "spread": "0"
-          },
-          "type": "boxShadow"
-        },
-        "04": {
-          "value": {
-            "color": "#1f1f2a24",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "4",
-            "blur": "12",
-            "spread": "0"
-          },
-          "type": "boxShadow"
-        },
-        "05": {
-          "value": {
-            "color": "#1f1f2a26",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "5",
-            "blur": "13",
-            "spread": "0"
-          },
-          "type": "boxShadow"
-        },
-        "06": {
-          "value": {
-            "color": "#1f1f2a29",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "6",
-            "blur": "14",
-            "spread": "0"
-          },
-          "type": "boxShadow"
-        },
-        "07": {
-          "value": {
-            "color": "#1f1f2a2b",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "7",
-            "blur": "15",
-            "spread": "0"
-          },
-          "type": "boxShadow"
-        },
-        "08": {
-          "value": {
-            "color": "#1f1f2a2e",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "8",
-            "blur": "16",
-            "spread": "0"
-          },
-          "type": "boxShadow"
-        },
-        "09": {
-          "value": {
-            "color": "#1f1f2a30",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "9",
-            "blur": "17",
-            "spread": "0"
-          },
-          "type": "boxShadow"
-        }
-      },
-      "shadow": {
         "B1": {
           "value": {
             "x": "0",
@@ -3989,31 +3877,71 @@
           "type": "other"
         }
       },
-      "delay": {
-        "short": {
-          "value": "50",
+      "duration": {
+        "slowest": {
+          "value": "1800ms",
           "type": "other"
         },
-        "base": {
-          "value": "100",
+        "slower": {
+          "value": "1200ms",
           "type": "other"
         },
-        "long": {
-          "value": "200",
+        "slow": {
+          "value": "1000",
+          "type": "other"
+        },
+        "normal": {
+          "value": "600ms",
+          "type": "other"
+        },
+        "fast": {
+          "value": "180ms",
+          "type": "other"
+        },
+        "faster": {
+          "value": "120ms",
+          "type": "other"
+        },
+        "fastest": {
+          "value": "90ms",
+          "type": "other"
+        },
+        "none": {
+          "value": "0ms",
           "type": "other"
         }
       },
-      "duration": {
-        "short": {
-          "value": "2000",
+      "delay": {
+        "slowest": {
+          "value": "1800ms",
           "type": "other"
         },
-        "base": {
-          "value": "4000",
+        "slower": {
+          "value": "1200ms",
           "type": "other"
         },
-        "long": {
-          "value": "6000",
+        "slow": {
+          "value": "1000",
+          "type": "other"
+        },
+        "normal": {
+          "value": "600ms",
+          "type": "other"
+        },
+        "fast": {
+          "value": "180ms",
+          "type": "other"
+        },
+        "faster": {
+          "value": "120ms",
+          "type": "other"
+        },
+        "fastest": {
+          "value": "90ms",
+          "type": "other"
+        },
+        "none": {
+          "value": "0ms",
           "type": "other"
         }
       }
