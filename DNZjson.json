@@ -3086,19 +3086,7 @@
         },
         "gradient": {
           "1": {
-            "value": "linear-gradient(135deg, #8989BA 0%, #A7A6CB 50%, #8989BA 100%)",
-            "type": "color"
-          },
-          "2": {
-            "value": "linear-gradient(180deg, #3CBA92 0%, #31DD76 100%)",
-            "type": "color"
-          },
-          "3": {
-            "value": "linear-gradient(180deg, #0A1732 0%,  #132C57 100%)",
-            "type": "color"
-          },
-          "4": {
-            "value": "linear-gradient(90deg, #8085E0 0%,  #BDB8FC 100%)",
+            "value": "linear-gradient({dimension.basic.deg.135}, {color.basic.opacity.white.4} {dimension.basic.percent.0}, {color.basic.brand.5} {dimension.basic.percent.100})",
             "type": "color"
           },
           "5": {
