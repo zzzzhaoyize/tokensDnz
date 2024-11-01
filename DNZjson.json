@@ -3858,22 +3858,22 @@
         }
       }
     },
-    "time": {
-      "transition": {
-        "short": {
-          "value": "200",
+    "motion": {
+      "easingfunction": {
+        "easein": {
+          "value": "cubic-bezier(0.4, 0, 1, 1)",
           "type": "other"
         },
-        "base": {
-          "value": "400",
+        "linear": {
+          "value": "linear",
           "type": "other"
         },
-        "long": {
-          "value": "600",
+        "easeout": {
+          "value": "cubic-bezier(0, 0, 0.2, 1)",
           "type": "other"
         },
-        "xl": {
-          "value": "1000",
+        "easeinout": {
+          "value": "cubic-bezier(0.4, 0, 0.2, 1)",
           "type": "other"
         }
       },
