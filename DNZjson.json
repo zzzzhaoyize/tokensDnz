@@ -3416,43 +3416,43 @@
         }
       },
       "borderradius": {
-        "0": {
+        "none": {
           "value": "{dimension.basic.dimension.0}",
           "type": "other"
         },
-        "4": {
+        "xs": {
           "value": "{dimension.basic.dimension.4}",
           "type": "other"
         },
-        "8": {
+        "small": {
           "value": "{dimension.basic.dimension.8}",
           "type": "other"
         },
-        "12": {
+        "medium": {
           "value": "{dimension.basic.dimension.12}",
           "type": "other"
         },
-        "16": {
+        "large": {
           "value": "{dimension.basic.dimension.16}",
           "type": "other"
         },
-        "20": {
+        "xl": {
           "value": "{dimension.basic.dimension.20}",
           "type": "other"
         },
-        "24": {
+        "xxl": {
           "value": "{dimension.basic.dimension.24}",
           "type": "other"
         },
-        "28": {
+        "xxxl": {
           "value": "{dimension.basic.dimension.28}",
           "type": "other"
         },
-        "32": {
+        "xxxxl": {
           "value": "{dimension.basic.dimension.32}",
           "type": "other"
         },
-        "100": {
+        "full": {
           "value": "{dimension.basic.dimension.200}",
           "type": "other"
         }
@@ -4152,7 +4152,7 @@
     },
     "shape-borderradius-state-default": {
       "borderradius": {
-        "value": "{dimension.borderradius.24}",
+        "value": "{dimension.borderradius.xxl}",
         "type": "borderRadius"
       }
     },
@@ -4284,31 +4284,31 @@
     },
     "shape-borderradius-state-hover": {
       "borderradius": {
-        "value": "{dimension.borderradius.24}",
+        "value": "{dimension.borderradius.xxl}",
         "type": "borderRadius"
       }
     },
     "shape-borderradius-state-active": {
       "borderradius": {
-        "value": "{dimension.borderradius.24}",
+        "value": "{dimension.borderradius.xxl}",
         "type": "borderRadius"
       }
     },
     "shape-borderradius-state-pressed": {
       "borderradius": {
-        "value": "{dimension.borderradius.24}",
+        "value": "{dimension.borderradius.xxl}",
         "type": "borderRadius"
       }
     },
     "shape-borderradius-state-loading": {
       "borderradius": {
-        "value": "{dimension.borderradius.24}",
+        "value": "{dimension.borderradius.xxl}",
         "type": "borderRadius"
       }
     },
     "shape-borderradius-state-disable": {
       "borderradius": {
-        "value": "{dimension.borderradius.24}",
+        "value": "{dimension.borderradius.xxl}",
         "type": "borderRadius"
       }
     },
@@ -4646,7 +4646,7 @@
     },
     "shape-borderradius-state-default": {
       "borderradius": {
-        "value": "{dimension.borderradius.32}",
+        "value": "{dimension.borderradius.xxxxl}",
         "type": "borderRadius"
       }
     },
@@ -4814,25 +4814,25 @@
     },
     "shape-borderradius-state-hover": {
       "borderradius": {
-        "value": "{dimension.borderradius.32}",
+        "value": "{dimension.borderradius.xxxxl}",
         "type": "borderRadius"
       }
     },
     "shape-borderradius-state-active": {
       "borderradius": {
-        "value": "{dimension.borderradius.32}",
+        "value": "{dimension.borderradius.xxxxl}",
         "type": "borderRadius"
       }
     },
     "shape-borderradius-state-error": {
       "borderradius": {
-        "value": "{dimension.borderradius.32}",
+        "value": "{dimension.borderradius.xxxxl}",
         "type": "borderRadius"
       }
     },
     "shape-borderradius-state-disable": {
       "borderradius": {
-        "value": "{dimension.borderradius.32}",
+        "value": "{dimension.borderradius.xxxxl}",
         "type": "borderRadius"
       }
     },
@@ -5002,7 +5002,7 @@
   "badge": {
     "shape-borderradius-state-default": {
       "borderradius": {
-        "value": "{dimension.borderradius.100}",
+        "value": "{dimension.borderradius.full}",
         "type": "borderRadius"
       }
     },
@@ -5114,7 +5114,7 @@
     },
     "shape-borderradius-state-disable": {
       "borderradius": {
-        "value": "{dimension.borderradius.100}",
+        "value": "{dimension.borderradius.full}",
         "type": "borderRadius"
       }
     },
@@ -5246,7 +5246,7 @@
     },
     "shape-borderradius-state-default": {
       "borderradius": {
-        "value": "{dimension.borderradius.0}",
+        "value": "{dimension.borderradius.none}",
         "type": "borderRadius"
       }
     },
@@ -5258,7 +5258,7 @@
     },
     "shape-borderradius-state-loaded": {
       "borderradius": {
-        "value": "{dimension.borderradius.0}",
+        "value": "{dimension.borderradius.none}",
         "type": "borderRadius"
       }
     },
@@ -5326,7 +5326,7 @@
     },
     "shape-borderradius-state-default": {
       "borderradius": {
-        "value": "{dimension.borderradius.100}",
+        "value": "{dimension.borderradius.full}",
         "type": "borderRadius"
       }
     },
@@ -5382,7 +5382,7 @@
     },
     "shape-borderradius-state-hover": {
       "borderradius": {
-        "value": "{dimension.borderradius.100}",
+        "value": "{dimension.borderradius.full}",
         "type": "borderRadius"
       }
     },
@@ -5456,7 +5456,7 @@
     },
     "shape-borderradius-state-default": {
       "borderradius": {
-        "value": "{dimension.borderradius.12}",
+        "value": "{dimension.borderradius.medium}",
         "type": "borderRadius"
       }
     },
@@ -5544,7 +5544,7 @@
     },
     "shape-borderradius-state-default": {
       "borderradius": {
-        "value": "{dimension.borderradius.100}",
+        "value": "{dimension.borderradius.full}",
         "type": "borderRadius"
       }
     },
