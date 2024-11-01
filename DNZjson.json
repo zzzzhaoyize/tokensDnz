@@ -3458,19 +3458,19 @@
         }
       },
       "borderwidth": {
-        "0": {
+        "none": {
           "value": "{dimension.basic.dimension.0}",
           "type": "other"
         },
-        "1": {
+        "narrow": {
           "value": "{dimension.basic.dimension.1}",
           "type": "other"
         },
-        "2": {
+        "base": {
           "value": "{dimension.basic.dimension.2}",
           "type": "other"
         },
-        "4": {
+        "wide": {
           "value": "{dimension.basic.dimension.4}",
           "type": "other"
         }
@@ -4186,7 +4186,7 @@
     },
     "shape-borderwidth-state-default": {
       "borderwidth": {
-        "value": "{dimension.borderwidth.0}",
+        "value": "{dimension.borderwidth.none}",
         "type": "borderWidth"
       }
     },
@@ -4318,31 +4318,31 @@
     },
     "shape-borderwidth-state-hover": {
       "borderwidth": {
-        "value": "{dimension.borderwidth.1}",
+        "value": "{dimension.borderwidth.narrow}",
         "type": "borderWidth"
       }
     },
     "shape-borderwidth-state-active": {
       "borderwidth": {
-        "value": "{dimension.borderwidth.2}",
+        "value": "{dimension.borderwidth.base}",
         "type": "borderWidth"
       }
     },
     "shape-borderwidth-state-pressed": {
       "borderwidth": {
-        "value": "{dimension.borderwidth.1}",
+        "value": "{dimension.borderwidth.narrow}",
         "type": "borderWidth"
       }
     },
     "shape-borderwidth-state-loading": {
       "borderwidth": {
-        "value": "{dimension.borderwidth.1}",
+        "value": "{dimension.borderwidth.narrow}",
         "type": "borderWidth"
       }
     },
     "shape-borderwidth-state-disable": {
       "borderwidth": {
-        "value": "{dimension.borderwidth.1}",
+        "value": "{dimension.borderwidth.narrow}",
         "type": "borderWidth"
       }
     },
@@ -4680,7 +4680,7 @@
     },
     "shape-borderwidth-state-default": {
       "borderwidth": {
-        "value": "{dimension.borderwidth.1}",
+        "value": "{dimension.borderwidth.narrow}",
         "type": "borderWidth"
       }
     },
@@ -4794,25 +4794,25 @@
     },
     "shape-borderwidth-hover": {
       "borderwidth": {
-        "value": "{dimension.borderwidth.1}",
+        "value": "{dimension.borderwidth.narrow}",
         "type": "borderWidth"
       }
     },
     "shape-borderwidth-active": {
       "borderwidth": {
-        "value": "{dimension.borderwidth.2}",
+        "value": "{dimension.borderwidth.base}",
         "type": "borderWidth"
       }
     },
     "shape-borderwidth-error": {
       "borderwidth": {
-        "value": "{dimension.borderwidth.1}",
+        "value": "{dimension.borderwidth.narrow}",
         "type": "borderWidth"
       }
     },
     "shape-borderwidth-disable": {
       "borderwidth": {
-        "value": "{dimension.borderwidth.1}",
+        "value": "{dimension.borderwidth.narrow}",
         "type": "borderWidth"
       }
     },
@@ -5198,13 +5198,13 @@
     },
     "shape-borderwidth-state-default": {
       "borderwidth": {
-        "value": "{dimension.borderwidth.0}",
+        "value": "{dimension.borderwidth.none}",
         "type": "borderWidth"
       }
     },
     "shape-borderwidth-state-disable": {
       "borderwidth": {
-        "value": "{dimension.borderwidth.0}",
+        "value": "{dimension.borderwidth.none}",
         "type": "borderWidth"
       }
     },
@@ -5274,7 +5274,7 @@
     },
     "shape-borderwidth-state-default": {
       "borderwidth": {
-        "value": "{dimension.borderwidth.0}",
+        "value": "{dimension.borderwidth.none}",
         "type": "borderWidth"
       }
     },
@@ -5286,7 +5286,7 @@
     },
     "shape-borderwidth-state-loaded": {
       "borderwidth": {
-        "value": "{dimension.borderwidth.0}",
+        "value": "{dimension.borderwidth.none}",
         "type": "borderWidth"
       }
     },
@@ -5422,13 +5422,13 @@
     },
     "shape-borderwidth-state-default": {
       "borderwidth": {
-        "value": "{dimension.borderwidth.0}",
+        "value": "{dimension.borderwidth.none}",
         "type": "borderWidth"
       }
     },
     "shape-borderwidth-state-hover": {
       "borderwidth": {
-        "value": "{dimension.borderwidth.0}",
+        "value": "{dimension.borderwidth.none}",
         "type": "borderWidth"
       }
     },
@@ -5484,7 +5484,7 @@
     },
     "shape-borderwidth-state-default": {
       "borderwidth": {
-        "value": "{dimension.borderwidth.0}",
+        "value": "{dimension.borderwidth.none}",
         "type": "borderWidth"
       }
     },
@@ -5534,7 +5534,7 @@
     },
     "shape-borderwidth-state-default": {
       "borderwidth": {
-        "value": "{dimension.borderwidth.4}",
+        "value": "{dimension.borderwidth.wide}",
         "type": "borderWidth"
       }
     }
@@ -5570,7 +5570,7 @@
     },
     "shape-borderwidth-state-default": {
       "borderwidth": {
-        "value": "{dimension.borderwidth.0}",
+        "value": "{dimension.borderwidth.none}",
         "type": "borderWidth"
       }
     },
