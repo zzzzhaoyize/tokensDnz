@@ -3002,6 +3002,18 @@
           "dark135white": {
             "value": "linear-gradient({dimension.basic.deg.135}, {color.basic.opacity.black.4} {dimension.basic.percent.0}, {color.basic.opacity.white.100} {dimension.basic.percent.100})",
             "type": "color"
+          },
+          "dark180white": {
+            "value": "linear-gradient({dimension.basic.deg.180}, {color.basic.opacity.black.4} {dimension.basic.percent.0}, {color.basic.opacity.white.100} {dimension.basic.percent.100})",
+            "type": "color"
+          },
+          "dark135black": {
+            "value": "linear-gradient({dimension.basic.deg.135}, {color.basic.opacity.black.4} {dimension.basic.percent.0}, {color.basic.opacity.black.100} {dimension.basic.percent.100})",
+            "type": "color"
+          },
+          "dark180black": {
+            "value": "linear-gradient({dimension.basic.deg.135}, {color.basic.opacity.black.4} {dimension.basic.percent.0}, {color.basic.opacity.black.100} {dimension.basic.percent.100})",
+            "type": "color"
           }
         }
       }
