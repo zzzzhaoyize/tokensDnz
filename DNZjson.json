@@ -3405,79 +3405,79 @@
       },
       "onprimary": {
         "black76": {
-          "value": "#000000c2",
+          "value": "{color.basic.opacity.black.76}",
           "type": "color"
         },
         "black88": {
-          "value": "#000000e0",
+          "value": "{color.basic.opacity.black.88}",
           "type": "color"
         },
         "black100": {
-          "value": "#000000",
+          "value": "{color.basic.opacity.black.100}",
           "type": "color"
         },
         "white76": {
-          "value": "#ffffffc2",
+          "value": "{color.basic.opacity.white.76}",
           "type": "color"
         },
         "white88": {
-          "value": "#ffffffe0",
+          "value": "{color.basic.opacity.white.88}",
           "type": "color"
         },
         "white100": {
-          "value": "#ffffff",
+          "value": "{color.basic.opacity.white.100}",
           "type": "color"
         }
       },
       "onsecondary": {
         "black76": {
-          "value": "#000000c2",
+          "value": "{color.basic.opacity.black.76}",
           "type": "color"
         },
         "black88": {
-          "value": "#000000e0",
+          "value": "{color.basic.opacity.black.88}",
           "type": "color"
         },
         "black100": {
-          "value": "#000000",
+          "value": "{color.basic.opacity.black.100}",
           "type": "color"
         },
         "white76": {
-          "value": "#ffffffc2",
+          "value": "{color.basic.opacity.white.76}",
           "type": "color"
         },
         "white88": {
-          "value": "#ffffffe0",
+          "value": "{color.basic.opacity.white.88}",
           "type": "color"
         },
         "white100": {
-          "value": "#ffffff",
+          "value": "{color.basic.opacity.white.100}",
           "type": "color"
         }
       },
       "ontertiary": {
         "black76": {
-          "value": "#000000c2",
+          "value": "{color.basic.opacity.black.76}",
           "type": "color"
         },
         "black88": {
-          "value": "#000000e0",
+          "value": "{color.basic.opacity.black.88}",
           "type": "color"
         },
         "black100": {
-          "value": "#000000",
+          "value": "{color.basic.opacity.black.100}",
           "type": "color"
         },
         "white76": {
-          "value": "#ffffffc2",
+          "value": "{color.basic.opacity.white.76}",
           "type": "color"
         },
         "white88": {
-          "value": "#ffffffe0",
+          "value": "{color.basic.opacity.white.88}",
           "type": "color"
         },
         "white100": {
-          "value": "#ffffff",
+          "value": "{color.basic.opacity.white.100}",
           "type": "color"
         }
       },
