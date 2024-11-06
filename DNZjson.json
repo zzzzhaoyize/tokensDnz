@@ -3951,52 +3951,12 @@
           }
         },
         "float": {
-          "10": {
-            "value": "10%",
-            "type": "other"
-          },
-          "20": {
-            "value": "20%",
-            "type": "other"
-          },
-          "30": {
-            "value": "30%",
-            "type": "other"
-          },
-          "40": {
-            "value": "40%",
-            "type": "other"
-          },
-          "50": {
-            "value": "50%",
-            "type": "other"
-          },
-          "60": {
-            "value": "60%",
-            "type": "other"
-          },
-          "70": {
-            "value": "70%",
-            "type": "other"
-          },
-          "80": {
-            "value": "80%",
-            "type": "other"
-          },
-          "90": {
-            "value": "90%",
-            "type": "other"
-          },
-          "100": {
-            "value": "100%",
+          "scale0": {
+            "value": "0",
             "type": "other"
           },
           "scale75": {
             "value": "0.75",
-            "type": "other"
-          },
-          "scale0": {
-            "value": "0",
             "type": "other"
           }
         },
@@ -4015,6 +3975,48 @@
           },
           "600": {
             "value": "600",
+            "type": "other"
+          }
+        },
+        "time": {
+          "0": {
+            "value": "0ms",
+            "type": "other"
+          },
+          "60": {
+            "value": "60ms",
+            "type": "other"
+          },
+          "90": {
+            "value": "90ms",
+            "type": "other"
+          },
+          "120": {
+            "value": "120ms",
+            "type": "other"
+          },
+          "160": {
+            "value": "160ms",
+            "type": "other"
+          },
+          "180": {
+            "value": "180ms",
+            "type": "other"
+          },
+          "600": {
+            "value": "600ms",
+            "type": "other"
+          },
+          "1000": {
+            "value": "1000ms",
+            "type": "other"
+          },
+          "1200": {
+            "value": "1200ms",
+            "type": "other"
+          },
+          "1800": {
+            "value": "1800ms",
             "type": "other"
           }
         }
@@ -4483,69 +4485,69 @@
       },
       "duration": {
         "slowest": {
-          "value": "1800ms",
+          "value": "{dimension.basic.time.1800}",
           "type": "other"
         },
         "slower": {
-          "value": "1200ms",
+          "value": "{dimension.basic.time.1200}",
           "type": "other"
         },
         "slow": {
-          "value": "1000",
+          "value": "{dimension.basic.time.1000}",
           "type": "other"
         },
         "normal": {
-          "value": "600ms",
+          "value": "{dimension.basic.time.600}",
           "type": "other"
         },
         "fast": {
-          "value": "180ms",
+          "value": "{dimension.basic.time.180}",
           "type": "other"
         },
         "faster": {
-          "value": "120ms",
+          "value": "{dimension.basic.time.120}",
           "type": "other"
         },
         "fastest": {
-          "value": "90ms",
+          "value": "{dimension.basic.time.90}",
           "type": "other"
         },
         "none": {
-          "value": "0ms",
+          "value": "{dimension.basic.time.0}",
           "type": "other"
         }
       },
       "delay": {
         "slowest": {
-          "value": "1800ms",
+          "value": "{dimension.basic.time.1800}",
           "type": "other"
         },
         "slower": {
-          "value": "1200ms",
+          "value": "{dimension.basic.time.1200}",
           "type": "other"
         },
         "slow": {
-          "value": "1000",
+          "value": "{dimension.basic.time.1000}",
           "type": "other"
         },
         "normal": {
-          "value": "600ms",
+          "value": "{dimension.basic.time.600}",
           "type": "other"
         },
         "fast": {
-          "value": "180ms",
+          "value": "{dimension.basic.time.180}",
           "type": "other"
         },
         "faster": {
-          "value": "120ms",
+          "value": "{dimension.basic.time.120}",
           "type": "other"
         },
         "fastest": {
-          "value": "90ms",
+          "value": "{dimension.basic.time.90}",
           "type": "other"
         },
         "none": {
-          "value": "0ms",
+          "value": "{dimension.basic.time.0}",
           "type": "other"
         }
       }
