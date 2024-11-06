@@ -3522,6 +3522,174 @@
           "value": "{color.basic.green.9}",
           "type": "color"
         }
+      },
+      "warning": {
+        "orange0": {
+          "value": "{color.basic.orange.0}",
+          "type": "color"
+        },
+        "orange1": {
+          "value": "{color.basic.orange.1}",
+          "type": "color"
+        },
+        "orange2": {
+          "value": "{color.basic.orange.2}",
+          "type": "color"
+        },
+        "orange3": {
+          "value": "{color.basic.orange.3}",
+          "type": "color"
+        },
+        "orange4": {
+          "value": "{color.basic.orange.4}",
+          "type": "color"
+        },
+        "orange5": {
+          "value": "{color.basic.orange.5}",
+          "type": "color"
+        },
+        "orange6": {
+          "value": "{color.basic.orange.6}",
+          "type": "color"
+        },
+        "orange7": {
+          "value": "{color.basic.orange.7}",
+          "type": "color"
+        },
+        "orange8": {
+          "value": "{color.basic.orange.8}",
+          "type": "color"
+        },
+        "orange9": {
+          "value": "{color.basic.orange.9}",
+          "type": "color"
+        }
+      },
+      "error": {
+        "red0": {
+          "value": "{color.basic.red.0}",
+          "type": "color"
+        },
+        "red1": {
+          "value": "{color.basic.red.1}",
+          "type": "color"
+        },
+        "red2": {
+          "value": "{color.basic.red.2}",
+          "type": "color"
+        },
+        "red3": {
+          "value": "{color.basic.red.3}",
+          "type": "color"
+        },
+        "red4": {
+          "value": "{color.basic.red.4}",
+          "type": "color"
+        },
+        "red5": {
+          "value": "{color.basic.red.5}",
+          "type": "color"
+        },
+        "red6": {
+          "value": "{color.basic.red.6}",
+          "type": "color"
+        },
+        "red7": {
+          "value": "{color.basic.red.7}",
+          "type": "color"
+        },
+        "red8": {
+          "value": "{color.basic.red.8}",
+          "type": "color"
+        },
+        "red9": {
+          "value": "{color.basic.red.9}",
+          "type": "color"
+        }
+      },
+      "link": {
+        "lightblue0": {
+          "value": "{color.basic.light-blue.0}",
+          "type": "color"
+        },
+        "lightblue1": {
+          "value": "{color.basic.light-blue.1}",
+          "type": "color"
+        },
+        "lightblue2": {
+          "value": "{color.basic.light-blue.2}",
+          "type": "color"
+        },
+        "lightblue3": {
+          "value": "{color.basic.light-blue.3}",
+          "type": "color"
+        },
+        "lightblue4": {
+          "value": "{color.basic.light-blue.4}",
+          "type": "color"
+        },
+        "lightblue5": {
+          "value": "{color.basic.light-blue.5}",
+          "type": "color"
+        },
+        "lightblue6": {
+          "value": "{color.basic.light-blue.6}",
+          "type": "color"
+        },
+        "lightblue7": {
+          "value": "{color.basic.light-blue.7}",
+          "type": "color"
+        },
+        "lightblue8": {
+          "value": "{color.basic.light-blue.8}",
+          "type": "color"
+        },
+        "lightblue9": {
+          "value": "{color.basic.light-blue.9}",
+          "type": "color"
+        }
+      },
+      "disable": {
+        "grey0": {
+          "value": "{color.basic.grey.0}",
+          "type": "color"
+        },
+        "grey1": {
+          "value": "{color.basic.grey.1}",
+          "type": "color"
+        },
+        "grey2": {
+          "value": "{color.basic.grey.2}",
+          "type": "color"
+        },
+        "grey3": {
+          "value": "{color.basic.grey.3}",
+          "type": "color"
+        },
+        "grey4": {
+          "value": "{color.basic.grey.4}",
+          "type": "color"
+        },
+        "grey5": {
+          "value": "{color.basic.grey.5}",
+          "type": "color"
+        },
+        "grey6": {
+          "value": "{color.basic.grey.6}",
+          "type": "color"
+        },
+        "grey7": {
+          "value": "{color.basic.grey.7}",
+          "type": "color"
+        },
+        "grey8": {
+          "value": "{color.basic.grey.8}",
+          "type": "color"
+        },
+        "grey9": {
+          "value": "{color.basic.grey.9}",
+          "type": "color"
+        }
       }
     },
     "dimension": {
