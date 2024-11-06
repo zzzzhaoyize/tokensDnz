@@ -3682,6 +3682,48 @@
           "value": "{color.basic.grey.9}",
           "type": "color"
         }
+      },
+      "border": {
+        "white7": {
+          "value": "{color.basic.opacity.white.7}",
+          "type": "color"
+        },
+        "white12": {
+          "value": "{color.basic.opacity.white.12}",
+          "type": "color"
+        },
+        "white16": {
+          "value": "{color.basic.opacity.white.16}",
+          "type": "color"
+        },
+        "white20": {
+          "value": "{color.basic.opacity.white.20}",
+          "type": "color"
+        },
+        "white24": {
+          "value": "{color.basic.opacity.white.24}",
+          "type": "color"
+        },
+        "black7": {
+          "value": "{color.basic.opacity.black.7}",
+          "type": "color"
+        },
+        "black12": {
+          "value": "{color.basic.opacity.black.12}",
+          "type": "color"
+        },
+        "black16": {
+          "value": "{color.basic.opacity.black.16}",
+          "type": "color"
+        },
+        "black20": {
+          "value": "{color.basic.opacity.black.20}",
+          "type": "color"
+        },
+        "black24": {
+          "value": "{color.basic.opacity.black.24}",
+          "type": "color"
+        }
       }
     },
     "dimension": {
@@ -3715,6 +3757,10 @@
             "value": "12px",
             "type": "other"
           },
+          "14": {
+            "value": "14px",
+            "type": "other"
+          },
           "16": {
             "value": "16px",
             "type": "other"
@@ -3739,6 +3785,10 @@
             "value": "32px",
             "type": "other"
           },
+          "36": {
+            "value": "36px",
+            "type": "other"
+          },
           "40": {
             "value": "40px",
             "type": "other"
@@ -3747,8 +3797,16 @@
             "value": "48px",
             "type": "other"
           },
+          "52": {
+            "value": "52px",
+            "type": "other"
+          },
           "56": {
             "value": "56px",
+            "type": "other"
+          },
+          "60": {
+            "value": "60px",
             "type": "other"
           },
           "64": {
@@ -3939,6 +3997,24 @@
           },
           "scale0": {
             "value": "0",
+            "type": "other"
+          }
+        },
+        "weight": {
+          "100": {
+            "value": "100",
+            "type": "other"
+          },
+          "200": {
+            "value": "200",
+            "type": "other"
+          },
+          "400": {
+            "value": "400",
+            "type": "other"
+          },
+          "600": {
+            "value": "600",
             "type": "other"
           }
         }
@@ -4543,32 +4619,62 @@
           "type": "fontSizes"
         },
         "tiny": {
-          "value": "14*0.75",
+          "value": "{dimension.basic.dimension.12}",
           "type": "fontSizes"
         },
         "small": {
-          "value": "14*0.875",
+          "value": "{dimension.basic.dimension.14}",
           "type": "fontSizes"
         },
         "medium": {
-          "value": "14*1",
+          "value": "{dimension.basic.dimension.16}",
           "type": "fontSizes"
         },
         "large": {
-          "value": "{font.size.basic}*{dimension.basic.float.scale75}",
+          "value": "{dimension.basic.dimension.20}",
           "type": "fontSizes"
         },
         "xl": {
-          "value": "14*1.5",
+          "value": "{dimension.basic.dimension.26}",
           "type": "fontSizes"
         },
         "xxl": {
-          "value": "14*2",
+          "value": "{dimension.basic.dimension.36}",
           "type": "fontSizes"
         },
         "xxxl": {
-          "value": "14*3",
+          "value": "{dimension.basic.dimension.52}",
           "type": "fontSizes"
+        }
+      },
+      "lineheight": {
+        "base": {
+          "value": "{dimension.basic.percent.140}",
+          "type": "lineHeights"
+        }
+      },
+      "letterspacing": {
+        "base": {
+          "value": "{dimension.basic.float.scale0}",
+          "type": "letterSpacing"
+        }
+      },
+      "fontweight": {
+        "light": {
+          "value": "{dimension.basic.weight.100}",
+          "type": "fontWeights"
+        },
+        "medium": {
+          "value": "{dimension.basic.weight.200}",
+          "type": "fontWeights"
+        },
+        "semibold": {
+          "value": "{dimension.basic.weight.400}",
+          "type": "fontWeights"
+        },
+        "bold": {
+          "value": "{dimension.basic.weight.600}",
+          "type": "fontWeights"
         }
       }
     }
