@@ -4350,7 +4350,7 @@
         }
       }
     },
-    "elevation": {
+    "material": {
       "hierarchy": {
         "B1": {
           "value": {
