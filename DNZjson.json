@@ -2301,6 +2301,24 @@
         "value": "{dimension.padding.8-16}",
         "type": "spacing"
       }
+    },
+    "borderwidth": {
+      "0": {
+        "value": "{dimension.borderwidth.0}",
+        "type": "borderWidth"
+      },
+      "1": {
+        "value": "{dimension.borderwidth.1}",
+        "type": "borderWidth"
+      },
+      "2": {
+        "value": "{dimension.borderwidth.2}",
+        "type": "borderWidth"
+      },
+      "4": {
+        "value": "{dimension.borderwidth.4}",
+        "type": "borderWidth"
+      }
     }
   },
   "basic2.0": {
