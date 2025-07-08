@@ -1,43 +1,43 @@
 {
   "basic": {
     "0": {
-      "value": "{dimension.basic.dimension.0}",
+      "value": "{dimension.borderradius.0}",
       "type": "borderRadius"
     },
     "4": {
-      "value": "{dimension.basic.dimension.4}",
+      "value": "{dimension.borderradius.4}",
       "type": "borderRadius"
     },
     "8": {
-      "value": "{dimension.basic.dimension.8}",
+      "value": "{dimension.borderradius.8}",
       "type": "borderRadius"
     },
     "12": {
-      "value": "{dimension.basic.dimension.12}",
+      "value": "{dimension.borderradius.12}",
       "type": "borderRadius"
     },
     "16": {
-      "value": "{dimension.basic.dimension.16}",
+      "value": "{dimension.borderradius.16}",
       "type": "borderRadius"
     },
     "20": {
-      "value": "{dimension.basic.dimension.20}",
+      "value": "{dimension.borderradius.20}",
       "type": "borderRadius"
     },
     "24": {
-      "value": "{dimension.basic.dimension.24}",
+      "value": "{dimension.borderradius.24}",
       "type": "borderRadius"
     },
     "28": {
-      "value": "{dimension.basic.dimension.28}",
+      "value": "{dimension.borderradius.28}",
       "type": "borderRadius"
     },
     "32": {
-      "value": "{dimension.basic.dimension.32}",
+      "value": "{dimension.borderradius.32}",
       "type": "borderRadius"
     },
     "100": {
-      "value": "{dimension.basic.dimension.200}",
+      "value": "{dimension.borderradius.200}",
       "type": "borderRadius"
     },
     "color": {
